@@ -8,7 +8,9 @@ const colors = {
   error: "#f44336",
   success: "#4caf50",
   alert: "#ffeb3b",
-  blue: "#2196f3",
+//   blue: "#2196f3",
+  blue: "#0172CE",
+  dark: "#212121",
 
   // You should keep only colors that you're using
 //   red: "#f44336",

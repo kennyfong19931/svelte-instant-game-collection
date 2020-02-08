@@ -13,7 +13,8 @@
     "cy:open": "cypress open",
     "test": "run-p --race dev cy:run",
     "now": "yarn build && now",
-    "now-build": "sapper build --export"
+    "now-build": "sapper build --export",
+    "update-api": "node src/updateData.js"
   },
   "pre-commit": [
     "lint"
@@ -21,9 +22,12 @@
   "browserslist": "last 3 version",
   "dependencies": {
     "compression": "^1.7.1",
+    "dayjs": "^1.8.19",
     "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
     "sirv": "^0.4.0",
-    "smelte": "^0.2.4"
+    "smelte": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",

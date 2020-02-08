@@ -1,20 +1,36 @@
-<script>
-  import Image from "components/Image";
-  import Button from "components/Button";
-  import Checkbox from "components/Checkbox";
-  import Slider from "components/Slider";
+<script context="module">
+  export async function preload({ params, query }) {
+    const yearList = await this.fetch(`api/hk/list.json`);
+    const yearListJson = await yearList.json();
+    if (yearList.status === 200 && yearListJson.code === "1000") {
+		let items = [];
+		yearListJson.data.forEach(item => {
+			items.push({ value: item, text: item + "年" });
+		});
+      	return { items };
+    } else {
+      	this.error(yearList.status, yearListJson.code + " - " + yearListJson.message);
+    }
+  }
 </script>
 
-<h1>Great success!</h1>
+<script>
+  import { Select } from "smelte";
+  import { goto } from '@sapper/app';
+
+  export let items = [];
+  const label = "年份";
+  
+  function onSelect(value) {
+	goto('ps/hk/'+value);
+  }
+</script>
+
+
+<h4>PlayStation®Plus 免費遊戲</h4>
 
 <div class="container max-w-xl items-center flex flex-col">
-  <Image alt="Borat" src="great-success.png" />
-  <h4 class="my-8">HIGH FIVE!</h4>
-  <div class="my-4">
-    Try editing this file (src/routes/index.svelte) to test live reloading.
-  </div>
-
-  <Button>I'm a button</Button>
-  <Checkbox label="I'm a checkbox" />
-  <Slider label="Me be slider" />
+  <a href="/ps/hk/2020">HK 2020</a>
 </div>
+
+<Select {label} {items} on:change={v => onSelect(v.detail)} />
