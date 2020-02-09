@@ -4,18 +4,37 @@ on:
     branches:
       - master
 jobs:
-  build-and-deploy:
+  update-build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@master
     
-    - name: Build
+    - name: Install dependency
       run: |
         npm install
+    
+    - name: Update JSON
+      run: |
+        npm run update-api
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update by Github Action" -a
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ACCESS_TOKEN }}
+        tags: true 
+    
+    - name: Build
+      run: |
         npm run export
     
-    - name: Build and Deploy
+    - name: Deploy to Github Pages
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
