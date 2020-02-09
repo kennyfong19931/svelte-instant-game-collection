@@ -20,4 +20,4 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: __sapper__/export
+        FOLDER: __sapper__/export/svelte-instant-game-collection
