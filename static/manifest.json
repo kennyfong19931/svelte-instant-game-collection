@@ -1,8 +1,8 @@
 {
-	"background_color": "#ffffff",
-	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"background_color": "#212121",
+	"theme_color": "#003791",
+	"name": "PlayStation®Plus 免費遊戲",
+	"short_name": "PS+免費遊戲",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [

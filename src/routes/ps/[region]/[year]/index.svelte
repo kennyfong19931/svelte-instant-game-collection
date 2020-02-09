@@ -44,6 +44,10 @@
 
 </script>
 
+<svelte:head>
+  <title>PlayStation®Plus 免費遊戲 {year}年</title>
+</svelte:head>
+
 <h4>
   PlayStation®Plus 免費遊戲 <span class="uppercase">{region}</span> {year}年
 </h4>

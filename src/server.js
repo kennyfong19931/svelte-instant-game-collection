@@ -10,6 +10,7 @@ const dev = NODE_ENV === "development";
 
 const app = express() // You can also use Express
   .use(
+	'/svelte-instant-game-collection',
     compression({ threshold: 0 }),
     sirv("static", { dev }),
     sapper.middleware()

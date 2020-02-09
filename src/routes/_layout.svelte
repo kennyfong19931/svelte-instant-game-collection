@@ -35,7 +35,7 @@
 
 <AppBar>
   <a href="." class="px-2 md:px-8 flex items-center">
-    <img src="/logo.png" alt="logo" width="44" />
+    <img src="logo.png" alt="logo" width="44" />
     <h6 class="pl-3 text-white tracking-widest font-thin text-lg">
       PlayStation®Plus 免費遊戲
     </h6>
