@@ -86,20 +86,38 @@
             "PS4"
         ],
         "brand": "Milestone S.r.l."
-	},
-	{
-		"code": "JP0106-CUSA03972_00-ASIAPLACEHOLDER0",
-		"startTime": "2019-11-06",
-		"endTime": "2019-12-03"
-	},
-	{
-		"code": "UP2113-CUSA06623_00-ASIA000000000000",
-		"startTime": "2019-11-06",
-		"endTime": "2019-12-03"
-	},
-	{
-		"code": "UP3800-CUSA08639_00-ASIA000000REDOUT",
-		"startTime": "2019-11-06",
-		"endTime": "2019-12-03"
-	}
+    },
+    {
+        "code": "JP0106-CUSA03972_00-ASIAPLACEHOLDER0",
+        "startTime": "2019-11-06",
+        "endTime": "2019-12-03",
+        "title": "「仁王」（一般版）",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0106-CUSA03972_00-ASIAPLACEHOLDER0/1575443298000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "UP2113-CUSA06623_00-ASIA000000000000",
+        "startTime": "2019-11-06",
+        "endTime": "2019-12-03",
+        "title": "Outlast 2 (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2113-CUSA06623_00-ASIA000000000000/1580778553000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Red Barrels"
+    },
+    {
+        "code": "UP3800-CUSA08639_00-ASIA000000REDOUT",
+        "startTime": "2019-11-06",
+        "endTime": "2019-12-03",
+        "title": "Redout: Lightspeed Edition (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP3800-CUSA08639_00-ASIA000000REDOUT/1580781732000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
+    }
 ]
