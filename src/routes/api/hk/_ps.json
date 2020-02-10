@@ -86,5 +86,20 @@
             "PS4"
         ],
         "brand": "Milestone S.r.l."
-    }
+	},
+	{
+		"code": "JP0106-CUSA03972_00-ASIAPLACEHOLDER0",
+		"startTime": "2019-11-06",
+		"endTime": "2019-12-03"
+	},
+	{
+		"code": "UP2113-CUSA06623_00-ASIA000000000000",
+		"startTime": "2019-11-06",
+		"endTime": "2019-12-03"
+	},
+	{
+		"code": "UP3800-CUSA08639_00-ASIA000000REDOUT",
+		"startTime": "2019-11-06",
+		"endTime": "2019-12-03"
+	}
 ]
