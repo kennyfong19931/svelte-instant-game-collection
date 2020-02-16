@@ -21,6 +21,7 @@ jobs:
     - name: Commit and Push changes
       uses: stefanzweifel/git-auto-commit-action@v3.0.0
       with:
+        branch: master
         commit_message: Update API data
       env:
         GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
