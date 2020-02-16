@@ -1,0 +1,1 @@
+import{S as s,i as t,s as n}from"./client.87cb5934.js";async function o({params:s},t){console.log("PS"+JSON.stringify(s))}export default class extends s{constructor(s){super(),t(this,s,null,null,n,{})}}export{o as preload};
