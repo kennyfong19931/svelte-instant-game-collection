@@ -63,7 +63,8 @@ const postcssPlugins = (purge = false) => {
           /namespace/,
           /token/,
           // These are from button examples, infer required classes.
-          /(bg|ripple|text|border)-(red|teal|yellow|lime|primary)-(400|500|200|50)$/
+          /(bg|ripple|text|border)-(red|teal|yellow|lime|primary)-(400|500|200|50)$/,
+          /elevation/
         ]
       })
   ].filter(Boolean);

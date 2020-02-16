@@ -37,7 +37,9 @@ export function get(req, res, next) {
 		res.end(JSON.stringify({
             code: '1000',
             message: 'Success',
-            data: gamelist.get(year)
+            data: gamelist.get(year).sort(function (a, b) {
+				return a.startTime < b.startTime ? 1 : -1;
+			})
 		}));
 	} else {
 		res.writeHead(404, {
