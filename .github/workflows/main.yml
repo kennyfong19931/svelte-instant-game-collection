@@ -19,12 +19,9 @@ jobs:
         npm run update-api
 
     - name: Commit and Push changes
-      uses: github-actions-x/commit@v2.4
+      uses: stefanzweifel/git-auto-commit-action@v3
       with:
-        github-token: ${{ secrets.ACCESS_TOKEN }}
-        email: action@github.com
-        name: GitHub Action
-        commit-message: Update by Github Action
+        commit_message: Update by Github Action
     
     - name: Build
       run: |
