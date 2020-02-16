@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@v2
     
     - name: Install dependency
       run: |
@@ -18,24 +18,17 @@ jobs:
       run: |
         npm run update-api
     
-    - name: Commit changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Update by Github Action" -a
-    
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Commit and Push changes
+      uses: stefanzweifel/git-auto-commit-action@v3.0.0
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
-        tags: true 
+        commit_message: Update by Github Action
     
     - name: Build
       run: |
         npm run export
     
     - name: Deploy to Github Pages
-      uses: JamesIves/github-pages-deploy-action@master
+      uses: JamesIves/github-pages-deploy-action@releases/v3
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
