@@ -162,7 +162,7 @@
         "platforms": [
             "PS3"
         ],
-        "brand": "KONAMI"
+        "brand": "Konami Digital Entertainment Ltd."
     },
     {
         "code": "EP0001-CUSA05264_00-ASIA000000000000",
@@ -202,7 +202,7 @@
         "startTime": "2019-02-07",
         "endTime": "2019-03-06",
         "title": "天天，把玩控制器。",
-        "image": "http://gs2-sec.ww.prod.dl.playstation.net/gs2-sec/appkgo/prod/CUSA14483_00/2/i_c9d0e593e6a4e1f83b7ca6d9739cce805abf26aed7c819289cfd2ce3e89659b8/i/icon0_10.png",
+        "image": "https://gs2-sec.ww.prod.dl.playstation.net/gs2-sec/appkgo/prod/CUSA14483_00/2/i_c9d0e593e6a4e1f83b7ca6d9739cce805abf26aed7c819289cfd2ce3e89659b8/i/icon0_10.png",
         "platforms": [
             "PS4"
         ],
