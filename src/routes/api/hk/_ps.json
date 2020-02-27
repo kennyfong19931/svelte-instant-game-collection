@@ -1,8 +1,18 @@
 [
     {
+        "code": "HP9000-CUSA08804_00-SOTC0000000000AS",
+        "startTime": "2020-03-03",
+        "endTime": "2020-04-06"
+    },
+    {
+        "code": "HP0177-CUSA08984_00-ASIAPLACEHOLDER0",
+        "startTime": "2020-03-03",
+        "endTime": "2020-04-06"
+    },
+    {
         "code": "UP0006-CUSA09209_00-ASIAPLACEHOLDER0",
         "startTime": "2020-02-05",
-        "endTime": "2020-03-04",
+        "endTime": "2020-03-02",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-CUSA09209_00-ASIAPLACEHOLDER0/1581037881000/image?w=240&h=240",
         "title": "The Sims™ 4 (中英文版)",
         "platforms": [
@@ -13,7 +23,7 @@
     {
         "code": "HP9000-CUSA12170_00-ASIAFIREWALL0000",
         "startTime": "2020-02-05",
-        "endTime": "2020-03-04",
+        "endTime": "2020-03-02",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA12170_00-ASIAFIREWALL0000/1581036705000/image?w=240&h=240",
         "title": "Firewall Zero Hour (中英韓文版)",
         "platforms": [
@@ -24,7 +34,7 @@
     {
         "code": "UP1001-CUSA03979_00-ASIAPLACEHOLDER0",
         "startTime": "2020-02-05",
-        "endTime": "2020-03-04",
+        "endTime": "2020-03-02",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1001-CUSA03979_00-ASIAPLACEHOLDER0/1581037806000/image?w=240&h=240",
         "title": "生化奇兵合集 (英文版)",
         "platforms": [
