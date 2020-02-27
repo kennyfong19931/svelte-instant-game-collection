@@ -58,7 +58,7 @@
 
 <div class="flex justify-center flex-wrap">
 	{#each data as game}
-	<Card.Card class="m-5 w-1/5">
+	<Card.Card class="m-5 w-full md:w-1/3 lg:w-1/5">
 		<div slot="title">
 			<Card.Title title={game.title} subheader={game.brand} />
 		</div>

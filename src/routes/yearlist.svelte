@@ -11,23 +11,17 @@
 </script>
 
 <script>
-  import { Select } from "smelte";
-  import { goto } from '@sapper/app';
   export let items = [];
-
-  const label = "年份";
-  
-  function onSelect(value) {
-	  goto('ps/hk/'+value);
-  }
 </script>
 
 <svelte:head>
   <title>PlayStation®Plus 免費遊戲</title>
 </svelte:head>
 
-<h4>
-  PlayStation®Plus 免費遊戲
-</h4>
-
-<Select {label} {items} on:change={v => onSelect(v.detail)} />
+{#each items as item}
+<a href="ps/hk/{item}">
+	<button class="py-2 px-4 uppercase text-sm font-medium relative overflow-hidden text-white transition  bg-primary-500  hover:bg-primary-400   hover:elevation-5 elevation-3  rounded  button ">
+		{item} 年
+	</button>
+</a>
+{/each}

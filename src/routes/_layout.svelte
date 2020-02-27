@@ -34,18 +34,19 @@
 {/if}
 
 <AppBar>
-  <a href="." class="px-2 md:px-8 flex items-center">
+  <a href="." class="px-2 md:px-8 py-2 flex items-center">
     <img src="logo.png" alt="logo" width="44" />
     <h6 class="pl-3 text-white tracking-widest font-thin text-lg">
       PlayStation®Plus 免費遊戲
     </h6>
   </a>
+  <a class="hidden" href="yearlist">yearlist</a>
   <Spacer />
   <Tabs navigation items={topMenu} bind:selected={path} />
 </AppBar>
 
 <main
-  class="container relative p-8 lg:max-w-6xl mx-auto mb-10 mt-24 md:max-w-md md:px-3"
+  class="container relative p-8 mx-auto mb-10 mt-24"
   transition:fade={{ duration: 300 }}>
   
   <slot />
