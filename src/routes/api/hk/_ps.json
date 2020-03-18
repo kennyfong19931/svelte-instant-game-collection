@@ -2,7 +2,13 @@
     {
         "code": "HP0102-CUSA09554_00-ASIAPLACEHOLDER0",
         "startTime": "2020-03-18",
-        "endTime": "2020-04-22"
+        "endTime": "2020-04-22",
+        "title": "MONSTER HUNTER: WORLD™ (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0102-CUSA09554_00-ASIAPLACEHOLDER0/1584510988000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CAPCOM CO., LTD."
     },
     {
         "code": "HP9000-CUSA08804_00-SOTC0000000000AS",
