@@ -2493,10 +2493,30 @@
     {"code":"UP2127-CUSA00708_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
     {"code":"UP2127-PCSE00461_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
     {"code":"UP2127-NPUB31532_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-PCSA00153_00-MURASAKIBABY0000","startTime":"2015-05-07","endTime":"2015-06-03"},
+    {
+        "code":"UP9000-PCSA00153_00-MURASAKIBABY0000",
+        "startTime":"2015-05-07",
+        "endTime":"2015-06-03",
+        "title": "Murasaki Baby™",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-PCSA00153_00-MURASAKIBABY0000/1583271119000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Sony Interactive Entertainment"
+    },
     {"code":"HP0101-CUSA03572_00-MAINGAME00000000","startTime":"2015-06-04","endTime":"2015-07-08"},
     {"code":"UP0943-CUSA02503_00-ASIARONEGAMEPS4E","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"UP0001-NPUB31079_00-PS3STORE_COJGUNS","startTime":"2015-06-04","endTime":"2015-07-08"},
+    {
+        "code":"UP0001-NPUB31079_00-PS3STORE_COJGUNS",
+        "startTime":"2015-06-04",
+        "endTime":"2015-07-08",
+        "title": "Call of Juarez: Gunslinger",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0001-NPUB31079_00-PS3STORE_COJGUNS/1583206928000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
     {"code":"EP0001-NPEB01312_00-ASIACLOUDBERRYKI","startTime":"2015-06-04","endTime":"2015-07-08"},
     {"code":"HP9000-PCSD00079_00-SOULSACDELTAAS00","startTime":"2015-06-04","endTime":"2015-07-08"},
     {"code":"UP4078-CUSA02738_00-ASIA000000000000","startTime":"2015-06-04","endTime":"2015-07-08"},
@@ -2504,7 +2524,17 @@
     {"code":"HP0036-CUSA01354_00-0000000000000000","startTime":"2015-07-09","endTime":"2015-07-15"},
     {"code":"JP0036-CUSA00848_00-ASIA000000000000","startTime":"2015-07-09","endTime":"2015-07-15"},
     {"code":"UP4133-CUSA01052_00-ASIASTYXMASTEROF","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"HP9000-CUSA00066_00-PLUSEXXDRIVECLUB","startTime":"2015-07-09","endTime":"2015-08-05"},
+    {
+        "code":"HP9000-CUSA00066_00-PLUSEXXDRIVECLUB",
+        "startTime":"2015-07-09",
+        "endTime":"2015-08-05",
+        "title": "DRIVECLUB™ PlayStation®Plus Edition 完整版升級 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP9000-CUSA00003_00-PREORDEDRIVECLUB/1583337362000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Sony Interactive Entertainment"
+    },
     {"code":"UP0036-NPUB30957_00-ASIAGGXXACP00001","startTime":"2015-07-09","endTime":"2015-08-05"},
     {"code":"JP0036-PCSH00038_00-GGXXACPR00000001","startTime":"2015-07-09","endTime":"2015-08-05"},
     {"code":"HP9000-NPHA80264_00-RAIN000000000001","startTime":"2015-07-09","endTime":"2015-08-05"},
@@ -2524,7 +2554,17 @@
     {"code":"HP9000-CUSA00175_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
     {"code":"HP9000-PCSD00027_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
     {"code":"HP9000-NPHA80210_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"UP9000-NPUA80079_00-TWISTEDMETAL0100","startTime":"2015-09-10","endTime":"2015-10-07"},
+    {
+        "code":"UP9000-NPUA80079_00-TWISTEDMETAL0100",
+        "startTime":"2015-09-10",
+        "endTime":"2015-10-07",
+        "title": "Twisted Metal®",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-NPUA80079_00-TWISTEDMETAL0100/1583258054000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Sony Interactive Entertainment"
+    },
     {"code":"UP0036-PCSE00518_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
     {"code":"EP4034-PCSB00694_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
     {"code":"UP1050-CUSA02439_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
@@ -2586,7 +2626,17 @@
     {"code":"HP9000-NPHA80260_00-GBEYONDTWO000001","startTime":"2016-03-03","endTime":"2016-04-06"},
     {"code":"HP9000-NPHA80044_00-PS3STORE_LASTGUY","startTime":"2016-03-03","endTime":"2016-04-06"},
     {"code":"EP0001-CUSA01910_00-ASIA000000000000","startTime":"2016-04-07","endTime":"2016-05-05"},
-    {"code":"UP1359-CUSA03138_00-DEADSTARGAME0000","startTime":"2016-04-07","endTime":"2016-05-05"},
+    {
+        "code":"UP1359-CUSA03138_00-DEADSTARGAME0000",
+        "startTime":"2016-04-07",
+        "endTime":"2016-05-05",
+        "title": "Dead Star",
+        "image": "img/Dead-Star.jpg",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Armature Studio"
+    },
     {"code":"HP9000-PCSD00017_00-REALFIGHTGAME_01","startTime":"2016-04-07","endTime":"2016-05-05"},
     {"code":"UP4132-PCSE00566_00-ASIA000000000000","startTime":"2016-04-07","endTime":"2016-05-05"},
     {"code":"EP0001-NPEB00476_00-ASIAIAMALIVEGAME","startTime":"2016-04-07","endTime":"2016-05-05"},
@@ -2633,7 +2683,17 @@
     {"code":"UP4321-CUSA00369_00-ASIAFULLGAME0000","startTime":"2016-10-06","endTime":"2016-11-03"},
     {"code":"JP0106-PCSG00279_00-ASIA00000000GAME","startTime":"2016-10-06","endTime":"2016-11-03"},
     {"code":"EP0001-ULES00223_00-ASIA000000000000","startTime":"2016-10-06","endTime":"2016-11-03"},
-    {"code":"EP0001-NPEB00886_00-MADUNLOCKFULLKEY","startTime":"2016-10-06","endTime":"2016-11-03"},
+    {
+        "code":"EP0001-NPEB00886_00-MADUNLOCKFULLKEY",
+        "startTime":"2016-10-06",
+        "endTime":"2016-11-03",
+        "title": "Mad Riders",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/999/EP0001-NPEB00886_00-MADUNLOCKFULLKEY/1583337468000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
     {"code":"UP0001-NPUB30913_00-ASIA000000000000","startTime":"2016-10-06","endTime":"2016-11-03"},
     {"code":"HP5035-CUSA02452_00-BBCPPS4000001000","startTime":"2016-11-04","endTime":"2016-12-07"},
     {"code":"HP5035-PCSH00161_00-0000000000000000","startTime":"2016-11-04","endTime":"2016-12-07"},
