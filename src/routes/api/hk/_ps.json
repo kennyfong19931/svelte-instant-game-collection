@@ -2,12 +2,24 @@
     {
         "code": "HP9000-CUSA00912_00-ASIAPLACEHOLDER0",
         "startTime": "2020-04-07",
-        "endTime": "2020-05-06"
+        "endTime": "2020-05-06",
+        "title": "UNCHARTED 4: A Thief's End™ PlayStation®Hits (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA00912_00-ASIAPLACEHOLDER0/1585297216000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
     },
     {
         "code": "EP4001-CUSA12747_00-ASIARALLY2EU0001",
         "startTime": "2020-04-07",
-        "endTime": "2020-05-06"
+        "endTime": "2020-05-06",
+        "title": "DIRT RALLY 2.0 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4001-CUSA12747_00-ASIARALLY2EU0001/1580691353000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Koch Media GmbH"
     },
     {
         "code": "HP0102-CUSA09554_00-ASIAPLACEHOLDER0",
@@ -2441,62 +2453,583 @@
         ],
         "brand": "Sanuk Games SARL"
     },
-    {"code":"HP9000-CUSA01064_00-FIRSTLIGHTSHIP00","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-CUSA00323_00-ASIA00000000GAME","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-PCSE00388_00-ASIA00000000GAME","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-NPUB31425_00-ASIA00000000GAME","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-CUSA00315_00-ASIASWAPPERGAME0","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-PCSE00387_00-ASIASWAPPERVITA0","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP4395-NPUB31424_00-ASIASWAPPER33333","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP0102-NPUB30991_00-ASIAOOTBHRUE0001","startTime":"2015-01-08","endTime":"2015-02-04"},
-    {"code":"UP2125-CUSA00502_00-ASIADLC02UTOPIA0","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"HP9000-CUSA00141_00-ESCPGAMEMASTERAS","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"HP9000-PCSD00016_00-ESCPGAMEMASTERAS","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP4488-CUSA00629_00-ASIAOGUELEGACY01","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP4488-PCSE00449_00-ASIAOGUELEGACY01","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP4488-NPUB31512_00-ASIAOGUELEGACY01","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP0102-NPUB31127_00-ASIADANDDFULLGAM","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP0002-NPUB30801_00-ASIA0000FULLGAME","startTime":"2015-02-05","endTime":"2015-03-04"},
-    {"code":"UP4134-CUSA00329_00-ASIA000000000000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP9000-CUSA00458_00-ASIAFULLGAME0000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP9000-PCSA00116_00-ASIAFULLGAME0000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP9000-NPUA80870_00-ASIAFULLGAME0000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"EP0001-CUSA00479_00-ASIAFULLGAME0000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP4034-NPUB31179_00-ASIADEADLYCUTGAM","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP3643-NPUB31378_00-ASIA000000000000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP3643-PCSE00339_00-ASIA000000000000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP4499-PCSE00485_00-ASIA000000000000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP2148-PCSE00519_00-ASIA000000000000","startTime":"2015-03-05","endTime":"2015-04-08"},
-    {"code":"UP4409-CUSA00793_00-ASIAOLLIOLLITWO2","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP4409-PCSE00479_00-ASIAOLLIOLLITWO2","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP4525-CUSA01237_00-ASIAOTHEONFORPS4","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP2159-CUSA01305_00-ASIANEVERALONEPS","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP4395-CUSA00656_00-ASIAMOUSECRAFTPS","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP4395-PCSE00420_00-ASIAMOUSECRAFTVI","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP4395-NPUB31514_00-ASIAMOUSECRAFTPS","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"EP4287-NPEB00555_00-ASIAHDD000000000","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP9000-PCSA00149_00-ASIA000000000000","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"HP9000-PCSD00071_00-KZV0000000000000","startTime":"2015-04-09","endTime":"2015-05-06"},
-    {"code":"UP9000-CUSA00695_00-ASIAFULLGAME0000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-PCSA00158_00-ASIAFULLGAME0000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-NPUA98202_00-ASIAPLUSEXCLUSIV","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2144-CUSA01162_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2144-NPUB31600_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP4151-CUSA01548_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP4151-NPUB31644_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2045-CUSA00151_00-ASIAGUACAMELEE00","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2103-CUSA00792_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2103-PCSE00507_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-CUSA00091_00-ASIAFULLGAME0000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-PCSA00123_00-ASIAFULLGAME0000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP9000-NPUA80783_00-ASIAFULLGAME0000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2127-CUSA00708_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2127-PCSE00461_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
-    {"code":"UP2127-NPUB31532_00-ASIA000000000000","startTime":"2015-05-07","endTime":"2015-06-03"},
     {
-        "code":"UP9000-PCSA00153_00-MURASAKIBABY0000",
-        "startTime":"2015-05-07",
-        "endTime":"2015-06-03",
+        "code": "HP9000-CUSA01064_00-FIRSTLIGHTSHIP00",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "inFAMOUS First Light™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA01064_00-FIRSTLIGHTSHIP00/1585797040000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4395-CUSA00323_00-ASIA00000000GAME",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "Titan Attacks! 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA00323_00-ASIA00000000GAME/1584499594000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00388_00-ASIA00000000GAME",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "Titan Attacks! 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00388_00-ASIA00000000GAME/1584499551000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31425_00-ASIA00000000GAME",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "Titan Attacks! 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31425_00-ASIA00000000GAME/1584499548000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-CUSA00315_00-ASIASWAPPERGAME0",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "The Swapper 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA00315_00-ASIASWAPPERGAME0/1584499517000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00387_00-ASIASWAPPERVITA0",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "The Swapper 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00387_00-ASIASWAPPERVITA0/1584499505000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31424_00-ASIASWAPPER33333",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "The Swapper 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31424_00-ASIASWAPPER33333/1584499535000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP0102-NPUB30991_00-ASIAOOTBHRUE0001",
+        "startTime": "2015-01-08",
+        "endTime": "2015-02-04",
+        "title": "Resident Evil® Revelations 製品版 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0102-NPUB30991_00-ASIAOOTBHRUE0001/1584499493000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "CAPCOM CO., LTD."
+    },
+    {
+        "code": "UP2125-CUSA00502_00-ASIADLC02UTOPIA0",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Transistor 製品版",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2125-CUSA00502_00-ASIADLC02UTOPIA0/1584499515000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Supergiant Games, LLC"
+    },
+    {
+        "code": "HP9000-CUSA00141_00-ESCPGAMEMASTERAS",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Escape Plan™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA00141_00-ESCPGAMEMASTERAS/1584499941000/image?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-PCSD00016_00-ESCPGAMEMASTERAS",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Escape Plan™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00016_00-ESCPGAMEMASTERAS/1584495944000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4488-CUSA00629_00-ASIAOGUELEGACY01",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Rogue Legacy 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4488-CUSA00629_00-ASIAOGUELEGACY01/1584499570000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Cellar Door Games Inc."
+    },
+    {
+        "code": "UP4488-PCSE00449_00-ASIAOGUELEGACY01",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Rogue Legacy 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4488-PCSE00449_00-ASIAOGUELEGACY01/1584499585000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Cellar Door Games Inc."
+    },
+    {
+        "code": "UP4488-NPUB31512_00-ASIAOGUELEGACY01",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Rogue Legacy 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4488-NPUB31512_00-ASIAOGUELEGACY01/1584499581000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Cellar Door Games Inc."
+    },
+    {
+        "code": "UP0102-NPUB31127_00-ASIADANDDFULLGAM",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Dungeons and Dragons: Chronicles of Mystara 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0102-NPUB31127_00-ASIADANDDFULLGAM/1584499552000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "CAPCOM CO., LTD."
+    },
+    {
+        "code": "UP0002-NPUB30801_00-ASIA0000FULLGAME",
+        "startTime": "2015-02-05",
+        "endTime": "2015-03-04",
+        "title": "Prototype®2 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0002-NPUB30801_00-ASIA0000FULLGAME/1584499498000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Activision"
+    },
+    {
+        "code": "UP4134-CUSA00329_00-ASIA000000000000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "ODDWORLD: NEW 'N' TASTY 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4134-CUSA00329_00-ASIA000000000000/1584499494000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ODDWORLD INHABITANTS, INC."
+    },
+    {
+        "code": "UP9000-CUSA00458_00-ASIAFULLGAME0000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "CounterSpy™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-CUSA00458_00-ASIAFULLGAME0000/1584499515000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-PCSA00116_00-ASIAFULLGAME0000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "CounterSpy™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00116_00-ASIAFULLGAME0000/1584499587000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA80870_00-ASIAFULLGAME0000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "CounterSpy™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-NPUA80870_00-ASIAFULLGAME0000/1584499568000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP0001-CUSA00479_00-ASIAFULLGAME0000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "英勇之心：偉大戰爭 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-CUSA00479_00-ASIAFULLGAME0000/1584500044000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "UP4034-NPUB31179_00-ASIADEADLYCUTGAM",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "Deadly Premonition: The Director's Cut 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4034-NPUB31179_00-ASIADEADLYCUTGAM/1584499565000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Rising Star Games"
+    },
+    {
+        "code": "UP3643-NPUB31378_00-ASIA000000000000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "Duke Nukem 3D: Megaton Edition 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP3643-NPUB31378_00-ASIA000000000000/1584499587000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Devolver Digital"
+    },
+    {
+        "code": "UP3643-PCSE00339_00-ASIA000000000000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "Duke Nukem 3D: Megaton Edition 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP3643-PCSE00339_00-ASIA000000000000/1584499582000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Devolver Digital"
+    },
+    {
+        "code": "UP4499-PCSE00485_00-ASIA000000000000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "KICK and FENNICK 製品版 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4499-PCSE00485_00-ASIA000000000000/1584499573000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Green Hill BV"
+    },
+    {
+        "code": "UP2148-PCSE00519_00-ASIA000000000000",
+        "startTime": "2015-03-05",
+        "endTime": "2015-04-08",
+        "title": "WOAH DAVE! 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2148-PCSE00519_00-ASIA000000000000/1584499559000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "CHOICE PROVISIONS"
+    },
+    {
+        "code": "UP4409-CUSA00793_00-ASIAOLLIOLLITWO2",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "OlliOlli2: Welcome to Olliwood (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4409-CUSA00793_00-ASIAOLLIOLLITWO2/1584499510000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Roll7"
+    },
+    {
+        "code": "UP4409-PCSE00479_00-ASIAOLLIOLLITWO2",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "OlliOlli2: Welcome to Olliwood (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4409-PCSE00479_00-ASIAOLLIOLLITWO2/1584499495000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Roll7"
+    },
+    {
+        "code": "UP4525-CUSA01237_00-ASIAOTHEONFORPS4",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "Apotheon (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4525-CUSA01237_00-ASIAOTHEONFORPS4/1584499502000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Alientrap Games Inc"
+    },
+    {
+        "code": "UP2159-CUSA01305_00-ASIANEVERALONEPS",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "Never Alone (Kisima Ingitchuna) 製品版 (日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2159-CUSA01305_00-ASIANEVERALONEPS/1584499493000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "E-Line Media"
+    },
+    {
+        "code": "UP4395-CUSA00656_00-ASIAMOUSECRAFTPS",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "MouseCraft 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA00656_00-ASIAMOUSECRAFTPS/1584499493000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00420_00-ASIAMOUSECRAFTVI",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "MouseCraft 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00420_00-ASIAMOUSECRAFTVI/1584499550000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31514_00-ASIAMOUSECRAFTPS",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "MouseCraft 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31514_00-ASIAMOUSECRAFTPS/1584499534000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "EP4287-NPEB00555_00-ASIAHDD000000000",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "BlazeRush 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4287-NPEB00555_00-ASIAHDD000000000/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Targem Games"
+    },
+    {
+        "code": "UP9000-PCSA00149_00-ASIA000000000000",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "MonsterBag (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00149_00-ASIA000000000000/1584499549000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-PCSD00071_00-KZV0000000000000",
+        "startTime": "2015-04-09",
+        "endTime": "2015-05-06",
+        "title": "KILLZONE™ MERCENARY 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00071_00-KZV0000000000000/1584495946000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-CUSA00695_00-ASIAFULLGAME0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "The Unfinished Swan™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-CUSA00695_00-ASIAFULLGAME0000/1584499498000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-PCSA00158_00-ASIAFULLGAME0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "The Unfinished Swan™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00158_00-ASIAFULLGAME0000/1584499572000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA98202_00-ASIAPLUSEXCLUSIV",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "The Unfinished Swan™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-NPUA98202_00-ASIAPLUSEXCLUSIV/1584499555000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP2144-CUSA01162_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Aaru's Awakening (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2144-CUSA01162_00-ASIA000000000000/1584499505000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Lumenox ehf"
+    },
+    {
+        "code": "UP2144-NPUB31600_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Aaru's Awakening (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2144-NPUB31600_00-ASIA000000000000/1584499557000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Lumenox ehf"
+    },
+    {
+        "code": "UP4151-CUSA01548_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Tower of Guns (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4151-CUSA01548_00-ASIA000000000000/1584499540000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Grip Digital sro"
+    },
+    {
+        "code": "UP4151-NPUB31644_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Tower of Guns (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4151-NPUB31644_00-ASIA000000000000/1584499553000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Grip Digital sro"
+    },
+    {
+        "code": "UP2045-CUSA00151_00-ASIAGUACAMELEE00",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Guacamelee! Super Turbo Championship Edition 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2045-CUSA00151_00-ASIAGUACAMELEE00/1584499523000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "DrinkBox Studios"
+    },
+    {
+        "code": "UP2103-CUSA00792_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "The Binding of Isaac: Rebirth (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2103-CUSA00792_00-ASIA000000000000/1585716747000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Pikii Godo Kaisha"
+    },
+    {
+        "code": "UP2103-PCSE00507_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "The Binding of Isaac: Rebirth (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2103-PCSE00507_00-ASIA000000000000/1584499593000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Pikii Godo Kaisha"
+    },
+    {
+        "code": "UP9000-CUSA00091_00-ASIAFULLGAME0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Hohokum™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-CUSA00091_00-ASIAFULLGAME0000/1584500055000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-PCSA00123_00-ASIAFULLGAME0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Hohokum™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00123_00-ASIAFULLGAME0000/1584500065000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA80783_00-ASIAFULLGAME0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "Hohokum™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-NPUA80783_00-ASIAFULLGAME0000/1584500072000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP2127-CUSA00708_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "RACE THE SUN ® (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2127-CUSA00708_00-ASIA000000000000/1584499534000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Flippfly LLC"
+    },
+    {
+        "code": "UP2127-PCSE00461_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "RACE THE SUN ® (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2127-PCSE00461_00-ASIA000000000000/1584499586000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Flippfly LLC"
+    },
+    {
+        "code": "UP2127-NPUB31532_00-ASIA000000000000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
+        "title": "RACE THE SUN ® (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2127-NPUB31532_00-ASIA000000000000/1584499493000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Flippfly LLC"
+    },
+    {
+        "code": "UP9000-PCSA00153_00-MURASAKIBABY0000",
+        "startTime": "2015-05-07",
+        "endTime": "2015-06-03",
         "title": "Murasaki Baby™",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-PCSA00153_00-MURASAKIBABY0000/1583271119000/image?w=240&h=240",
         "platforms": [
@@ -2504,12 +3037,32 @@
         ],
         "brand": "Sony Interactive Entertainment"
     },
-    {"code":"HP0101-CUSA03572_00-MAINGAME00000000","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"UP0943-CUSA02503_00-ASIARONEGAMEPS4E","startTime":"2015-06-04","endTime":"2015-07-08"},
     {
-        "code":"UP0001-NPUB31079_00-PS3STORE_COJGUNS",
-        "startTime":"2015-06-04",
-        "endTime":"2015-07-08",
+        "code": "HP0101-CUSA03572_00-MAINGAME00000000",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "METAL GEAR SOLID V: GROUND ZEROES (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0101-CUSA03572_00-MAINGAME00000000/1578117699000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Konami Digital Entertainment Ltd."
+    },
+    {
+        "code": "UP0943-CUSA02503_00-ASIARONEGAMEPS4E",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "ETHER ONE (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0943-CUSA02503_00-ASIARONEGAMEPS4E/1584499589000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "WHITE PAPER GAMES"
+    },
+    {
+        "code": "UP0001-NPUB31079_00-PS3STORE_COJGUNS",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
         "title": "Call of Juarez: Gunslinger",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0001-NPUB31079_00-PS3STORE_COJGUNS/1583206928000/image?w=240&h=240",
         "platforms": [
@@ -2517,17 +3070,87 @@
         ],
         "brand": "Ubisoft Entertainment"
     },
-    {"code":"EP0001-NPEB01312_00-ASIACLOUDBERRYKI","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"HP9000-PCSD00079_00-SOULSACDELTAAS00","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"UP4078-CUSA02738_00-ASIA000000000000","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"UP4078-PCSE00734_00-ASIA000000000000","startTime":"2015-06-04","endTime":"2015-07-08"},
-    {"code":"HP0036-CUSA01354_00-0000000000000000","startTime":"2015-07-09","endTime":"2015-07-15"},
-    {"code":"JP0036-CUSA00848_00-ASIA000000000000","startTime":"2015-07-09","endTime":"2015-07-15"},
-    {"code":"UP4133-CUSA01052_00-ASIASTYXMASTEROF","startTime":"2015-07-09","endTime":"2015-08-05"},
     {
-        "code":"HP9000-CUSA00066_00-PLUSEXXDRIVECLUB",
-        "startTime":"2015-07-09",
-        "endTime":"2015-08-05",
+        "code": "EP0001-NPEB01312_00-ASIACLOUDBERRYKI",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "雲端莓王國 製品版 (日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-NPEB01312_00-ASIACLOUDBERRYKI/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "HP9000-PCSD00079_00-SOULSACDELTAAS00",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "闇魂獻祭DELTA 製品版 (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00079_00-SOULSACDELTAAS00/1584495949000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4078-CUSA02738_00-ASIA000000000000",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "SUPER EXPLODING ZOO! (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4078-CUSA02738_00-ASIA000000000000/1584499575000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "HONEYSLUG LIMITED"
+    },
+    {
+        "code": "UP4078-PCSE00734_00-ASIA000000000000",
+        "startTime": "2015-06-04",
+        "endTime": "2015-07-08",
+        "title": "SUPER EXPLODING ZOO! (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4078-PCSE00734_00-ASIA000000000000/1584499565000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "HONEYSLUG LIMITED"
+    },
+    {
+        "code": "HP0036-CUSA01354_00-0000000000000000",
+        "startTime": "2015-07-09",
+        "endTime": "2015-07-15",
+        "title": "GUILTY GEAR Xrd -SIGN- 製品版 (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0036-CUSA01354_00-0000000000000000/1584495953000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "JP0036-CUSA00848_00-ASIA000000000000",
+        "startTime": "2015-07-09",
+        "endTime": "2015-07-15",
+        "title": "GUILTY GEAR Xrd -SIGN- 製品版 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0036-CUSA00848_00-ASIA000000000000/1584495919000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "UP4133-CUSA01052_00-ASIASTYXMASTEROF",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "Styx: Master of Shadows 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4133-CUSA01052_00-ASIASTYXMASTEROF/1584499498000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Focus Home Interactive"
+    },
+    {
+        "code": "HP9000-CUSA00066_00-PLUSEXXDRIVECLUB",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
         "title": "DRIVECLUB™ PlayStation®Plus Edition 完整版升級 (中英韓文版)",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP9000-CUSA00003_00-PREORDEDRIVECLUB/1583337362000/image?w=240&h=240",
         "platforms": [
@@ -2535,29 +3158,219 @@
         ],
         "brand": "Sony Interactive Entertainment"
     },
-    {"code":"UP0036-NPUB30957_00-ASIAGGXXACP00001","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"JP0036-PCSH00038_00-GGXXACPR00000001","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"HP9000-NPHA80264_00-RAIN000000000001","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"UP9000-CUSA00571_00-ASIAFULLGAME0000","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"UP9000-PCSA00140_00-ASIAFULLGAME0000","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"UP9000-NPUA81051_00-ASIAFULLGAME0000","startTime":"2015-07-09","endTime":"2015-08-05"},
-    {"code":"EP0082-CUSA00806_00-ASIA000000000000","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"HP9000-NPHA80258_00-GOWADIGITALVERS1","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"UP4395-CUSA01424_00-ASIALTHINC2PS400","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"UP4395-PCSE00575_00-ASIALTHINC200000","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"UP4395-NPUB31632_00-ASIALTHINC2PS3SC","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"JP1178-PCSG00652_00-ASIAMAJINSYOUJYO","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"UP0319-CUSA02050_00-ASIA000000000000","startTime":"2015-08-06","endTime":"2015-09-09"},
-    {"code":"HP0106-NPHB00605_00-APP0000000000000","startTime":"2015-08-12","endTime":"2015-09-15"},
-    {"code":"JP0001-CUSA03147_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-09-30"},
-    {"code":"UP2054-CUSA01664_00-ASIAFULLD11LIMBO","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"HP9000-CUSA00175_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"HP9000-PCSD00027_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"HP9000-NPHA80210_00-SOUNDSHAPES00000","startTime":"2015-09-10","endTime":"2015-10-07"},
     {
-        "code":"UP9000-NPUA80079_00-TWISTEDMETAL0100",
-        "startTime":"2015-09-10",
-        "endTime":"2015-10-07",
+        "code": "UP0036-NPUB30957_00-ASIAGGXXACP00001",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "GUILTY GEAR XX ΛCORE PLUS 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0036-NPUB30957_00-ASIAGGXXACP00001/1584499595000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "JP0036-PCSH00038_00-GGXXACPR00000001",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "GUILTY GEAR XX ΛCORE PLUS R 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0036-PCSH00038_00-GGXXACPR00000001/1584495966000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "HP9000-NPHA80264_00-RAIN000000000001",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "Lost in the rain 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80264_00-RAIN000000000001/1584495929000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-CUSA00571_00-ASIAFULLGAME0000",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "Entwined™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-CUSA00571_00-ASIAFULLGAME0000/1584499544000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-PCSA00140_00-ASIAFULLGAME0000",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "Entwined™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00140_00-ASIAFULLGAME0000/1584499517000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA81051_00-ASIAFULLGAME0000",
+        "startTime": "2015-07-09",
+        "endTime": "2015-08-05",
+        "title": "Entwined™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-NPUA81051_00-ASIAFULLGAME0000/1584499539000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP0082-CUSA00806_00-ASIA000000000000",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "Lara Croft and the Temple of Osiris 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0082-CUSA00806_00-ASIA000000000000/1585038376000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "SQUARE ENIX CO., LTD."
+    },
+    {
+        "code": "HP9000-NPHA80258_00-GOWADIGITALVERS1",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "God of War: Ascension™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80258_00-GOWADIGITALVERS1/1584495967000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4395-CUSA01424_00-ASIALTHINC2PS400",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "Stealth Inc 2: A Game of Clones (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA01424_00-ASIALTHINC2PS400/1584499518000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00575_00-ASIALTHINC200000",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "Stealth Inc 2: A Game of Clones (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00575_00-ASIALTHINC200000/1584499494000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31632_00-ASIALTHINC2PS3SC",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "Stealth Inc 2: A Game of Clones (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31632_00-ASIALTHINC2PS3SC/1584499555000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "JP1178-PCSG00652_00-ASIAMAJINSYOUJYO",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "魔神少女 -Chronicle 2D ACT- (中日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP1178-PCSG00652_00-ASIAMAJINSYOUJYO/1584495970000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Flyhigh Works Co., Ltd."
+    },
+    {
+        "code": "UP0319-CUSA02050_00-ASIA000000000000",
+        "startTime": "2015-08-06",
+        "endTime": "2015-09-09",
+        "title": "幕府將軍的頭骨 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0319-CUSA02050_00-ASIA000000000000/1584499559000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "17-BIT"
+    },
+    {
+        "code": "HP0106-NPHB00605_00-APP0000000000000",
+        "startTime": "2015-08-12",
+        "endTime": "2015-09-15",
+        "title": "愛絲卡&羅吉的鍊金工房 ～黃昏天空之鍊金術士～ PlayStation®3 the Best 製品版 (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0106-NPHB00605_00-APP0000000000000/1584495975000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "JP0001-CUSA03147_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-09-30",
+        "title": "Grow Home (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0001-CUSA03147_00-ASIA000000000000/1584495968000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "UP2054-CUSA01664_00-ASIAFULLD11LIMBO",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "LIMBO (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2054-CUSA01664_00-ASIAFULLD11LIMBO/1584499523000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Playdead ApS"
+    },
+    {
+        "code": "HP9000-CUSA00175_00-SOUNDSHAPES00000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Sound Shapes 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA00175_00-SOUNDSHAPES00000/1584495931000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-PCSD00027_00-SOUNDSHAPES00000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Sound Shapes 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00027_00-SOUNDSHAPES00000/1584495942000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80210_00-SOUNDSHAPES00000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Sound Shapes 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80210_00-SOUNDSHAPES00000/1584495919000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA80079_00-TWISTEDMETAL0100",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
         "title": "Twisted Metal®",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-NPUA80079_00-TWISTEDMETAL0100/1583258054000/image?w=240&h=240",
         "platforms": [
@@ -2565,71 +3378,681 @@
         ],
         "brand": "Sony Interactive Entertainment"
     },
-    {"code":"UP0036-PCSE00518_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"EP4034-PCSB00694_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"UP1050-CUSA02439_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"UP1050-PCSE00694_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"EP4108-NPEB01262_00-ASIA0000FULLGAME","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"UP4108-PCSE00584_00-ASIA000000000000","startTime":"2015-09-10","endTime":"2015-10-07"},
-    {"code":"UP2002-CUSA01163_00-ASIA000000000000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP2003-CUSA01938_00-ASIA000000000000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP2003-PCSE00698_00-ASIA000000000000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP4151-CUSA01204_00-ASIACHANICALPS4A","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP4151-NPUB31605_00-ASIACHANICALPS3A","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"HP0106-NPHB00700_00-0000000000000000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"EP4115-NPEB01855_00-ASIAKUNGFURABBIT","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"EP4115-PCSB00331_00-ASIAKUNGFURABBIT","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"JP0036-NPHB00689_00-MAGICALBEAT00000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"JP0036-PCSG00221_00-ASIAMAGICALBEAT0","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP0036-PCSE00457_00-ASIAFULLGAME0000","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"JP0036-PCSG00280_00-ASIA0000FULLGAME","startTime":"2015-10-08","endTime":"2015-11-04"},
-    {"code":"UP1055-CUSA02845_00-ASIA000000000000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP1055-PCSE00769_00-ASIA000000000000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP0082-NPUB50100_00-ASIAFULLGAME0000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP2186-CUSA00599_00-ASIA000000000000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP2186-PCSE00447_00-ASIA000000000000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP2186-NPUB31652_00-ASIA000000000000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP0006-NPUB30447_00-ASIAEFFECT200000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"JP0048-PCSG00038_00-ASIASUMIONIGAME0","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"HP5024-PCSH00099_00-CATSBLOCKASIA000","startTime":"2015-11-05","endTime":"2015-12-02"},
-    {"code":"UP1018-CUSA00701_00-ASIA000000000000","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"UP0002-CUSA01447_00-ASIAKINGSQUESTCH","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"HP9000-PCSD00087_00-FWGAME0000000000","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"UP9000-PCSA00147_00-ASIAFULLGAME0000","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"JP9000-PCSC00054_00-ASIAFULLGAME0000","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"EP0001-NPEB01322_00-ASIA0000FULLGAME","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"HP5015-NPHB00415_00-ROCKETBIRDSFULLG","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"HP5015-PCSH00024_00-ROCKETBIRDSFULLG","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"UP0006-NPUB30892_00-ASIASSXNAHDD0000","startTime":"2015-12-03","endTime":"2016-01-06"},
-    {"code":"EP9000-CUSA00971_00-ASIAHHD000000000","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP2154-CUSA01319_00-ASIA000000000000","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP2154-PCSE00547_00-ASIA000000000000","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP4487-CUSA00832_00-ASIA000000000000","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP4487-PCSE00495_00-ASIA000000000000","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP0006-NPUB30475_00-ASIADAOHDDDOWNLO","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"UP0006-NPUB30759_00-ASIAMEDALOFHONOR","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"EP4136-PCSB00198_00-ASIAHISTORYFVITA","startTime":"2016-01-07","endTime":"2016-02-04"},
-    {"code":"HP9000-CUSA00631_00-0000000000000003","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"HP9000-PCSD00086_00-0000000000000003","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"HP9000-NPHA80275_00-0000000000000003","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"EP9000-PCSF00376_00-ASIAINGSTOUCH000","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP4415-CUSA01365_00-ASIANOMNOMGALAXY","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP4395-CUSA02354_00-ASIA000000000000","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP4395-PCSE00686_00-ASIA000000000000","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP4395-NPUB31719_00-ASIA000000000000","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"EP4001-NPEB02033_00-ASIAGRIDAUTOSPOR","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP0005-NPUB31563_00-ASIAP4AU00000000","startTime":"2016-02-05","endTime":"2016-03-03"},
-    {"code":"UP3643-CUSA00911_00-ASIA000000000001","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"UP0319-CUSA02049_00-ASIAKZUSPS456789","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"UP1024-PCSE00240_00-ASIAMURAMASAREBI","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"UP2137-PCSE00501_00-ASIAGAMEBYMISFIT","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"HP9000-NPHA80260_00-GBEYONDTWO000001","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"HP9000-NPHA80044_00-PS3STORE_LASTGUY","startTime":"2016-03-03","endTime":"2016-04-06"},
-    {"code":"EP0001-CUSA01910_00-ASIA000000000000","startTime":"2016-04-07","endTime":"2016-05-05"},
     {
-        "code":"UP1359-CUSA03138_00-DEADSTARGAME0000",
-        "startTime":"2016-04-07",
-        "endTime":"2016-05-05",
+        "code": "UP0036-PCSE00518_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Damascus Gear: Operation Tokyo (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0036-PCSE00518_00-ASIA000000000000/1578099729000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "EP4034-PCSB00694_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "La-Mulana EX (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4034-PCSB00694_00-ASIA000000000000/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Rising Star Games"
+    },
+    {
+        "code": "UP1050-CUSA02439_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Xeodrifter (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1050-CUSA02439_00-ASIA000000000000/1584499503000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Gambitious Digital Entertainment"
+    },
+    {
+        "code": "UP1050-PCSE00694_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "Xeodrifter (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1050-PCSE00694_00-ASIA000000000000/1584499512000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Gambitious Digital Entertainment"
+    },
+    {
+        "code": "EP4108-NPEB01262_00-ASIA0000FULLGAME",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "愛夏的鍊金工房～黃昏大地之鍊金術士～ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4108-NPEB01262_00-ASIA0000FULLGAME/1584495925000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "UP4108-PCSE00584_00-ASIA000000000000",
+        "startTime": "2015-09-10",
+        "endTime": "2015-10-07",
+        "title": "愛夏的鍊金工房PLUS ～黃昏大地之鍊金術士～ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4108-PCSE00584_00-ASIA000000000000/1578133882000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "UP2002-CUSA01163_00-ASIA000000000000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "Rocket League® (日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2002-CUSA01163_00-ASIA000000000000/1585100891000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Psyonix LLC"
+    },
+    {
+        "code": "UP2003-CUSA01938_00-ASIA000000000000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "SUPER TIME FORCE ULTRA (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2003-CUSA01938_00-ASIA000000000000/1584499555000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CAPYBARA GAMES"
+    },
+    {
+        "code": "UP2003-PCSE00698_00-ASIA000000000000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "SUPER TIME FORCE ULTRA (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2003-PCSE00698_00-ASIA000000000000/1584499519000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "CAPYBARA GAMES"
+    },
+    {
+        "code": "UP4151-CUSA01204_00-ASIACHANICALPS4A",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "UNMECHANICAL: EXTENDED (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4151-CUSA01204_00-ASIACHANICALPS4A/1584499508000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Grip Digital sro"
+    },
+    {
+        "code": "UP4151-NPUB31605_00-ASIACHANICALPS3A",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "UNMECHANICAL: EXTENDED (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4151-NPUB31605_00-ASIACHANICALPS3A/1584499564000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Grip Digital sro"
+    },
+    {
+        "code": "HP0106-NPHB00700_00-0000000000000000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "夏莉的鍊金工房 ～黃昏海洋之鍊金術士～ 製品版 (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0106-NPHB00700_00-0000000000000000/1584495944000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "EP4115-NPEB01855_00-ASIAKUNGFURABBIT",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "Kung Fu Rabbit 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4115-NPEB01855_00-ASIAKUNGFURABBIT/1584495926000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": ""
+    },
+    {
+        "code": "EP4115-PCSB00331_00-ASIAKUNGFURABBIT",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "Kung Fu Rabbit 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4115-PCSB00331_00-ASIAKUNGFURABBIT/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Neko Entertainment"
+    },
+    {
+        "code": "JP0036-NPHB00689_00-MAGICALBEAT00000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "MAGICAL BEAT 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0036-NPHB00689_00-MAGICALBEAT00000/1584495921000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "JP0036-PCSG00221_00-ASIAMAGICALBEAT0",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "MAGICAL BEAT 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0036-PCSG00221_00-ASIAMAGICALBEAT0/1584495937000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "UP0036-PCSE00457_00-ASIAFULLGAME0000",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "MAGICAL BEAT 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0036-PCSE00457_00-ASIAFULLGAME0000/1584499518000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "JP0036-PCSG00280_00-ASIA0000FULLGAME",
+        "startTime": "2015-10-08",
+        "endTime": "2015-11-04",
+        "title": "FANTASY HERO ～unsigned legacy～ 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0036-PCSG00280_00-ASIA0000FULLGAME/1584495959000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
+    },
+    {
+        "code": "UP1055-CUSA02845_00-ASIA000000000000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "Super Meat Boy (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1055-CUSA02845_00-ASIA000000000000/1584499576000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Team Meat LLC"
+    },
+    {
+        "code": "UP1055-PCSE00769_00-ASIA000000000000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "Super Meat Boy (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1055-PCSE00769_00-ASIA000000000000/1584499527000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Team Meat LLC"
+    },
+    {
+        "code": "UP0082-NPUB50100_00-ASIAFULLGAME0000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "Thief 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0082-NPUB50100_00-ASIAFULLGAME0000/1584499594000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "BANDAI NAMCO Entertainment Inc."
+    },
+    {
+        "code": "UP2186-CUSA00599_00-ASIA000000000000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "龍翅湯 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2186-CUSA00599_00-ASIA000000000000/1584499555000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Grimm Bros, LLC"
+    },
+    {
+        "code": "UP2186-PCSE00447_00-ASIA000000000000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "龍翅湯 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2186-PCSE00447_00-ASIA000000000000/1584499574000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Grimm Bros, LLC"
+    },
+    {
+        "code": "UP2186-NPUB31652_00-ASIA000000000000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "龍翅湯 (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2186-NPUB31652_00-ASIA000000000000/1584499550000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Grimm Bros, LLC"
+    },
+    {
+        "code": "UP0006-NPUB30447_00-ASIAEFFECT200000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "質量效應2 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-NPUB30447_00-ASIAEFFECT200000/1584499527000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Electronic Arts Inc."
+    },
+    {
+        "code": "JP0048-PCSG00038_00-ASIASUMIONIGAME0",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "SUMIONI 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0048-PCSG00038_00-ASIASUMIONIGAME0/1584495919000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "ACQUIRE Corp."
+    },
+    {
+        "code": "HP5024-PCSH00099_00-CATSBLOCKASIA000",
+        "startTime": "2015-11-05",
+        "endTime": "2015-12-02",
+        "title": "方塊貓嘉年華 製品版 (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5024-PCSH00099_00-CATSBLOCKASIA000/1584495927000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "F K Digital Pty. Ltd."
+    },
+    {
+        "code": "UP1018-CUSA00701_00-ASIA000000000000",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "聖鎧傳說：殺戮者版本 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1018-CUSA00701_00-ASIA000000000000/1584499514000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Warner Bros. Interactive"
+    },
+    {
+        "code": "UP0002-CUSA01447_00-ASIAKINGSQUESTCH",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "King's Quest - Chapter 1: A Knight to Remember (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0002-CUSA01447_00-ASIAKINGSQUESTCH/1584499533000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Activision"
+    },
+    {
+        "code": "HP9000-PCSD00087_00-FWGAME0000000000",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "自由戰爭 製品版 (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00087_00-FWGAME0000000000/1584495944000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-PCSA00147_00-ASIAFULLGAME0000",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "自由戰爭 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-PCSA00147_00-ASIAFULLGAME0000/1584499540000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "JP9000-PCSC00054_00-ASIAFULLGAME0000",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "FREEDOM WARS 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP9000-PCSC00054_00-ASIAFULLGAME0000/1584495952000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP0001-NPEB01322_00-ASIA0000FULLGAME",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "極地戰嚎 3：血龍 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-NPEB01322_00-ASIA0000FULLGAME/1584495926000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "HP5015-NPHB00415_00-ROCKETBIRDSFULLG",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "Rocketbirds: Hardboiled Chicken 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5015-NPHB00415_00-ROCKETBIRDSFULLG/1584495918000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ratloop Asia"
+    },
+    {
+        "code": "HP5015-PCSH00024_00-ROCKETBIRDSFULLG",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "Rocketbirds: Hardboiled Chicken 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5015-PCSH00024_00-ROCKETBIRDSFULLG/1584495929000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Ratloop Asia"
+    },
+    {
+        "code": "UP0006-NPUB30892_00-ASIASSXNAHDD0000",
+        "startTime": "2015-12-03",
+        "endTime": "2016-01-06",
+        "title": "疾風滑雪板 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-NPUB30892_00-ASIASSXNAHDD0000/1584499493000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Electronic Arts Inc."
+    },
+    {
+        "code": "EP9000-CUSA00971_00-ASIAHHD000000000",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "Hardware™: Rivals (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP9000-CUSA00971_00-ASIAHHD000000000/1585801710000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP2154-CUSA01319_00-ASIA000000000000",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "Grim Fandango Remastered (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2154-CUSA01319_00-ASIA000000000000/1584499502000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "DOUBLE FINE PRODUCTIONS"
+    },
+    {
+        "code": "UP2154-PCSE00547_00-ASIA000000000000",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "Grim Fandango Remastered (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2154-PCSE00547_00-ASIA000000000000/1584499535000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "DOUBLE FINE PRODUCTIONS"
+    },
+    {
+        "code": "UP4487-CUSA00832_00-ASIA000000000000",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "FUTURIDIUM EP DELUXE (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4487-CUSA00832_00-ASIA000000000000/1584499498000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "MIXEDBAG SRL"
+    },
+    {
+        "code": "UP4487-PCSE00495_00-ASIA000000000000",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "FUTURIDIUM EP DELUXE (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4487-PCSE00495_00-ASIA000000000000/1584499592000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "MIXEDBAG SRL"
+    },
+    {
+        "code": "UP0006-NPUB30475_00-ASIADAOHDDDOWNLO",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "Dragon Age: Origins (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-NPUB30475_00-ASIADAOHDDDOWNLO/1584499544000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Electronic Arts Inc."
+    },
+    {
+        "code": "UP0006-NPUB30759_00-ASIAMEDALOFHONOR",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "榮譽勳章：鐵血悍將 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-NPUB30759_00-ASIAMEDALOFHONOR/1584499562000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Electronic Arts Inc."
+    },
+    {
+        "code": "EP4136-PCSB00198_00-ASIAHISTORYFVITA",
+        "startTime": "2016-01-07",
+        "endTime": "2016-02-04",
+        "title": "HISTORY® Legends of War 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4136-PCSB00198_00-ASIAHISTORYFVITA/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Slitherine"
+    },
+    {
+        "code": "HP9000-CUSA00631_00-0000000000000003",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "HELLDIVERS™ Dive Harder 同捆包 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA00631_00-0000000000000003/1584491706000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-PCSD00086_00-0000000000000003",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "HELLDIVERS™ Dive Harder 同捆包 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00086_00-0000000000000003/1584491722000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80275_00-0000000000000003",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "HELLDIVERS™ Dive Harder 同捆包 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80275_00-0000000000000003/1584491706000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP9000-PCSF00376_00-ASIAINGSTOUCH000",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "Lemmings™ Touch 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP9000-PCSF00376_00-ASIAINGSTOUCH000/1584495917000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4415-CUSA01365_00-ASIANOMNOMGALAXY",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "PixelJunk™ Nom Nom Galaxy (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4415-CUSA01365_00-ASIANOMNOMGALAXY/1584499545000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Double Eleven Limited"
+    },
+    {
+        "code": "UP4395-CUSA02354_00-ASIA000000000000",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "Nova-111 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA02354_00-ASIA000000000000/1584499512000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00686_00-ASIA000000000000",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "Nova-111 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00686_00-ASIA000000000000/1584499584000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31719_00-ASIA000000000000",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "Nova-111 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31719_00-ASIA000000000000/1584499591000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "EP4001-NPEB02033_00-ASIAGRIDAUTOSPOR",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "GRID Autosport 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4001-NPEB02033_00-ASIAGRIDAUTOSPOR/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": ""
+    },
+    {
+        "code": "UP0005-NPUB31563_00-ASIAP4AU00000000",
+        "startTime": "2016-02-05",
+        "endTime": "2016-03-03",
+        "title": "Persona®4 Arena Ultimax™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0005-NPUB31563_00-ASIAP4AU00000000/1584499503000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Atlus U.S.A., Inc."
+    },
+    {
+        "code": "UP3643-CUSA00911_00-ASIA000000000001",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "Broforce (英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP3643-CUSA00911_00-ASIA000000000001/1585694980000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Devolver Digital"
+    },
+    {
+        "code": "UP0319-CUSA02049_00-ASIAKZUSPS456789",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "GALAK-Z (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0319-CUSA02049_00-ASIAKZUSPS456789/1584499575000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "17-BIT"
+    },
+    {
+        "code": "UP1024-PCSE00240_00-ASIAMURAMASAREBI",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "MURAMASA REBIRTH 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1024-PCSE00240_00-ASIAMURAMASAREBI/1585721404000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Marvelous Inc."
+    },
+    {
+        "code": "UP2137-PCSE00501_00-ASIAGAMEBYMISFIT",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "A Virus Named TOM製品版遊戲 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2137-PCSE00501_00-ASIAGAMEBYMISFIT/1584499580000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Misfits Attic"
+    },
+    {
+        "code": "HP9000-NPHA80260_00-GBEYONDTWO000001",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "BEYOND: Two Souls™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80260_00-GBEYONDTWO000001/1584495963000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80044_00-PS3STORE_LASTGUY",
+        "startTime": "2016-03-03",
+        "endTime": "2016-04-06",
+        "title": "The Last Guy™ 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80044_00-PS3STORE_LASTGUY/1584495951000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP0001-CUSA01910_00-ASIA000000000000",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
+        "title": "殭屍+ (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-CUSA01910_00-ASIA000000000000/1584495908000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "UP1359-CUSA03138_00-DEADSTARGAME0000",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
         "title": "Dead Star",
         "image": "img/Dead-Star.jpg",
         "platforms": [
@@ -2637,56 +4060,520 @@
         ],
         "brand": "Armature Studio"
     },
-    {"code":"HP9000-PCSD00017_00-REALFIGHTGAME_01","startTime":"2016-04-07","endTime":"2016-05-05"},
-    {"code":"UP4132-PCSE00566_00-ASIA000000000000","startTime":"2016-04-07","endTime":"2016-05-05"},
-    {"code":"EP0001-NPEB00476_00-ASIAIAMALIVEGAME","startTime":"2016-04-07","endTime":"2016-05-05"},
-    {"code":"HP9000-NPHA80056_00-GSAVAGEMOO000001","startTime":"2016-04-07","endTime":"2016-05-05"},
-    {"code":"UP2336-CUSA04838_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"UP4460-CUSA00789_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"UP4460-PCSE00493_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"UP2148-CUSA02535_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"UP2148-PCSE00705_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"JP0199-PCSG00554_00-ASIA000000000000","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"HP9000-NPHA80004_00-LOCOROCOASIA0001","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"HP0102-NPHB00276_00-BCREARMED20000NP","startTime":"2016-05-05","endTime":"2016-06-08"},
-    {"code":"UP1001-CUSA02741_00-ASIANBA2K16GAME0","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"EP4365-CUSA01123_00-ASIA000000000000","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"HP9000-NPHG00092_00-GOWGOSPSP0000001","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"HP9000-NPHG00024_00-LOCOROCOMCKEY000","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"HP9000-NPHA80040_00-ECHOCHROME000000","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"UP9000-NPUA80136_00-ASIASIRENBCEPISO","startTime":"2016-06-09","endTime":"2016-07-06"},
-    {"code":"EP4062-CUSA00939_00-ASIA000000000001","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"UP0774-CUSA04917_00-ASIA000000000000","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"HP9000-NPHG00027_00-GODOFWARCOOPSP01","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"HP9000-PCSD00084_00-ORESHIKA2ASIA000","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"HP9000-NPHA80066_00-FATPRINCESS00001","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"EP0001-NPHB00463_00-COJUAREZFULLGAME","startTime":"2016-07-07","endTime":"2016-08-03"},
-    {"code":"EP0999-CUSA05198_00-ASIA000000000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP1012-CUSA01228_00-ASIAGONEHOME0000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP4395-CUSA00437_00-ASIA000000000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP4395-PCSE00414_00-ASIA000000000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP4395-NPUB31453_00-ASIA000000000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"HP0106-PCSH00087_00-GAME000000000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"HP9000-UCAS40318_00-PATAPON300000000","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP0001-NPHB00477_00-POPTFSFULLGAME00","startTime":"2016-08-04","endTime":"2016-09-07"},
-    {"code":"UP0224-CUSA02381_00-ASIALGALAXY00000","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"HP9000-CUSA01982_00-0000000000000000","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"HP9000-NPHA80188_00-DKJOURNEYXX0001A","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"HP0106-PCSH00045_00-PKGTOUKIDEN00000","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"JP0106-PCSG00193_00-ASIA0000FULLGAME","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"JP0507-PCSG00133_00-ASIASENRANKAGURA","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"UP1023-PCSE00398_00-ASIASENRKAGUSNGM","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"UP0001-NPHB00444_00-FROMDUSTFULLGAME","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"HP9000-NPHA80187_00-0DATURADATURADAT","startTime":"2016-09-08","endTime":"2016-10-05"},
-    {"code":"HP9000-CUSA01112_00-0000000000000000","startTime":"2016-09-15","endTime":"2016-10-05"},
-    {"code":"UP0102-CUSA01068_00-ASIA000000000000","startTime":"2016-10-06","endTime":"2016-11-03"},
-    {"code":"UP4321-CUSA00369_00-ASIAFULLGAME0000","startTime":"2016-10-06","endTime":"2016-11-03"},
-    {"code":"JP0106-PCSG00279_00-ASIA00000000GAME","startTime":"2016-10-06","endTime":"2016-11-03"},
-    {"code":"EP0001-ULES00223_00-ASIA000000000000","startTime":"2016-10-06","endTime":"2016-11-03"},
     {
-        "code":"EP0001-NPEB00886_00-MADUNLOCKFULLKEY",
-        "startTime":"2016-10-06",
-        "endTime":"2016-11-03",
+        "code": "HP9000-PCSD00017_00-REALFIGHTGAME_01",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
+        "title": "Reality Fighters™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00017_00-REALFIGHTGAME_01/1584495925000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4132-PCSE00566_00-ASIA000000000000",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
+        "title": "FLAME OVER (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4132-PCSE00566_00-ASIA000000000000/1584499543000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Laughing Jackal Ltd."
+    },
+    {
+        "code": "EP0001-NPEB00476_00-ASIAIAMALIVEGAME",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
+        "title": "I Am Alive 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-NPEB00476_00-ASIAIAMALIVEGAME/1584495907000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "HP9000-NPHA80056_00-GSAVAGEMOO000001",
+        "startTime": "2016-04-07",
+        "endTime": "2016-05-05",
+        "title": "Savage Moon™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80056_00-GSAVAGEMOO000001/1584495969000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP2336-CUSA04838_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "Table Top Racing: World Tour (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2336-CUSA04838_00-ASIA000000000000/1584499520000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Playrise Digital Ltd."
+    },
+    {
+        "code": "UP4460-CUSA00789_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "SWITCH GALAXY ULTRA (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4460-CUSA00789_00-ASIA000000000000/1584499575000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Atomicom Limited"
+    },
+    {
+        "code": "UP4460-PCSE00493_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "SWITCH GALAXY ULTRA (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4460-PCSE00493_00-ASIA000000000000/1584499578000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Atomicom Limited"
+    },
+    {
+        "code": "UP2148-CUSA02535_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "Shutshimi (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2148-CUSA02535_00-ASIA000000000000/1584499508000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CHOICE PROVISIONS"
+    },
+    {
+        "code": "UP2148-PCSE00705_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "Shutshimi (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2148-PCSE00705_00-ASIA000000000000/1584499497000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "CHOICE PROVISIONS"
+    },
+    {
+        "code": "JP0199-PCSG00554_00-ASIA000000000000",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "Sayonara UmiharaKawase + (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0199-PCSG00554_00-ASIA000000000000/1584495927000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Agatsuma Entertainment Co.,Ltd."
+    },
+    {
+        "code": "HP9000-NPHA80004_00-LOCOROCOASIA0001",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "來吧！樂克樂克！Buu Buu Cocoreccho!  製品版 (中英文合版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80004_00-LOCOROCOASIA0001/1584495956000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP0102-NPHB00276_00-BCREARMED20000NP",
+        "startTime": "2016-05-05",
+        "endTime": "2016-06-08",
+        "title": "Bionic Commando™ Rearmed 2 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0102-NPHB00276_00-BCREARMED20000NP/1584495941000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "CAPCOM CO., LTD."
+    },
+    {
+        "code": "UP1001-CUSA02741_00-ASIANBA2K16GAME0",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "NBA 2K16 (中日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1001-CUSA02741_00-ASIANBA2K16GAME0/1584499566000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Take Two Interactive Software UK Limited"
+    },
+    {
+        "code": "EP4365-CUSA01123_00-ASIA000000000000",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "TROPICO 5 (英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4365-CUSA01123_00-ASIA000000000000/1584495908000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "SQUARE ENIX CO., LTD."
+    },
+    {
+        "code": "HP9000-NPHG00092_00-GOWGOSPSP0000001",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "God of War™: Ghost of Sparta 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHG00092_00-GOWGOSPSP0000001/1584495937000/image?w=240&h=240",
+        "platforms": [
+            "PSP®",
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHG00024_00-LOCOROCOMCKEY000",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "LocoRoco™-Midnight Carnival- 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHG00024_00-LOCOROCOMCKEY000/1584495961000/image?w=240&h=240",
+        "platforms": [
+            "PSP®",
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80040_00-ECHOCHROME000000",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "『echochrome primal 無限回廊 序曲』 製品版 (中英文合版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80040_00-ECHOCHROME000000/1584495964000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP9000-NPUA80136_00-ASIASIRENBCEPISO",
+        "startTime": "2016-06-09",
+        "endTime": "2016-07-06",
+        "title": "Siren: Blood Curse Episodes 1-12 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP9000-NPUA80136_00-ASIASIRENBCEPISO/1584499508000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP4062-CUSA00939_00-ASIA000000000001",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "Saints Row: Gat out of Hell (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4062-CUSA00939_00-ASIA000000000001/1585721461000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Koch Media GmbH"
+    },
+    {
+        "code": "UP0774-CUSA04917_00-ASIA000000000000",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "Furi (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0774-CUSA04917_00-ASIA000000000000/1584499504000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "The Game Bakers"
+    },
+    {
+        "code": "HP9000-NPHG00027_00-GODOFWARCOOPSP01",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "God of War™ Chains of Olympus 製品版 (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHG00027_00-GODOFWARCOOPSP01/1584495963000/image?w=240&h=240",
+        "platforms": [
+            "PSP®",
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-PCSD00084_00-ORESHIKA2ASIA000",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "俺屍2 - 跨越俺的屍體前進吧 製品版 (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-PCSD00084_00-ORESHIKA2ASIA000/1584495909000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80066_00-FATPRINCESS00001",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "胖公主 製品版",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80066_00-FATPRINCESS00001/1584495918000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "EP0001-NPHB00463_00-COJUAREZFULLGAME",
+        "startTime": "2016-07-07",
+        "endTime": "2016-08-03",
+        "title": "Call of Juarez: Bound in Blood 製品版",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-NPHB00463_00-COJUAREZFULLGAME/1584495916000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "EP0999-CUSA05198_00-ASIA000000000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Tricky Towers (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0999-CUSA05198_00-ASIA000000000000/1584495908000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "WeirdBeard B.V."
+    },
+    {
+        "code": "UP1012-CUSA01228_00-ASIAGONEHOME0000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Gone Home: Console Edition (日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1012-CUSA01228_00-ASIAGONEHOME0000/1584499548000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Majesco"
+    },
+    {
+        "code": "UP4395-CUSA00437_00-ASIA000000000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Ultratron (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA00437_00-ASIA000000000000/1584499576000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00414_00-ASIA000000000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Ultratron (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00414_00-ASIA000000000000/1584499581000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31453_00-ASIA000000000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Ultratron (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31453_00-ASIA000000000000/1584499504000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "HP0106-PCSH00087_00-GAME000000000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "信長之野望・創造 製品版 (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0106-PCSH00087_00-GAME000000000000/1584495919000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "HP9000-UCAS40318_00-PATAPON300000000",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Patapon™ 3 戰鼓啪打碰3 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-UCAS40318_00-PATAPON300000000/1584495941000/image?w=240&h=240",
+        "platforms": [
+            "PSP®",
+            "PS Vita"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP0001-NPHB00477_00-POPTFSFULLGAME00",
+        "startTime": "2016-08-04",
+        "endTime": "2016-09-07",
+        "title": "Prince of Persia: The Forgotten Sands 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0001-NPHB00477_00-POPTFSFULLGAME00/1584499547000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "UP0224-CUSA02381_00-ASIALGALAXY00000",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "Rebel Galaxy (中日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0224-CUSA02381_00-ASIALGALAXY00000/1584499583000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Double Damage Games Inc."
+    },
+    {
+        "code": "HP9000-CUSA01982_00-0000000000000000",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "Journey (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA01982_00-0000000000000000/1585716707000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-NPHA80188_00-DKJOURNEYXX0001A",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "Journey 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80188_00-DKJOURNEYXX0001A/1585716710000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP0106-PCSH00045_00-PKGTOUKIDEN00000",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "討鬼傳 PlayStation®Vita the Best (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0106-PCSH00045_00-PKGTOUKIDEN00000/1584495909000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "JP0106-PCSG00193_00-ASIA0000FULLGAME",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "討鬼傳 PlayStation®Vita the Best (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0106-PCSG00193_00-ASIA0000FULLGAME/1584495928000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "JP0507-PCSG00133_00-ASIASENRANKAGURA",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "Senran Kagura SHINOVI VERSUS PlayStation®Vita the Best (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0507-PCSG00133_00-ASIASENRANKAGURA/1585721382000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Marvelous Inc."
+    },
+    {
+        "code": "UP1023-PCSE00398_00-ASIASENRKAGUSNGM",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "SENRAN KAGURA: SHINOVI VERSUS 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1023-PCSE00398_00-ASIASENRKAGUSNGM/1585721397000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Marvelous Inc."
+    },
+    {
+        "code": "UP0001-NPHB00444_00-FROMDUSTFULLGAME",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "From Dust™ 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0001-NPHB00444_00-FROMDUSTFULLGAME/1584499555000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "HP9000-NPHA80187_00-0DATURADATURADAT",
+        "startTime": "2016-09-08",
+        "endTime": "2016-10-05",
+        "title": "DATURA 製品版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-NPHA80187_00-0DATURADATURADAT/1584495917000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-CUSA01112_00-0000000000000000",
+        "startTime": "2016-09-15",
+        "endTime": "2016-10-05",
+        "title": "Gravity Rush 重力異想世界 Remastered (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA01112_00-0000000000000000/1584500112000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP0102-CUSA01068_00-ASIA000000000000",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
+        "title": "Resident Evil (中日英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0102-CUSA01068_00-ASIA000000000000/1585721404000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CAPCOM CO., LTD."
+    },
+    {
+        "code": "UP4321-CUSA00369_00-ASIAFULLGAME0000",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
+        "title": "Lords of the Fallen 製品版 (英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4321-CUSA00369_00-ASIAFULLGAME0000/1585670485000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CI Games S.A"
+    },
+    {
+        "code": "JP0106-PCSG00279_00-ASIA00000000GAME",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
+        "title": "戰國無雙4 製品版 (日文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0106-PCSG00279_00-ASIA00000000GAME/1584495969000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "code": "EP0001-ULES00223_00-ASIA000000000000",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
+        "title": "波斯王子：啟示 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP0001-ULES00223_00-ASIA000000000000/1584495916000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "EP0001-NPEB00886_00-MADUNLOCKFULLKEY",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
         "title": "Mad Riders",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/999/EP0001-NPEB00886_00-MADUNLOCKFULLKEY/1583337468000/image?w=240&h=240",
         "platforms": [
@@ -2694,19 +4581,109 @@
         ],
         "brand": "Ubisoft Entertainment"
     },
-    {"code":"UP0001-NPUB30913_00-ASIA000000000000","startTime":"2016-10-06","endTime":"2016-11-03"},
-    {"code":"HP5035-CUSA02452_00-BBCPPS4000001000","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"HP5035-PCSH00161_00-0000000000000000","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"HP5035-NPHB00723_00-BBCPPS3000001000","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"EP4062-CUSA01106_00-ASIA000000000001","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"HP9000-CUSA02417_00-GONETOTHERAPTURE","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"UP4395-CUSA02492_00-ASIA000000000000","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"UP4395-PCSE00702_00-ASIA000000000000","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"UP4395-NPUB31728_00-ASIA000000000000","startTime":"2016-11-04","endTime":"2016-12-07"},
     {
-        "code":"UP0001-PCSE00009_00-LUMINESELECTROSY",
-        "startTime":"2016-11-04",
-        "endTime":"2016-12-07",
+        "code": "UP0001-NPUB30913_00-ASIA000000000000",
+        "startTime": "2016-10-06",
+        "endTime": "2016-11-03",
+        "title": "湯姆克蘭西：世界戰局 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0001-NPUB30913_00-ASIA000000000000/1584499561000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "HP5035-CUSA02452_00-BBCPPS4000001000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "蒼翼默示錄 刻之幻影 擴充版 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5035-CUSA02452_00-BBCPPS4000001000/1585721404000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
+    },
+    {
+        "code": "HP5035-PCSH00161_00-0000000000000000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "蒼翼默示錄 刻之幻影 擴充版 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5035-PCSH00161_00-0000000000000000/1585721385000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
+    },
+    {
+        "code": "HP5035-NPHB00723_00-BBCPPS3000001000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "蒼翼默示錄 刻之幻影 擴充版 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5035-NPHB00723_00-BBCPPS3000001000/1584495919000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
+    },
+    {
+        "code": "EP4062-CUSA01106_00-ASIA000000000001",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Saints Row IV: Re-Elected (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4062-CUSA01106_00-ASIA000000000001/1585721461000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Koch Media GmbH"
+    },
+    {
+        "code": "HP9000-CUSA02417_00-GONETOTHERAPTURE",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Everybody’s Gone to the Rapture™ (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA02417_00-GONETOTHERAPTURE/1585677110000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "UP4395-CUSA02492_00-ASIA000000000000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Pumped BMX + (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-CUSA02492_00-ASIA000000000000/1584499515000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-PCSE00702_00-ASIA000000000000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Pumped BMX + (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-PCSE00702_00-ASIA000000000000/1584499494000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP4395-NPUB31728_00-ASIA000000000000",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Pumped BMX + (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4395-NPUB31728_00-ASIA000000000000/1584499525000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Curve Digital"
+    },
+    {
+        "code": "UP0001-PCSE00009_00-LUMINESELECTROSY",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
         "title": "Lumines Electronic Symphony",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0001-PCSE00009_00-LUMINESELECTROSY/1583198414000/image?w=240&h=240",
         "platforms": [
@@ -2714,16 +4691,136 @@
         ],
         "brand": "Ubisoft Entertainment"
     },
-    {"code":"UP0001-NPHB00363_00-FULLGAME00000PS3","startTime":"2016-11-04","endTime":"2016-12-07"},
-    {"code":"EP4139-CUSA01400_00-ASIA02GP40000002","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"HP0117-CUSA05530_00-PKG000000000GAME","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"HP0117-PCSH00289_00-PKG000000000GAME","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4530-CUSA01414_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4530-PCSE00573_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4530-NPUB31630_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4382-CUSA00570_00-ASIA000000000001","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4382-PCSE00432_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP4382-NPUB31483_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP2171-CUSA01952_00-ASIA000000000000","startTime":"2016-12-08","endTime":"2017-01-05"},
-    {"code":"UP2171-NPUB31617_00-ASIA000000000001","startTime":"2016-12-08","endTime":"2017-01-05"}
+    {
+        "code": "UP0001-NPHB00363_00-FULLGAME00000PS3",
+        "startTime": "2016-11-04",
+        "endTime": "2016-12-07",
+        "title": "Beyond Good and Evil® HD 製品版 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0001-NPHB00363_00-FULLGAME00000PS3/1584499526000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Ubisoft Entertainment"
+    },
+    {
+        "code": "EP4139-CUSA01400_00-ASIA02GP40000002",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Magicka 2: Base Edition (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4139-CUSA01400_00-ASIA02GP40000002/1585677135000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Paradox Interactive"
+    },
+    {
+        "code": "HP0117-CUSA05530_00-PKG000000000GAME",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "√Letter-方根書簡- (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0117-CUSA05530_00-PKG000000000GAME/1584495953000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Kadokawa Games"
+    },
+    {
+        "code": "HP0117-PCSH00289_00-PKG000000000GAME",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "√Letter-方根書簡- (中文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0117-PCSH00289_00-PKG000000000GAME/1584495959000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Kadokawa Games"
+    },
+    {
+        "code": "UP4530-CUSA01414_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "BADLAND: GAME OF THE YEAR EDITION (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4530-CUSA01414_00-ASIA000000000000/1584499508000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "FROGMIND OY"
+    },
+    {
+        "code": "UP4530-PCSE00573_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "BADLAND: GAME OF THE YEAR EDITION (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4530-PCSE00573_00-ASIA000000000000/1584499522000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "FROGMIND OY"
+    },
+    {
+        "code": "UP4530-NPUB31630_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "BADLAND: GAME OF THE YEAR EDITION (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4530-NPUB31630_00-ASIA000000000000/1584499514000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "FROGMIND OY"
+    },
+    {
+        "code": "UP4382-CUSA00570_00-ASIA000000000001",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Tiny Troopers Joint Ops: Zombie Campaign DLC (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4382-CUSA00570_00-ASIA000000000001/1578134203000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Wired Productions Ltd"
+    },
+    {
+        "code": "UP4382-PCSE00432_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Tiny Troopers Joint Ops: Zombie Campaign DLC (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4382-PCSE00432_00-ASIA000000000000/1578134204000/image?w=240&h=240",
+        "platforms": [
+            "PS Vita"
+        ],
+        "brand": "Wired Productions Ltd"
+    },
+    {
+        "code": "UP4382-NPUB31483_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Tiny Troopers Joint Ops: Zombie Campaign DLC (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4382-NPUB31483_00-ASIA000000000000/1578134195000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "Wired Productions Ltd"
+    },
+    {
+        "code": "UP2171-CUSA01952_00-ASIA000000000000",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Hyper Void (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2171-CUSA01952_00-ASIA000000000000/1584499554000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "IN|Framez Technology Corp."
+    },
+    {
+        "code": "UP2171-NPUB31617_00-ASIA000000000001",
+        "startTime": "2016-12-08",
+        "endTime": "2017-01-05",
+        "title": "Hyper Void (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2171-NPUB31617_00-ASIA000000000001/1584499567000/image?w=240&h=240",
+        "platforms": [
+            "PS3"
+        ],
+        "brand": "IN|Framez Technology Corp."
+    }
 ]
