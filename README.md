@@ -12,4 +12,4 @@
 
 ## Deploy
 整合了Github Action
-詳見 [main.yml](../.github/workflows/main.yml)
+詳見 [main.yml](../master/.github/workflows/main.yml)
