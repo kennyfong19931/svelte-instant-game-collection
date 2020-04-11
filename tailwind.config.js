@@ -8,7 +8,6 @@ const colors = {
   error: "#f44336",
   success: "#4caf50",
   alert: "#ffeb3b",
-//   blue: "#2196f3",
   blue: "#0172CE",
   dark: "#212121",
 
@@ -19,7 +18,7 @@ const colors = {
 //   "deep-purple": "#673ab7",
 //   indigo: "#3f51b5",
 //   blue: "#2196f3",
-//   "light-blue": "#03a9f4",
+   "light-blue": "#03a9f4",
 //   cyan: "#00bcd4",
 //   teal: "#009688",
 //   green: "#4caf50",

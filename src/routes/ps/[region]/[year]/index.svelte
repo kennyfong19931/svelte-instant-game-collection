@@ -74,6 +74,11 @@
 				<Icon small class="py-1">event_busy</Icon> 
 				<span class="pt-px px-1">{game.endTime}</span>
 			</button>
+			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-light-blue-500">
+				{#each game.platforms as platform}
+					<span class="pt-px px-1">{platform}</span>
+				{/each}
+			</button>
 			<button class="rounded-full flex item-center m-1 px-2 py-1 bg-blue-500 text-white">
 				<Icon small class="py-1">shopping_cart</Icon> 
 				<span class="pt-px px-1">
