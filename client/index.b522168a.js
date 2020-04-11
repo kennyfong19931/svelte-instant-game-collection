@@ -1,0 +1,1 @@
+import{S as s,i as e,s as n}from"./client.9ec10e27.js";async function o({params:s},e){console.log("region"+JSON.stringify(s))}export default class extends s{constructor(s){super(),e(this,s,null,null,n,{})}}export{o as preload};
