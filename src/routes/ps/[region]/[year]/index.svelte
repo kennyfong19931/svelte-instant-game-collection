@@ -66,15 +66,15 @@
 			<Image class="w-full" src={game.image} />
 		</div>
 		<div slot="text" class="p-5 pt-3 text-gray-700 body-2">
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-success-500">
+			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-success-500 text-white">
 				<Icon small class="py-1">event_available</Icon> 
 				<span class="pt-px px-1">{game.startTime}</span>
 			</button>
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-error-500">
+			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-error-500 text-white">
 				<Icon small class="py-1">event_busy</Icon> 
 				<span class="pt-px px-1">{game.endTime}</span>
 			</button>
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-light-blue-500">
+			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-light-blue-500 text-white">
 				{#each game.platforms as platform}
 					<span class="pt-px px-1">{platform}</span>
 				{/each}
