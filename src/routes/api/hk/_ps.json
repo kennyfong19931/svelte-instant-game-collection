@@ -2,12 +2,24 @@
     {
         "code": "EP4139-CUSA06407_00-ASIACITIESPS4000",
         "startTime": "2020-05-07",
-        "endTime": "2020-06-01"
+        "endTime": "2020-06-01",
+        "title": "Cities: Skylines - PlayStation®4 Edition (英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4139-CUSA06407_00-ASIACITIESPS4000/1585721462000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Paradox Interactive"
     },
     {
         "code": "EP4133-CUSA11593_00-ASIA000000000000",
         "startTime": "2020-05-07",
-        "endTime": "2020-06-01"
+        "endTime": "2020-06-01",
+        "title": "Farming Simulator 19 (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4133-CUSA11593_00-ASIA000000000000/1583805176000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Focus Home Interactive"
     },
     {
         "code": "HP9000-CUSA00912_00-ASIAPLACEHOLDER0",
