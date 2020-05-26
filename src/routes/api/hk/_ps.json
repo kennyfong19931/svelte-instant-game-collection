@@ -2,7 +2,13 @@
     {
         "code": "HP0002-CUSA08721_00-CODWWIIGAMEIGC01",
         "startTime": "2020-05-26",
-        "endTime": "2020-07-06"
+        "endTime": "2020-07-06",
+        "title": "《決勝時刻®：二戰》 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0002-CUSA08721_00-CODWWIIGAMEIGC01/1590468150000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Activision"
     },
     {
         "code": "EP4139-CUSA06407_00-ASIACITIESPS4000",
