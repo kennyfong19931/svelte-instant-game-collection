@@ -2,17 +2,35 @@
     {
         "code": "UP1001-CUSA16310_00-ASIAFULLGAME0000",
         "startTime": "2020-07-07",
-        "endTime": "2020-08-03"
+        "endTime": "2020-08-03",
+        "title": "NBA 2K20 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1001-CUSA16310_00-ASIAFULLGAME0000/1594126611000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Take Two Interactive Software UK Limited"
     },
     {
         "code": "HP0700-CUSA06059_00-RISEOFTOMBRAIDER",
         "startTime": "2020-07-07",
-        "endTime": "2020-08-03"
+        "endTime": "2020-08-03",
+        "title": "Rise of the Tomb Raider: 20 Year Celebration (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0700-CUSA06059_00-RISEOFTOMBRAIDER/1594127476000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment Asia Pte Ltd."
     },
     {
         "code": "EP9000-CUSA11882_00-ASIA000000000000",
         "startTime": "2020-07-07",
-        "endTime": "2020-08-03"
+        "endTime": "2020-08-03",
+        "title": "Erica (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP9000-CUSA11882_00-ASIA000000000000/1594126523000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
     },
     {
         "code": "UP0006-CUSA05770_00-ASIAPLACEHOLDER2",
