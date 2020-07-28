@@ -1,5 +1,10 @@
 [
     {
+        "code": "HP0002-CUSA11012_00-CODMW2RIGC000001",
+        "startTime": "2020-07-28",
+        "endTime": "2020-08-27"
+    },
+    {
         "code": "UP1001-CUSA16310_00-ASIAFULLGAME0000",
         "startTime": "2020-07-07",
         "endTime": "2020-08-03",
@@ -48,7 +53,7 @@
         "startTime": "2020-05-26",
         "endTime": "2020-07-06",
         "title": "《決勝時刻®：二戰》 (中英韓文版)",
-        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0002-CUSA08721_00-CODWWIIGAMEIGC01/1590468150000/image?w=240&h=240",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0002-CUSA08721_00-ASIAPLACEHOLDER0/1595382107000/image?w=240&h=240",
         "platforms": [
             "PS4"
         ],
@@ -224,7 +229,7 @@
         "startTime": "2019-11-06",
         "endTime": "2019-12-03",
         "title": "「仁王」（一般版）",
-        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0106-CUSA03972_00-ASIAPLACEHOLDER0/1575443298000/image?w=240&h=240",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0106-CUSA03972_00-ASIAPLACEHOLDER0/1595831593000/image?w=240&h=240",
         "platforms": [
             "PS4"
         ],
