@@ -2,7 +2,13 @@
     {
         "code": "UP3643-CUSA17711_00-FALLGUYSPS4US000",
         "startTime": "2020-08-04",
-        "endTime": "2020-08-31"
+        "endTime": "2020-08-31",
+        "title": "Fall Guys: Ultimate Knockout (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP3643-CUSA17711_00-FALLGUYSPS4US000/1596512679000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Devolver Digital"
     },
     {
         "code": "HP0002-CUSA11012_00-CODMW2RIGC000001",
