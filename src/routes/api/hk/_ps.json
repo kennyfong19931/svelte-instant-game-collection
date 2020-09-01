@@ -2,12 +2,24 @@
     {
         "code": "JP0102-CUSA02102_00-ASIA000000000004",
         "startTime": "2020-09-01",
-        "endTime": "2020-10-05"
+        "endTime": "2020-10-05",
+        "title": "STREET FIGHTER V + Shinkiro Theme (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0102-CUSA02102_00-ASIA000000000004/1598953751000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "CAPCOM CO., LTD."
     },
     {
         "code": "UP5082-CUSA14081_00-ASIA000000000001",
         "startTime": "2020-09-01",
-        "endTime": "2020-10-05"
+        "endTime": "2020-10-05",
+        "title": "絕地求生 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP5082-CUSA14081_00-ASIA000000000001/1598950368000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "PUBG Corporation"
     },
     {
         "code": "UP3643-CUSA17711_00-FALLGUYSPS4US000",
