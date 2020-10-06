@@ -2,12 +2,24 @@
     {
         "code": "UP0006-CUSA05999_00-ASIAPLACEHOLDER0",
         "startTime": "2020-10-06",
-        "endTime": "2020-11-03"
+        "endTime": "2020-11-03",
+        "title": "Need for Speed™ Payback (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-CUSA05999_00-ASIAPLACEHOLDER0/1601949157000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "UP4133-CUSA03293_00-ASIA000000000000",
         "startTime": "2020-10-06",
-        "endTime": "2020-11-03"
+        "endTime": "2020-11-03",
+        "title": "Vampyr (英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4133-CUSA03293_00-ASIA000000000000/1601949157000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Focus Home Interactive"
     },
     {
         "code": "JP0102-CUSA02102_00-ASIA000000000004",
