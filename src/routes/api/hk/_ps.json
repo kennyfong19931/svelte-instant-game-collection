@@ -1,5 +1,15 @@
 [
     {
+        "code": "UP0006-CUSA05999_00-ASIAPLACEHOLDER0",
+        "startTime": "2020-10-06",
+        "endTime": "2020-11-03"
+    },
+    {
+        "code": "UP4133-CUSA03293_00-ASIA000000000000",
+        "startTime": "2020-10-06",
+        "endTime": "2020-11-03"
+    },
+    {
         "code": "JP0102-CUSA02102_00-ASIA000000000004",
         "startTime": "2020-09-01",
         "endTime": "2020-10-05",
