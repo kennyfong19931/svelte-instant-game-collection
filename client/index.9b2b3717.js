@@ -1,0 +1,1 @@
+import{S as s,i as n,s as o}from"./client.cc07cabe.js";async function t({params:s},n){console.log("region"+JSON.stringify(s))}export default class extends s{constructor(s){super(),n(this,s,null,null,o,{})}}export{t as preload};
