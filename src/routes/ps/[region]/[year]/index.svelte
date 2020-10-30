@@ -82,7 +82,7 @@
 			<button class="rounded-full flex item-center m-1 px-2 py-1 bg-blue-500 text-white">
 				<Icon small class="py-1">shopping_cart</Icon> 
 				<span class="pt-px px-1">
-				<a target="_blank" href={"https://store.playstation.com/#!/cid=" + game.code}>PS Store</a>
+				<a target="_blank" href={"https://store.playstation.com/?resolve=" + game.code}>PS Store</a>
 				</span>
 			</button>
 		</div>
