@@ -2,17 +2,35 @@
     {
         "code": "UP1018-CUSA04408_00-ASIAPLACEHOLDER0",
         "startTime": "2020-11-04",
-        "endTime": "2020-11-30"
+        "endTime": "2020-11-30",
+        "title": "《中土世界™：戰爭之影™》 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1018-CUSA04408_00-ASIAPLACEHOLDER0/1604454551000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "EP1805-CUSA13285_00-ASIA000000000000",
         "startTime": "2020-11-04",
-        "endTime": "2020-11-30"
+        "endTime": "2020-11-30",
+        "title": "Hollow Knight (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP1805-CUSA13285_00-ASIA000000000000/1604454511000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Team Cherry Pty Ltd"
     },
     {
         "code": "HP0036-CUSA08202_00-GGXRDREV2AS00100",
         "startTime": "2020-11-04",
-        "endTime": "2020-11-30"
+        "endTime": "2020-11-30",
+        "title": "GUILTY GEAR Xrd REV 2 (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0036-CUSA08202_00-GGXRDREV2AS00100/1604454523000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ARC SYSTEM WORKS Co.,Ltd."
     },
     {
         "code": "UP0006-CUSA05999_00-ASIAPLACEHOLDER0",
