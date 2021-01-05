@@ -4,11 +4,12 @@ const request = require('request-promise-native');
 const fs = require('fs');
 var path = require('path');
 
-const baseUrl = 'https://store.playstation.com/valkyrie-api/ch/HK/19/resolve/'
+const baseUrl = 'https://store.playstation.com/valkyrie-api/ch/HK/19/resolve/';
+const baseUrlGraphql = 'https://web.np.playstation.com/api/graphql/v1/op?operationName=productRetrieveForUpsellWithCtas&variables=%7B%22productId%22%3A%22{CODE}%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%227d46a3b7949a7a980a04213ba6355c72b3713cb96f2e3cb077f318883fa3092b%22%7D%7D';
+const lang = 'zh-hant-HK';
 
-
-function getDataFromAPI(url){
-	return request({ url: url, json: true }).then(body => {
+function getDataFromAPI(code){
+	return request({ url: baseUrl + code, json: true }).then(body => {
 		let response = {};
 		response.name = body.included[0].attributes.name;
 		if (body.included[0].attributes.skus != undefined && body.included[0].attributes.skus[0] != undefined){
@@ -18,6 +19,27 @@ function getDataFromAPI(url){
 		response.platforms = body.included[0].attributes.platforms;
 		response.brand = body.included[0].attributes["provider-name"];
 		return response;
+	})
+	.catch(function (err) {
+		console.log(err.message)
+	});
+}
+
+function getDataFromGraphqlAPI(code){
+	return request({ url: baseUrlGraphql.replace('{CODE}', code), json: true, headers: {'x-psn-store-locale-override': lang} }).then(body => {
+		let response = {};
+		response.name = body.data.productRetrieve.concept.products[0].name;
+		body.data.productRetrieve.concept.products[0].media.forEach(function(element){
+			if(element.role === 'MASTER'){
+				response.image = element.url + "?w=240&h=240";
+			}
+		})
+		response.platforms = body.data.productRetrieve.concept.products[0].platforms;
+		response.brand = '';
+		return response;
+	})
+	.catch(function (err) {
+		console.log(err.message)
 	});
 }
 
@@ -35,7 +57,11 @@ console.log("Start update");
 	for (const item of json) {
 		if (item.title === undefined || item.image === undefined || item.platforms === undefined || item.brand === undefined) {
 			console.log(item.code + " need update");
-			let response = await getDataFromAPI(baseUrl + item.code);
+			let response = await getDataFromAPI(item.code);
+			if (response == null){
+				console.log("Get error from valkyrie-api. Retry with graphql API");
+				response = await getDataFromGraphqlAPI(item.code);
+			}
 			item.title = response.name;
 			item.image = response.image;
 			item.platforms = response.platforms;

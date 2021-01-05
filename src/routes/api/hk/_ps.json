@@ -2,37 +2,79 @@
     {
         "code": "EP0114-PPSA01862_00-MANEATER00000001",
         "startTime": "2021-01-05",
-        "endTime": "2021-02-01"
+        "endTime": "2021-02-01",
+        "title": "Maneater PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP0700-CUSA11187_00-SHADOWTOMBRAIDER",
         "startTime": "2021-01-05",
-        "endTime": "2021-02-01"
+        "endTime": "2021-02-01",
+        "title": "Shadow of the Tomb Raider (中韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0700-CUSA11187_00-SHADOWTOMBRAIDER/1609779473000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment Asia Pte Ltd."
     },
     {
         "code": "EP4133-CUSA14208_00-ASIA000000000000",
         "startTime": "2021-01-05",
-        "endTime": "2021-02-01"
+        "endTime": "2021-02-01",
+        "title": "GreedFall (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4133-CUSA14208_00-ASIA000000000000/1609817603000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Focus Home Interactive"
     },
     {
         "code": "HP5028-CUSA13217_00-JC4000000000ASIA",
         "startTime": "2020-12-01",
-        "endTime": "2021-01-04"
+        "endTime": "2021-01-04",
+        "title": "Just Cause 4",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5028-CUSA13217_00-ASIAFULLGAME0000/1602575924000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment Asia Pte Ltd."
     },
     {
         "code": "UP0006-CUSA18630_00-ROCKETARENAMATCH",
         "startTime": "2020-12-01",
-        "endTime": "2021-01-04"
+        "endTime": "2021-01-04",
+        "title": "火箭競技場 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-CUSA18630_00-ROCKETARENAMATCH/1609829250000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ELECTRONIC ARTS"
     },
     {
         "code": "EP4064-PPSA01526_00-7366148917983053",
         "startTime": "2020-12-01",
-        "endTime": "2021-01-04"
+        "endTime": "2021-01-04",
+        "title": "Worms Rumble PS4 and PS5 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4064-PPSA01526_00-7366148917983053/1609844060000/image?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "TEAM 17 DIGITAL"
     },
     {
         "code": "HP2104-PPSA01540_00-BSNAX16543620005",
         "startTime": "2020-11-12",
-        "endTime": "2021-01-04"
+        "endTime": "2021-01-04",
+        "title": "Bugsnax (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP2104-PPSA01540_00-BSNAX16543620005/1609818323000/image?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Young Horses, Inc."
     },
     {
         "code": "UP1018-CUSA04408_00-ASIAPLACEHOLDER0",
