@@ -8,18 +8,18 @@
         "platforms": [
             "PS5"
         ],
-        "brand": ""
+        "brand": "Worldwide Studios"
     },
     {
         "code": "UP4040-PPSA01949_00-CONTROLUEPS50000",
         "startTime": "2021-02-02",
         "endTime": "2021-03-01",
-        "title": "Control 標準版 (簡體中文, 韓文, 英文, 繁體中文)",
+        "title": "《Control》終極版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307dLeVCGWFYYXJju7dbSKpVI8zlk_0WDg9nnYRmmGgRykTmHjBmV0kt6u-46O1LuJw14WoNs87vXwkZOyp-v9QZkS2ffh.png?w=240&h=240",
         "platforms": [
-            "PS4"
+            "PS5"
         ],
-        "brand": ""
+        "brand": "505 GAMES"
     },
     {
         "code": "HP9000-CUSA11851_00-CONCRETEGENIE000",
@@ -63,14 +63,14 @@
         "platforms": [
             "PS5"
         ],
-        "brand": ""
+        "brand": "TRIPWIRE INTERACTIVE"
     },
     {
         "code": "HP0700-CUSA11187_00-SHADOWTOMBRAIDER",
         "startTime": "2021-01-05",
         "endTime": "2021-02-01",
         "title": "Shadow of the Tomb Raider (中韓文版)",
-        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0700-CUSA11187_00-SHADOWTOMBRAIDER/1609779473000/image?w=240&h=240",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307kGDEQ-Af4VjkwzfffuEE2DIn5-r1kMp86kg5PyUc7morSMv04cMbucnKivYNnLJl5Y11Ys7pXuLan1YW7zg1XsxKtb0.png?w=240&h=240",
         "platforms": [
             "PS4"
         ],
