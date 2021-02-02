@@ -2,27 +2,57 @@
     {
         "code": "HP9000-PPSA02714_00-DALLSTARSPLUS001",
         "startTime": "2021-02-02",
-        "endTime": "2021-03-01"
+        "endTime": "2021-03-01",
+        "title": "Destruction AllStars (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/0513/MYXPEsm7SVKszWWAHhcNfta6.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP4040-PPSA01949_00-CONTROLUEPS50000",
         "startTime": "2021-02-02",
-        "endTime": "2021-03-01"
+        "endTime": "2021-03-01",
+        "title": "Control 標準版 (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307dLeVCGWFYYXJju7dbSKpVI8zlk_0WDg9nnYRmmGgRykTmHjBmV0kt6u-46O1LuJw14WoNs87vXwkZOyp-v9QZkS2ffh.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP9000-CUSA11851_00-CONCRETEGENIE000",
         "startTime": "2021-02-02",
-        "endTime": "2021-03-01"
+        "endTime": "2021-03-01",
+        "title": "Concrete Genie (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA11851_00-CONCRETEGENIE000/1612201875000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
     },
     {
         "code": "UP4040-CUSA07953_00-ASIA000000000002",
         "startTime": "2021-02-02",
-        "endTime": "2021-03-01"
+        "endTime": "2021-03-01",
+        "title": "Bloodstained: Ritual of the Night (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP4040-CUSA07953_00-ASIA000000000002/1612201808000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
     },
     {
         "code": "HP5040-CUSA09568_00-COCONUTGAMESSHIO",
         "startTime": "2021-02-02",
-        "endTime": "2021-03-01"
+        "endTime": "2021-03-01",
+        "title": "汐 (中英文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP5040-CUSA09568_00-COCONUTGAMESSHIO/1612198197000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Shanghai Kena Information Technology Co., Ltd."
     },
     {
         "code": "EP0114-PPSA01862_00-MANEATER00000001",
