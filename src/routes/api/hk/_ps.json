@@ -1,5 +1,30 @@
 [
     {
+        "code": "HP2418-PPSA01834_00-MAQUETTESIEJASIA",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-05"
+    },
+    {
+        "code": "JP0082-CUSA07052_00-FFVIIREMAKE00000",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-05"
+    },
+    {
+        "code": "HP0082-CUSA16170_00-ASIAFULLGAME0000",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-05"
+    },
+    {
+        "code": "HP9000-CUSA08095_00-ASIAPLACEHOLDER0",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-05"
+    },
+    {
+        "code": "HP9000-CUSA05710_00-ASIAPLACEHOLDER0",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-05"
+    },
+    {
         "code": "HP9000-PPSA02714_00-DALLSTARSPLUS001",
         "startTime": "2021-02-02",
         "endTime": "2021-03-01",
