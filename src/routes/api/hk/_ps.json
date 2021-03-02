@@ -8,7 +8,7 @@
         "platforms": [
             "PS5"
         ],
-        "brand": ""
+        "brand": "Annapurna Interactive"
     },
     {
         "code": "JP0082-CUSA07052_00-FFVIIREMAKE00000",
@@ -49,6 +49,17 @@
         "endTime": "2021-04-05",
         "title": "Farpoint (中英韓文版)",
         "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA05710_00-ASIAPLACEHOLDER0/1614649660000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
+    },
+    {
+        "code": "HP9000-CUSA02020_00-RCPS400000000000",
+        "startTime": "2021-03-01",
+        "endTime": "2021-04-01",
+        "title": "Ratchet ＆ Clank™ PlayStation®Hits (中英韓文版) (Play At Home活動)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA02020_00-RCPS400000000000/1614649660000/image?w=240&h=240",
         "platforms": [
             "PS4"
         ],
