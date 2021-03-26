@@ -2,42 +2,90 @@
     {
         "code": "UP5245-CUSA13529_00-SUBNAUTICA000000",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "深海迷航 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP5245-CUSA13529_00-SUBNAUTICA000000/1616724614000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "UNKNOWN WORLDS ENTERTAINMNT, INC."
     },
     {
         "code": "EP4040-CUSA03364_00-ASIA000000000000",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "ABZU (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4040-CUSA03364_00-ASIA000000000000/1616724480000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "505 GAMES S.R.L."
     },
     {
         "code": "UP2124-CUSA00498_00-ASIA000000000000",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "The Witness (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP2124-CUSA00498_00-ASIA000000000000/1616724471000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "THEKLA INC.,"
     },
     {
         "code": "UP0751-CUSA05868_00-ASIAREZINFINITE0",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "Rez Infinite (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0751-CUSA05868_00-ASIAREZINFINITE0/1616724471000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Enhance Games, Inc."
     },
     {
         "code": "HP9000-CUSA12307_00-ASIAPLACEHOLDER0",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "ASTRO BOT: RESCUE MISSION (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA12307_00-ASIAPLACEHOLDER0/1616724513000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
     },
     {
         "code": "UP1983-CUSA09290_00-ASIA000000000000",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "Moss™ (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1983-CUSA09290_00-ASIA000000000000/1616724614000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Polyarc"
     },
     {
         "code": "UP1613-CUSA03559_00-ASIA000000000000",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "Thumper (遊戲)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1613-CUSA03559_00-ASIA000000000000/1616724471000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "DROOL LLC"
     },
     {
         "code": "EP3265-CUSA15356_00-PAPERBEAST047011",
         "startTime": "2021-03-26",
-        "endTime": "2021-04-22"
+        "endTime": "2021-04-22",
+        "title": "Paper Beast (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP3265-CUSA15356_00-PAPERBEAST047011/1616753585000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "PIXEL REEF"
     },
     {
         "code": "HP2418-PPSA01834_00-MAQUETTESIEJASIA",
