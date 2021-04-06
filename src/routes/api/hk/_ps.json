@@ -2,22 +2,47 @@
     {
         "code": "UP4134-PPSA01590_00-8013847526978797",
         "startTime": "2021-04-06",
-        "endTime": "2021-05-05"
+        "endTime": "2021-05-05",
+        "title": "Oddworld: Soulstorm (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202103/2509/rwjhsXEFypLPMbsla45qXzUB.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP9000-CUSA09115_00-ASIAFULLGAME0000",
         "startTime": "2021-04-06",
-        "endTime": "2021-05-05"
+        "endTime": "2021-05-05",
+        "title": "Days Gone 一般版 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP9000-CUSA09115_00-ASIAFULLGAME0000/1617673762000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Worldwide Studios"
     },
     {
         "code": "EP4529-CUSA12596_00-ASIA000000000000",
         "startTime": "2021-04-06",
-        "endTime": "2021-05-05"
+        "endTime": "2021-05-05",
+        "title": "Zombie Army 4: Dead War (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/EP4529-CUSA12596_00-ASIA000000000000/1617673813000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Rebellion"
     },
     {
         "code": "JP0507-CUSA09102_00-ASIA000000000000",
         "startTime": "2021-04-06",
-        "endTime": "2021-05-05"
+        "endTime": "2021-05-05",
+        "title": "X-Morph: Defense (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0507-CUSA09102_00-ASIA000000000000/1617673762000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Marvelous Inc."
     },
     {
         "code": "UP5245-CUSA13529_00-SUBNAUTICA000000",
