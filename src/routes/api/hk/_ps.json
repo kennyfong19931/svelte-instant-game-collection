@@ -2,17 +2,35 @@
     {
         "code": "UP4389-PPSA03308_00-WRECKFESTPS5US00",
         "startTime": "2021-05-06",
-        "endTime": "2021-05-31"
+        "endTime": "2021-05-31",
+        "title": "Wreckfest (遊戲)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307fXF1H-sdBpvYxBlc4u9ZKOXmyPiG8xypN4sKbxs5gLwKKKCE1C95b4EId9hcR_bJOKK_tERKQkp89k-J71PukIDitCN.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0006-CUSA08724_00-ASIA000000000010",
         "startTime": "2021-05-06",
-        "endTime": "2021-05-31"
+        "endTime": "2021-05-31",
+        "title": "《戰地風雲 5》 (中英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-CUSA08724_00-ASIA000000000010/1620374173000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "JP0211-CUSA16315_00-ASIA000000000000",
         "startTime": "2021-05-06",
-        "endTime": "2021-05-31"
+        "endTime": "2021-05-31",
+        "title": "Coffee Talk (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/JP0211-CUSA16315_00-ASIA000000000000/1620265750000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Chorus WorldWide Limited"
     },
     {
         "code": "HP9000-CUSA10218_00-HRZCE00000000000",
