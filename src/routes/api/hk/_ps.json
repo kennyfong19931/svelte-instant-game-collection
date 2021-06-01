@@ -2,17 +2,35 @@
     {
         "code": "UP1495-PPSA03243_00-7342236139216396",
         "startTime": "2021-06-01",
-        "endTime": "2021-07-05"
+        "endTime": "2021-07-05",
+        "title": "行動代號：探戈 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP1495-PPSA03243_00-7342236139216396/1622548780000/image?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "CLEVER-PLAYS STUDIO"
     },
     {
         "code": "UP0006-CUSA15080_00-STARWARSQUADRONS",
         "startTime": "2021-06-01",
-        "endTime": "2021-07-05"
+        "endTime": "2021-07-05",
+        "title": "STAR WARS™：中隊爭雄 (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/UP0006-CUSA15080_00-STARWARSQUADRONS/1622554967000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "ELECTRONIC ARTS"
     },
     {
         "code": "HP0177-CUSA27067_00-9030766588190582",
         "startTime": "2021-06-01",
-        "endTime": "2021-07-05"
+        "endTime": "2021-07-05",
+        "title": "Virtua Fighter 5 Ultimate Showdown (中日英韓文版)",
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/HK/ch/19/HP0177-CUSA27067_00-9030766588190582/1622513858000/image?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "SEGA CORPORATION"
     },
     {
         "code": "UP4389-PPSA03308_00-WRECKFESTPS5US00",
