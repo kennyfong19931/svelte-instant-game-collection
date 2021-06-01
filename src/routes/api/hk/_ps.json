@@ -1,5 +1,20 @@
 [
     {
+        "code": "UP1495-PPSA03243_00-7342236139216396",
+        "startTime": "2021-06-01",
+        "endTime": "2021-07-05"
+    },
+    {
+        "code": "UP0006-CUSA15080_00-STARWARSQUADRONS",
+        "startTime": "2021-06-01",
+        "endTime": "2021-07-05"
+    },
+    {
+        "code": "HP0177-CUSA27067_00-9030766588190582",
+        "startTime": "2021-06-01",
+        "endTime": "2021-07-05"
+    },
+    {
         "code": "UP4389-PPSA03308_00-WRECKFESTPS5US00",
         "startTime": "2021-05-06",
         "endTime": "2021-05-31",
@@ -8,7 +23,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "THQ NORDIC GAMES GMBH"
     },
     {
         "code": "UP0006-CUSA08724_00-ASIA000000000010",
