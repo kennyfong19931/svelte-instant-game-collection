@@ -2,17 +2,35 @@
     {
         "code": "EP4133-PPSA02387_00-APLAGUETALEGAME0",
         "startTime": "2021-07-06",
-        "endTime": "2021-08-02"
+        "endTime": "2021-08-02",
+        "title": "A Plague Tale: Innocence (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/uFqCClqXSIsEFIo3ktJdZm7H.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP0002-CUSA12467_00-CODBO4GAMEPSPLUS",
         "startTime": "2021-07-06",
-        "endTime": "2021-08-02"
+        "endTime": "2021-08-02",
+        "title": "《決勝時刻®：黑色行動4》 (中英韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307-_3gXhUE8UsInLZftq2TO-HZBZYjRKFVIhfMWSoW3toofIyj_LJS_gFZcYc4OBTA-5gBOGI2a4pVO-wqWlE-CYQh24C.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP1001-CUSA16767_00-WWEBATTLEGROUNDS",
         "startTime": "2021-07-06",
-        "endTime": "2021-08-02"
+        "endTime": "2021-08-02",
+        "title": "2K籃球與亂鬥同捆包 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2003/KrnbdPDSDbyNdAgEHvusXF2Z.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP1495-PPSA03243_00-7342236139216396",
