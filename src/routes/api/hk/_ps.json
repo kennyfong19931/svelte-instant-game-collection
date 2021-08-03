@@ -9,18 +9,18 @@
             "PS4",
             "PS5"
         ],
-        "brand": ""
+        "brand": "Mantisco Co.,Ltd"
     },
     {
         "code": "UP0006-CUSA10863_00-ASIA000000000003",
         "startTime": "2021-08-03",
         "endTime": "2021-09-06",
-        "title": "EA 極速植物同捆包 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0721/edcp3eNi75LgA34W91EezxFe.png?w=240&h=240",
+        "title": "植物大戰殭屍™: 和睦小鎮保衛戰 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307pG40e9CMdXlAnkz6R_JMhRL1yrKD5HVcOeQDLqL60NUbrOfB0xn_sVGLO9SExkm1U3WNAFQsQgc9x8n0XMkJdI7X3Dq.png?w=240&h=240",
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "ELECTRONIC ARTS"
     },
     {
         "code": "EP4008-CUSA23445_00-TWT2SIEE00000000",
@@ -31,7 +31,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "NACON SA"
     },
     {
         "code": "EP4133-PPSA02387_00-APLAGUETALEGAME0",
