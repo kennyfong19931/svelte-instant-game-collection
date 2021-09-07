@@ -2,17 +2,36 @@
     {
         "code": "EP4064-PPSA01528_00-0538983162460184",
         "startTime": "2021-09-07",
-        "endTime": "2021-10-04"
+        "endTime": "2021-10-04",
+        "title": "Overcooked! All You Can Eat (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202108/0910/i9HN1OAiubvUKslWP4Whvr09.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP4572-CUSA12421_00-ASIAPLACEHOLDER0",
         "startTime": "2021-09-07",
-        "endTime": "2021-10-04"
+        "endTime": "2021-10-04",
+        "title": "HITMAN™ 2 (遊戲)",
+        "image": "https://image.api.playstation.com/cdn/UP4572/CUSA12421_00/lR0MTShG2wSbAy3J7uXwSzlD6i9gv8arcfvUy1mrjXVmmKQbyp7oYytcrjdxX5jf.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP9000-CUSA17648_00-PREDATORHUNTGAME",
         "startTime": "2021-09-07",
-        "endTime": "2021-10-04"
+        "endTime": "2021-10-04",
+        "title": "Predator: Hunting Grounds (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/oM20ugDPoGWmbJOeLYVunesm.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP8074-PPSA02691_00-3574855487637021",
