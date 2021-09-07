@@ -6,10 +6,9 @@
         "title": "Overcooked! All You Can Eat (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202108/0910/i9HN1OAiubvUKslWP4Whvr09.png?w=240&h=240",
         "platforms": [
-            "PS4",
             "PS5"
         ],
-        "brand": ""
+        "brand": "TEAM 17 DIGITAL"
     },
     {
         "code": "UP4572-CUSA12421_00-ASIAPLACEHOLDER0",
@@ -20,7 +19,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "HP9000-CUSA17648_00-PREDATORHUNTGAME",
@@ -31,7 +30,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "Worldwide Studios"
     },
     {
         "code": "UP8074-PPSA02691_00-3574855487637021",
