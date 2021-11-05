@@ -2,27 +2,58 @@
     {
         "code": "EP0131-PPSA02561_00-FIRSTCLASSTROUBL",
         "startTime": "2021-11-02",
-        "endTime": "2021-12-06"
+        "endTime": "2021-12-06",
+        "title": "First Class Trouble (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0721/fR6ZcjRKAvi82kHKO1sSQdYO.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4389-CUSA17245_00-KOARECKONINGDEEU",
         "startTime": "2021-11-02",
-        "endTime": "2021-12-06"
+        "endTime": "2021-12-06",
+        "title": "Kingdoms of Amalur: Re-Reckoning (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/2610/7j1GUXdvOGPoLaaQRt2J2viK.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP5036-CUSA10052_00-THESEXYBRUTALE01",
         "startTime": "2021-11-02",
-        "endTime": "2021-12-06"
+        "endTime": "2021-12-06",
+        "title": "The Sexy Brutale (中日英韓文版)",
+        "image": "https://image.api.playstation.com/cdn/HP5036/CUSA10052_00/g0y6shmBOtw75pOdXIjGj9AnQR2KQiOySg6FAt78H9lzBpJz8lcqLY5MMP1Dn5tD.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP3536-CUSA07643_00-COMPEDIT25202048",
         "startTime": "2021-11-02",
-        "endTime": "2021-12-06"
+        "endTime": "2021-12-06",
+        "title": "The Persistence (英文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202005/2022/zeFnn9WrLSb1zuca5QOLspgk.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP0941-CUSA23195_00-UNTILYOUFALL0001",
         "startTime": "2021-11-02",
-        "endTime": "2021-12-06"
+        "endTime": "2021-12-06",
+        "title": "Until You Fall (英文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2519/vgVbyaSkSMy0YIzDyQuruZrb.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP4064-PPSA05035_00-5593710445455922",
