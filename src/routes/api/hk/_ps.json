@@ -1,8 +1,23 @@
 [
     {
+        "code": "EP4837-PPSA02962_00-DRGFULLGAMEPS5EU",
+        "startTime": "2022-01-04",
+        "endTime": "2022-01-31"
+    },
+    {
+        "code": "EP4001-PPSA01551_00-DIRTFIVEPS5EDITI",
+        "startTime": "2022-01-04",
+        "endTime": "2022-01-31"
+    },
+    {
+        "code": "HP0177-CUSA18513_00-0000000000000000",
+        "startTime": "2022-01-04",
+        "endTime": "2022-01-31"
+    },
+    {
         "code": "UP0292-PPSA05660_00-GODFALLLITE00000",
         "startTime": "2021-12-07",
-        "endTime": "2021-01-03",
+        "endTime": "2022-01-03",
         "title": "Godfall (簡體中文, 韓文, 英文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202108/1815/erTi6CFV99VPIVQ8Ka8uFiJA.png?w=240&h=240",
         "platforms": [
@@ -14,7 +29,7 @@
     {
         "code": "HP0177-CUSA15966_00-ASIAFULLGAME0000",
         "startTime": "2021-12-07",
-        "endTime": "2021-01-03",
+        "endTime": "2022-01-03",
         "title": "審判之眼：死神的遺言　新價格版 (中文版)",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/113074Q0NuD6srILpDzpNUqfaedLTIar1jwSci4_47UFfudMAOWAHgaBkegox19MhQ5BlJjlnMgKbiJ-x4GJLD_ZTHIvM0hR.png?w=240&h=240",
         "platforms": [
@@ -25,7 +40,7 @@
     {
         "code": "HP1018-CUSA11774_00-ASIAPLACEHOLDER0",
         "startTime": "2021-12-07",
-        "endTime": "2021-01-03",
+        "endTime": "2022-01-03",
         "title": "LEGO® DC 超級反派 (中英韓文版)",
         "image": "https://image.api.playstation.com/vulcan/img/cfn/11307Aj3uzmkU0XCCOfKsYurqMavvCk_AeA5FYRN7a2d9qIwN90WgPodkpuFLYpLpJyFxpzrFdgugVgs3A-rGsNQRGYXSZHf.png?w=240&h=240",
         "platforms": [
@@ -36,7 +51,7 @@
     {
         "code": "UP3639-CUSA16364_00-0000000000000001",
         "startTime": "2021-12-07",
-        "endTime": "2021-01-03",
+        "endTime": "2022-01-03",
         "title": "Mortal Shell (簡體中文, 韓文, 英文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0109/F5Wvzwr4VFVlonLj4wtjYkDx.png?w=240&h=240",
         "platforms": [
