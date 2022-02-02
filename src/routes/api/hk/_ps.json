@@ -2,22 +2,46 @@
     {
         "code": "EP2377-PPSA01735_00-PLANETCOASTER000",
         "startTime": "2022-02-01",
-        "endTime": "2022-02-28"
+        "endTime": "2022-02-28",
+        "title": "雲霄飛車之星：遊戲主機版 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0810/mRlYzRfrJw16qVRxdcShRkz0.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0006-CUSA14204_00-EASPORTSUFC4GAME",
         "startTime": "2022-02-01",
-        "endTime": "2022-02-28"
+        "endTime": "2022-02-28",
+        "title": "《UFC® 4》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/3018/2iPFm0vpKwiooQ50D5HtUwZD.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP1001-CUSA30035_00-000PAWPAWSIEAPS4",
         "startTime": "2022-02-01",
-        "endTime": "2022-02-28"
+        "endTime": "2022-02-28",
+        "title": "奇幻樂園大冒險之小蒂娜強襲龍堡 (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2021/zLE4ongzwQ9qF3KyqA698fzz.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP0177-CUSA10209_00-ASIAPLACEHOLDER0",
         "startTime": "2022-02-01",
-        "endTime": "2022-02-28"
+        "endTime": "2022-02-28",
+        "title": "Dragon's Crown Pro (中韓文版)",
+        "image": "https://image.api.playstation.com/cdn/HP0177/CUSA10209_00/tlaW5zeMoJ0QyBjk2ZRAfQ97raOyMZ5NVPwl3ECiLfihodDNFXVrwxrdjuMgs1x6.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4837-PPSA02962_00-DRGFULLGAMEPS5EU",
