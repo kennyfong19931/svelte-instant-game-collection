@@ -8,7 +8,7 @@
         "platforms": [
             "PS5"
         ],
-        "brand": ""
+        "brand": "H2 Interactive Co., Ltd."
     },
     {
         "code": "EP4040-CUSA02305_00-ASIA000000000000",
@@ -19,7 +19,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "505 GAMES S.R.L."
     },
     {
         "code": "JP0177-CUSA12713_00-ASIAFULLGAME0000",
@@ -30,29 +30,29 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "SEGA CORPORATION"
     },
     {
         "code": "HP9000-PPSA03210_00-GHOSTSHIP0000000",
         "startTime": "2022-03-01",
         "endTime": "2022-04-04",
-        "title": "Ghost of Tsushima Bonus Content (簡體中文, 韓文, 英文, 泰文, 繁體中文)",
+        "title": "《Ghost of Tsushima: Legends》（奇譚模式） (簡體中文, 韓文, 英文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202006/2518/quCEgXq4YjFYon3XFJjKG6Em.png?w=240&h=240",
         "platforms": [
-            "PS4"
+            "PS5"
         ],
-        "brand": ""
+        "brand": "PlayStation Studios"
     },
     {
         "code": "HP9000-CUSA16972_00-GHOSTSHIP0000001",
         "startTime": "2022-03-01",
         "endTime": "2022-04-04",
-        "title": "Ghost of Tsushima Bonus Content (簡體中文, 韓文, 英文, 泰文, 繁體中文)",
+        "title": "《Ghost of Tsushima: Legends》（奇譚模式） (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202006/2518/quCEgXq4YjFYon3XFJjKG6Em.png?w=240&h=240",
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "PlayStation Studios"
     },
     {
         "code": "EP2377-PPSA01735_00-PLANETCOASTER000",
