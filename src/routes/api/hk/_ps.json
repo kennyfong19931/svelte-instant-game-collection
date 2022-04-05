@@ -2,12 +2,25 @@
     {
         "code": "EP4389-CUSA14909_00-SPONGEBOBBFBBEU0",
         "startTime": "2022-04-05",
-        "endTime": "2022-05-02"
+        "endTime": "2022-05-02",
+        "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1814/aglGICQMUl73037QEhSl7Avk.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4133-PPSA02169_00-00000000HOODGAME",
         "startTime": "2022-04-05",
-        "endTime": "2022-05-02"
+        "endTime": "2022-05-02",
+        "title": "Hood: Outlaws & Legends (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1815/1SdD0pgSKvxgtYj10t8nvcho.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP4040-PPSA03682_00-GHOSTRUNNERPS500",
