@@ -3,12 +3,12 @@
         "code": "EP0006-PPSA03179_00-FIFAFOOTBALL2022",
         "startTime": "2022-05-03",
         "endTime": "2022-06-06",
-        "title": "《FIFA 22》PS4™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "title": "《FIFA 22》PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png?w=240&h=240",
         "platforms": [
-            "PS4"
+            "PS5"
         ],
-        "brand": ""
+        "brand": "ELECTRONIC ARTS LTD"
     },
     {
         "code": "EP0006-CUSA27109_00-FIFAFOOTBALL2022",
@@ -19,7 +19,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "ELECTRONIC ARTS LTD"
     },
     {
         "code": "UP0292-PPSA01410_00-TRIBESOFMIDGARD0",
@@ -31,7 +31,7 @@
             "PS4",
             "PS5"
         ],
-        "brand": ""
+        "brand": "GEARBOX"
     },
     {
         "code": "EP4133-CUSA19401_00-0000000CURSEGAME",
@@ -42,7 +42,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "FOCUS HOME INTERACTIVE"
     },
     {
         "code": "EP4133-PPSA02169_00-00000000HOODGAME",
