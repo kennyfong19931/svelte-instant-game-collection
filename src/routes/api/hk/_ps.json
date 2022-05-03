@@ -2,22 +2,47 @@
     {
         "code": "EP0006-PPSA03179_00-FIFAFOOTBALL2022",
         "startTime": "2022-05-03",
-        "endTime": "2022-06-06"
+        "endTime": "2022-06-06",
+        "title": "《FIFA 22》PS4™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP0006-CUSA27109_00-FIFAFOOTBALL2022",
         "startTime": "2022-05-03",
-        "endTime": "2022-06-06"
+        "endTime": "2022-06-06",
+        "title": "《FIFA 22》PS4™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0292-PPSA01410_00-TRIBESOFMIDGARD0",
         "startTime": "2022-05-03",
-        "endTime": "2022-06-06"
+        "endTime": "2022-06-06",
+        "title": "Tribes of Midgard Digital Deluxe PS4 & PS5 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202112/1017/UPGl0B12lISbYKdX1RE3D1f9.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4133-CUSA19401_00-0000000CURSEGAME",
         "startTime": "2022-05-03",
-        "endTime": "2022-06-06"
+        "endTime": "2022-06-06",
+        "title": "Curse of the Dead Gods (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0815/aAWhf5n1bWisXDLA9c3vV7wJ.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4133-PPSA02169_00-00000000HOODGAME",
