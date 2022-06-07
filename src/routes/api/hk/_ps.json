@@ -8,7 +8,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "HP0700-CUSA08797_00-ASIAPLACEHOLDER0",
@@ -19,7 +19,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "BANDAI NAMCO Entertainment Inc."
     },
     {
         "code": "UP0283-PPSA02279_00-5063066328046533",
@@ -30,7 +30,7 @@
         "platforms": [
             "PS5"
         ],
-        "brand": ""
+        "brand": "GAMEMILL ENTERTAINMENT"
     },
     {
         "code": "UP0283-CUSA25399_00-4811875152113216",
@@ -39,9 +39,9 @@
         "title": "尼克卡通全明星集結大亂鬥 (英文)",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2417/DebW9qgFoxIgGEyLnMgdaAM9.png?w=240&h=240",
         "platforms": [
-            "PS5"
+            "PS4"
         ],
-        "brand": ""
+        "brand": "GAMEMILL ENTERTAINMENT"
     },
     {
         "code": "HP1276-PPSA02784_00-CDTPS5NEXTGEN000",
@@ -50,9 +50,9 @@
         "title": "Can't Drive This (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
         "image": "https://image.api.playstation.com/vulcan/img/rnd/202101/1915/Cp9qA6sOuL4X4D8u7NcuGygh.png?w=240&h=240",
         "platforms": [
-            "PS4"
+            "PS5"
         ],
-        "brand": ""
+        "brand": "Pixel Maniacs"
     },
     {
         "code": "HP1276-CUSA26423_00-CDTPS40000000000",
@@ -63,7 +63,7 @@
         "platforms": [
             "PS4"
         ],
-        "brand": ""
+        "brand": "Pixel Maniacs"
     },
     {
         "code": "EP0006-PPSA03179_00-FIFAFOOTBALL2022",
