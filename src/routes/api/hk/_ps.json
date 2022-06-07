@@ -1,5 +1,35 @@
 [
     {
+        "code": "HP9000-CUSA07413_00-00000000GODOFWAR",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
+        "code": "HP0700-CUSA08797_00-ASIAPLACEHOLDER0",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
+        "code": "UP0283-PPSA02279_00-5063066328046533",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
+        "code": "UP0283-CUSA25399_00-4811875152113216",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
+        "code": "HP1276-PPSA02784_00-CDTPS5NEXTGEN000",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
+        "code": "HP1276-CUSA26423_00-CDTPS40000000000",
+        "startTime": "2022-06-07",
+        "endTime": "2022-07-04"
+    },
+    {
         "code": "EP0006-PPSA03179_00-FIFAFOOTBALL2022",
         "startTime": "2022-05-03",
         "endTime": "2022-06-06",
