@@ -2,32 +2,68 @@
     {
         "code": "HP9000-CUSA07413_00-00000000GODOFWAR",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "God of War (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP0700-CUSA08797_00-ASIAPLACEHOLDER0",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "NARUTO TO BORUTO 新忍出擊 (中韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307RXKcxrMo1-5SRIWeZqFJgJF0Kn-FWIT09y1lGZDgD3kniFWcn2AzK8eTRm4dZMXT_jhffNOid9MqWbUNeFqsLEcC_uL.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0283-PPSA02279_00-5063066328046533",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "尼克卡通全明星集結大亂鬥 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2417/DebW9qgFoxIgGEyLnMgdaAM9.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0283-CUSA25399_00-4811875152113216",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "尼克卡通全明星集結大亂鬥 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2417/DebW9qgFoxIgGEyLnMgdaAM9.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP1276-PPSA02784_00-CDTPS5NEXTGEN000",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "Can't Drive This (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202101/1915/Cp9qA6sOuL4X4D8u7NcuGygh.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "HP1276-CUSA26423_00-CDTPS40000000000",
         "startTime": "2022-06-07",
-        "endTime": "2022-07-04"
+        "endTime": "2022-07-04",
+        "title": "Can't Drive This (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202101/1915/Cp9qA6sOuL4X4D8u7NcuGygh.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "EP0006-PPSA03179_00-FIFAFOOTBALL2022",
