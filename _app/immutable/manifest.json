@@ -1,0 +1,95 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-cb2f3832.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-cca5eb09.js",
+      "_index-e8de4ef0.js",
+      "_paths-396f020f.js",
+      "_singletons-d1fb5791.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/ps/[region]/[year]/index.svelte",
+      "src/routes/yearlist.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-150bfd4f.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cca5eb09.js",
+      "_paths-396f020f.js",
+      "_index-e8de4ef0.js",
+      "_index-b01fdfd2.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-27f5318b.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cca5eb09.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-e6ffebb1.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cca5eb09.js",
+      "_paths-396f020f.js"
+    ]
+  },
+  "src/routes/ps/[region]/[year]/index.svelte": {
+    "file": "pages/ps/_region_/_year_/index.svelte-d38200cb.js",
+    "src": "src/routes/ps/[region]/[year]/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cca5eb09.js",
+      "_paths-396f020f.js",
+      "_index-b01fdfd2.js",
+      "_index-e8de4ef0.js",
+      "_singletons-d1fb5791.js"
+    ]
+  },
+  "src/routes/yearlist.svelte": {
+    "file": "pages/yearlist.svelte-a725b03d.js",
+    "src": "src/routes/yearlist.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-cca5eb09.js",
+      "_paths-396f020f.js"
+    ]
+  },
+  "_index-cca5eb09.js": {
+    "file": "chunks/index-cca5eb09.js"
+  },
+  "_index-e8de4ef0.js": {
+    "file": "chunks/index-e8de4ef0.js",
+    "imports": [
+      "_index-cca5eb09.js"
+    ]
+  },
+  "_paths-396f020f.js": {
+    "file": "chunks/paths-396f020f.js"
+  },
+  "_singletons-d1fb5791.js": {
+    "file": "chunks/singletons-d1fb5791.js"
+  },
+  "_index-b01fdfd2.js": {
+    "file": "chunks/index-b01fdfd2.js",
+    "imports": [
+      "_index-cca5eb09.js"
+    ]
+  }
+}
