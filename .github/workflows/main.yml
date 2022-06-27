@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     
     - name: Install dependency
       run: |
@@ -19,7 +19,7 @@ jobs:
         npm run update-api
 
     - name: Commit and Push changes
-      uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_options: '--no-verify'
         commit_message: Update API data
@@ -28,10 +28,10 @@ jobs:
     
     - name: Build
       run: |
-        npm run export
+        npm run build
     
     - name: Deploy to Github Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         personal_token: ${{ secrets.ACCESS_TOKEN }}
-        publish_dir: ./__sapper__/export/svelte-instant-game-collection
+        publish_dir: ./build

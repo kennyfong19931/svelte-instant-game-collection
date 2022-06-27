@@ -1958,7 +1958,7 @@
         "startTime": "2017-04-06",
         "endTime": "2017-05-07",
         "title": "Drawn to Death™",
-        "image": "img/Drawn-to-Death.jpg",
+        "image": "/img/Drawn-to-Death.jpg",
         "platforms": [
             "PS4"
         ],
@@ -5161,7 +5161,7 @@
         "startTime": "2016-04-07",
         "endTime": "2016-05-05",
         "title": "Dead Star",
-        "image": "img/Dead-Star.jpg",
+        "image": "/img/Dead-Star.jpg",
         "platforms": [
             "PS4"
         ],

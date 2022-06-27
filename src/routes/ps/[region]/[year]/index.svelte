@@ -1,91 +1,98 @@
 <script context="module">
-  export async function preload({ params, query }) {
-	let returnObj = {};
-    const res = await this.fetch(`api/${params.region}/${params.year}.json`);
-    const json = await res.json();
+	import { base } from '$app/paths';
 
-    if (res.status === 200 && json.code === "1000") {
-		returnObj.region = params.region;
-		returnObj.year = params.year;
-		returnObj.data = json.data;
-    } else {
-      this.error(res.status, json.code + " - " + json.message);
+	/** @type {import('./__types/[slug]').Load} */
+	export async function load({ params, fetch, error }) {
+		return Promise.all([
+			fetch(`${base}/api/${params.region}/list.json`).then((r) => r.json()),
+			fetch(`${base}/api/${params.region}/${params.year}.json`).then((r) => r.json())
+		]).then(([yearList, gameList]) => ({
+			props: {
+				yearList: yearList.map((y) => y.toString()),
+				region: params.region,
+				year: params.year,
+				data: gameList
+			}
+		}));
 	}
-	
-	const yearList = await this.fetch(`api/hk/list.json`);
-    const yearListJson = await yearList.json();
-    if (yearList.status === 200 && yearListJson.code === "1000") {
-		let items = [];
-		yearListJson.data.forEach(item => {
-			items.push({ value: item, text: item + "年" });
-		});
-		returnObj.items = items;
-    } else {
-      	this.error(yearList.status, yearListJson.code + " - " + yearListJson.message);
-	}
-	return returnObj;
-  }
 </script>
 
 <script>
-  import { Card, Image, Icon } from "smelte";
-  import { Select } from "smelte";
-  import { goto } from '@sapper/app';
+	import LayoutGrid, { Cell } from '@smui/layout-grid';
+	import Card, { Content } from '@smui/card';
+	import Chip, { Set, LeadingIcon, TrailingIcon, Text } from '@smui/chips';
+	import Select, { Option } from '@smui/select';
+	import { goto } from '$app/navigation';
 
-  export let region;
-  export let year;
-  export let data;
-  export let items = [];
-  const label = "年份";
-  
-  function onSelect(value) {
-	goto('ps/hk/'+value);
-  }
+	export let region;
+	export let year;
+	export let data;
+	export let yearList = [];
 
+	// Handle Year Select
+	let yearSelected = year;
+	$: if (yearSelected != year) {
+		goto(`${base}/ps/${region}/${yearSelected}`);
+	}
 </script>
 
 <svelte:head>
-  <title>PlayStation®Plus 免費遊戲 {year}年</title>
+	<title>{year}年 PlayStation®Plus 免費遊戲</title>
 </svelte:head>
 
-<h4>
-  PlayStation®Plus 免費遊戲 <span class="uppercase">{region}</span> {year}年
-</h4>
+<h1 class="mdc-typography--headline1">
+	PlayStation®Plus 免費遊戲 (<span class="uppercase">{region}</span>)
+	<Select bind:value={yearSelected} label="年份">
+		{#each yearList as year}
+			<Option value={year}>{year}年</Option>
+		{/each}
+	</Select>
+</h1>
 
-<Select {label} {items} on:change={v => onSelect(v.detail)} />
-
-
-
-<div class="flex justify-center flex-wrap">
+<LayoutGrid>
 	{#each data as game}
-	<Card.Card class="m-5 w-full md:w-1/3 lg:w-1/5">
-		<div slot="title">
-			<Card.Title title={game.title} subheader={game.brand} />
-		</div>
-		<div slot="media">
-			<Image class="w-full" src={game.image} />
-		</div>
-		<div slot="text" class="p-5 pt-3 text-gray-700 body-2">
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-success-500 text-white">
-				<Icon small class="py-1">event_available</Icon> 
-				<span class="pt-px px-1">{game.startTime}</span>
-			</button>
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-error-500 text-white">
-				<Icon small class="py-1">event_busy</Icon> 
-				<span class="pt-px px-1">{game.endTime}</span>
-			</button>
-			<button class="rounded-full cursor-default flex item-center m-1 px-2 py-1 bg-light-blue-500 text-white">
-				{#each game.platforms as platform}
-					<span class="pt-px px-1">{platform}</span>
-				{/each}
-			</button>
-			<button class="rounded-full flex item-center m-1 px-2 py-1 bg-blue-500 text-white">
-				<Icon small class="py-1">shopping_cart</Icon> 
-				<span class="pt-px px-1">
-				<a target="_blank" href={"https://store.playstation.com/?resolve=" + game.code}>PS Store</a>
-				</span>
-			</button>
-		</div>
-	</Card.Card>
+		<Cell span={3}>
+			<Card>
+				<div style="padding: 1rem;">
+					<h2 class="mdc-typography--headline6" style="margin: 0;">
+						{game.title}
+					</h2>
+					<h3 class="mdc-typography--subtitle2" style="margin: 0; color: #888;">
+						{game.brand}
+					</h3>
+				</div>
+				{#if game.image.startsWith('/')}
+					<img src="{base}{game.image}" alt="cover" />
+				{:else}
+					<img src={game.image} alt="cover" />
+				{/if}
+				<Content class="mdc-typography--body2">
+					<Set
+						chips={[
+							{ text: game.startTime, icon: 'event_available', class: 'mdc-chip-green' },
+							{ text: game.endTime, icon: 'event_busy', class: 'mdc-chip-red' }
+						]}
+						let:chip
+						nonInteractive
+					>
+						<Chip {chip} class={chip.class}>
+							<LeadingIcon class="material-icons">{chip.icon}</LeadingIcon>
+							<Text>{chip.text}</Text>
+						</Chip>
+					</Set>
+					<Set chips={game.platforms} let:chip>
+						<Chip {chip} class="mdc-chip-ps">
+							<a
+								target="_blank"
+								href={'https://store.playstation.com/zh-hant-hk/product/' + chip.code}
+							>
+								<Text>{chip.platform}</Text>
+								<TrailingIcon class="material-icons">open_in_new</TrailingIcon>
+							</a>
+						</Chip>
+					</Set>
+				</Content>
+			</Card>
+		</Cell>
 	{/each}
-</div>
+</LayoutGrid>

@@ -1,54 +1,55 @@
-import json from '_ps.json';
+import json from './_ps.json';
 import dayjs from 'dayjs';
 
-const gamelist = new Map();
+const gamelistByYear = new Map();
 json.forEach(json => {
-    let year = String(dayjs(json.startTime).year());
-    // let month = dayjs(json.startTime).month() + 1;
-    // if(gamelist.has(year)){
-    //     let yearObject = gamelist.get(year);
-    //     if(month in yearObject){
-    //         yearObject[month].push(json);
-    //     } else {
-    //         yearObject[month] = [json];
-    //     }
-    //     gamelist.set(year, yearObject);
-    // } else {
-    //     let yearObject = {};
-    //     yearObject[month] = [json];
-    //     gamelist.set(year, yearObject);
-	// }
-	if (gamelist.has(year)) {
-		gamelist.get(year).push(json);
+	let year = String(dayjs(json.startTime).year());
+	if (gamelistByYear.has(year)) {
+		gamelistByYear.get(year).push(json);
 	} else {
 		let yearList = [json];
-		gamelist.set(year, yearList);
+		gamelistByYear.set(year, yearList);
 	}
 });
 
-export function get(req, res, next) {
-    const { year } = req.params;
-    
-	if (gamelist.has(year)) {
-		res.writeHead(200, {
-			'Content-Type': 'application/json'
-		});
+export function get({ params }) {
+	let response = [];
+	if (gamelistByYear.has(params.year)) {
+		// merge different platform
+		let gameList = gamelistByYear.get(params.year);
+		let gameObject = {};
+		gameList.map((game) => {
+			if (gameObject.title !== game.title && gameObject.title !== undefined) {
+				response.push(gameObject);
+				gameObject = {};
+			}
 
-		res.end(JSON.stringify({
-            code: '1000',
-            message: 'Success',
-            data: gamelist.get(year).sort(function (a, b) {
-				return a.startTime < b.startTime ? 1 : -1;
-			})
-		}));
+			if (gameObject.title === undefined) {
+				gameObject = {
+					startTime: game.startTime,
+					endTime: game.endTime,
+					title: game.title,
+					image: game.image,
+					brand: game.brand,
+					platforms: game.platforms.map((platform) => ({
+						platform: platform,
+						code: game.code
+					}))
+				};
+			} else {
+				gameObject.platforms.push(...game.platforms.map((platform) => ({
+					platform: platform,
+					code: game.code
+				})));
+			}
+		})
+
+		return {
+			body: response
+		};
 	} else {
-		res.writeHead(404, {
-			'Content-Type': 'application/json'
-		});
-
-		res.end(JSON.stringify({
-            code: '9000',
-			message: 'No data'
-		}));
+		return {
+			status: 404
+		};
 	}
 }
