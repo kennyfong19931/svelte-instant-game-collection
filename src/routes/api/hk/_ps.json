@@ -2,32 +2,69 @@
     {
         "code": "UP0002-PPSA02432_00-CB4THEGAME000001",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "Crash Bandicoot™ - Crashiversary組合包 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/1823/MBdsTBhrqDH0ImfUsQkE1nyo.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Activision"
     },
     {
         "code": "HP5028-CUSA15043_00-ASIAFULLGAME0000",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "黑相集：棉蘭號 (簡體中文, 韓文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307iW6o4bOk9etJSkbvvkpYSQ1OsdvhVGLZdHPv0tzUwWIEi0DNJd3hBEGl87pXpnUQCtxb6Ii176sSsQGBnHJbpQLzUL5.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment America Inc."
     },
     {
         "code": "HP3040-PPSA04040_00-3338971447486540",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "Arcadegeddon (韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1000/UAfKxv7fSZ25d0HKrsgvueIv.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "IllFonic Inc."
     },
     {
         "code": "UP3095-CUSA27007_00-5300871585426390",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "Arcadegeddon (韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1000/UAfKxv7fSZ25d0HKrsgvueIv.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "IllFonic Inc."
     },
     {
         "code": "HP2005-PPSA03918_00-ZEROSTRAIN000000",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "Zero Strain (英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202106/2814/unUG7PIlBFsqQl6lFntnX8Px.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "EastAsiaSoft"
     },
     {
         "code": "HP2005-CUSA18616_00-ZEROSTRAIN000000",
         "startTime": "2022-07-05",
-        "endTime": "2022-08-01"
+        "endTime": "2022-08-01",
+        "title": "Zero Strain (英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202106/2814/unUG7PIlBFsqQl6lFntnX8Px.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "EastAsiaSoft"
     },
     {
         "code": "HP9000-CUSA07413_00-00000000GODOFWAR",
