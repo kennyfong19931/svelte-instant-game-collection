@@ -1,5 +1,35 @@
 [
     {
+        "code": "UP0002-PPSA02432_00-CB4THEGAME000001",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
+        "code": "HP5028-CUSA15043_00-ASIAFULLGAME0000",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
+        "code": "HP3040-PPSA04040_00-3338971447486540",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
+        "code": "UP3095-CUSA27007_00-5300871585426390",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
+        "code": "HP2005-PPSA03918_00-ZEROSTRAIN000000",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
+        "code": "HP2005-CUSA18616_00-ZEROSTRAIN000000",
+        "startTime": "2022-07-05",
+        "endTime": "2022-08-01"
+    },
+    {
         "code": "HP9000-CUSA07413_00-00000000GODOFWAR",
         "startTime": "2022-06-07",
         "endTime": "2022-07-04",
