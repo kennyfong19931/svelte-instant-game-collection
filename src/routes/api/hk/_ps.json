@@ -2,27 +2,57 @@
     {
         "code": "JP0177-PPSA02690_00-LIKEADRAGON00000",
         "startTime": "2022-08-02",
-        "endTime": "2022-09-05"
+        "endTime": "2022-09-05",
+        "title": "人中之龍7　光與闇的去向　國際版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202012/2407/qOZjMyrGPXsXdjoOESxaGdIu.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "SEGA of America, Inc."
     },
     {
         "code": "HP0177-CUSA17680_00-ASIA000000000000",
         "startTime": "2022-08-02",
-        "endTime": "2022-09-05"
+        "endTime": "2022-09-05",
+        "title": "人中之龍７　光與闇的去向　體驗版 (中日韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307HwnEs0T_51pXLmqhA1Gvupm-mARDKcFKr3LklJKsGeELua2X-ixU3f0gpWw6HjhIGjoBB7mUYg7LjVH9kpDYV8zuZ9p.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0002-PPSA02176_00-TH12RTHEGAME0001",
         "startTime": "2022-08-02",
-        "endTime": "2022-09-05"
+        "endTime": "2022-09-05",
+        "title": "Tony Hawk's™ Pro Skater™ 一代與二代 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/0219/witS8C6Rswg5cINrjBdGdZXA.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Activision"
     },
     {
         "code": "HP0700-CUSA05955_00-ASIAPLACEHOLDER0",
         "startTime": "2022-08-02",
-        "endTime": "2022-09-05"
+        "endTime": "2022-09-05",
+        "title": "Little Nightmares (中韓文版)",
+        "image": "https://image.api.playstation.com/cdn/HP0700/CUSA05955_00/1PBiUOVMJlBeO7wrQmG4UmSfrZS2xFnZwfRuEnBLuylzfiJU5Zf2Pxv0SmoMTDpf.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment America Inc."
     },
     {
         "code": "HP4836-CUSA24012_00-8666351151755864",
         "startTime": "2022-08-02",
-        "endTime": "2022-09-05"
+        "endTime": "2022-09-05",
+        "title": "Unrailed! (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0210/mRe6rI8u07TD0v0qllfiibXc.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0002-PPSA02432_00-CB4THEGAME000001",
