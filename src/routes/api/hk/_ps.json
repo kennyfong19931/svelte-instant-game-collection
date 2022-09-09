@@ -2,17 +2,35 @@
     {
         "code": "UP0006-CUSA15081_00-ASIA000000000001",
         "startTime": "2022-09-06",
-        "endTime": "2022-10-03"
+        "endTime": "2022-10-03",
+        "title": "《極速快感：熱焰™》 (中英韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307KIb2mxcVQsU6zHehkeAhyzzBJu6NRZx-MyqdYu0AXIkrUxj-MyvMeTAriVyYPezbMfbNX536QxF56X3Hpnhj-sqxiXW.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc"
     },
     {
         "code": "HP0177-CUSA17932_00-GBVSCGH000000001",
         "startTime": "2022-09-06",
-        "endTime": "2022-10-03"
+        "endTime": "2022-10-03",
+        "title": "Granblue Fantasy: Versus (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/0706/L1k1ss9YxGrwz5eFfIUtjLEr.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Marvelous USA (XSEED)"
     },
     {
         "code": "UP6990-PPSA04354_00-0801952478920400",
         "startTime": "2022-09-06",
-        "endTime": "2022-10-03"
+        "endTime": "2022-10-03",
+        "title": "TOEM (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1213/jQITReCsnpS5ATrg2jrHF2w5.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Something We Made AB"
     },
     {
         "code": "JP0177-PPSA02690_00-LIKEADRAGON00000",
