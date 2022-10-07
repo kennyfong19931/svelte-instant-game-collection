@@ -2,27 +2,59 @@
     {
         "code": "EP4356-PPSA02325_00-HWUPSPLUS0000000",
         "startTime": "2022-10-04",
-        "endTime": "2022-10-31"
+        "endTime": "2022-10-31",
+        "title": "HOT WHEELS UNLEASHED™ (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1008/rS6hKW6RluVColmbTAIt9Fl1.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Milestone"
     },
     {
         "code": "UP1018-CUSA05462_00-ASIA000000000000",
         "startTime": "2022-10-04",
-        "endTime": "2022-10-31"
+        "endTime": "2022-10-31",
+        "title": "Injustice™ 2 - 傳奇版 (英文版)",
+        "image": "https://image.api.playstation.com/cdn/UP1018/CUSA10992_00/spXil8sfIJIxAHn77Kc9VpI534T6pQ1o6YpXRnfe91e2ENVcurjy7BSfSbztE47v.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "EP2477-CUSA08144_00-EUSUPERHOTGAME00",
         "startTime": "2022-10-04",
-        "endTime": "2022-10-31"
+        "endTime": "2022-10-31",
+        "title": "SUPERHOT (簡體中文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2508/bcPCs06SjrXaOxa2oeuk2OBD.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "SUPERHOT Sp. z o.o."
     },
     {
         "code": "HP2005-PPSA04550_00-ROGUEEXPLORER000",
         "startTime": "2022-10-04",
-        "endTime": "2022-10-31"
+        "endTime": "2022-10-31",
+        "title": "Rogue Explorer PS4 & PS5 (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2108/YTegPbKhEcWWmYu2HC8wNduK.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "EastAsiaSoft"
     },
     {
         "code": "HP2005-PPSA04594_00-CRISISWING000000",
         "startTime": "2022-10-04",
-        "endTime": "2022-10-31"
+        "endTime": "2022-10-31",
+        "title": "Crisis Wing PS4 & PS5 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2508/kI7w1vSiwHpk3MsnaXBWs3A4.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "EastAsiaSoft"
     },
     {
         "code": "UP0006-CUSA15081_00-ASIA000000000001",
