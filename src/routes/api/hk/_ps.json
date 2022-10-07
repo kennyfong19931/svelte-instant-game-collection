@@ -1,5 +1,30 @@
 [
     {
+        "code": "EP4356-PPSA02325_00-HWUPSPLUS0000000",
+        "startTime": "2022-10-04",
+        "endTime": "2022-10-31"
+    },
+    {
+        "code": "UP1018-CUSA05462_00-ASIA000000000000",
+        "startTime": "2022-10-04",
+        "endTime": "2022-10-31"
+    },
+    {
+        "code": "EP2477-CUSA08144_00-EUSUPERHOTGAME00",
+        "startTime": "2022-10-04",
+        "endTime": "2022-10-31"
+    },
+    {
+        "code": "HP2005-PPSA04550_00-ROGUEEXPLORER000",
+        "startTime": "2022-10-04",
+        "endTime": "2022-10-31"
+    },
+    {
+        "code": "HP2005-PPSA04594_00-CRISISWING000000",
+        "startTime": "2022-10-04",
+        "endTime": "2022-10-31"
+    },
+    {
         "code": "UP0006-CUSA15081_00-ASIA000000000001",
         "startTime": "2022-09-06",
         "endTime": "2022-10-03",
