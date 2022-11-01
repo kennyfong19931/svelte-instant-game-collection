@@ -2,17 +2,36 @@
     {
         "code": "JP0106-CUSA16157_00-NIOH2JP100000000",
         "startTime": "2022-11-01",
-        "endTime": "2022-12-05"
+        "endTime": "2022-12-05",
+        "title": "仁王２ (中日英韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0623/OKKpWNnsCZpURW2N6nnhMcj6.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "UP1018-CUSA05954_00-ASIA000000000000",
         "startTime": "2022-11-01",
-        "endTime": "2022-12-05"
+        "endTime": "2022-12-05",
+        "title": "LEGO® Harry Potter™ 收藏版 (英文版)",
+        "image": "https://image.api.playstation.com/cdn/UP1018/CUSA05954_00/BcEfQYgDdYDHdHPCCeOOlT2Au5rzt2RU5sMQcJCBJ22iujTZpjiAtc4ODqIGxbY8.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "EP8198-PPSA02575_00-6092745508330153",
         "startTime": "2022-11-01",
-        "endTime": "2022-12-05"
+        "endTime": "2022-12-05",
+        "title": "Heavenly Bodies (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202112/0209/eTNAclmYfZEjX0OGqdl0CL0k.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "2PT PTY LTD"
     },
     {
         "code": "EP4356-PPSA02325_00-HWUPSPLUS0000000",
