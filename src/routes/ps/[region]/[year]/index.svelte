@@ -1,5 +1,6 @@
 <script context="module">
 	import { base } from '$app/paths';
+	import { page } from '$app/stores';
 
 	/** @type {import('./__types/[slug]').Load} */
 	export async function load({ params, fetch, error }) {
@@ -28,6 +29,8 @@
 	export let year;
 	export let data;
 	export let yearList = [];
+	export const title = `${year}年 PlayStation®Plus 免費遊戲`;
+	export const description = `${year}年 PlayStation®Plus 免費遊戲紀錄`;
 
 	// Handle Year Select
 	let yearSelected = year;
@@ -38,6 +41,25 @@
 
 <svelte:head>
 	<title>{year}年 PlayStation®Plus 免費遊戲</title>
+	<title>{title}</title>
+	<link rel="canonical" href="{$page.url.href}">
+	<meta name="description" content="{description}" />
+
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary">
+	<!-- <meta name="twitter:site" content="@publisher_handle"> -->
+	<meta name="twitter:title" content="{title}">
+	<meta name="twitter:description" content="{description}">
+	<!-- <meta name="twitter:creator" content="@author_handle"> -->
+	<!-- <meta name="twitter:image" content="http://www.example.com/image.jpg"> -->
+
+	<!-- Open Graph data -->
+	<meta property="og:title" content="{title}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{$page.url.origin}" />
+	<!-- <meta property="og:image" content="http://example.com/image.jpg" /> -->
+	<meta property="og:description" content="{description}" />
+	<meta property="og:site_name" content="PlayStation®Plus 免費遊戲" />
 </svelte:head>
 
 <h1 class="mdc-typography--headline1">
