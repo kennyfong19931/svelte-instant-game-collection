@@ -40,7 +40,6 @@
 </script>
 
 <svelte:head>
-	<title>{year}年 PlayStation®Plus 免費遊戲</title>
 	<title>{title}</title>
 	<link rel="canonical" href="{$page.url.href}">
 	<meta name="description" content="{description}" />
