@@ -2,17 +2,37 @@
     {
         "code": "EP0006-CUSA19515_00-METR000000000000",
         "startTime": "2022-12-06",
-        "endTime": "2023-01-02"
+        "endTime": "2023-01-02",
+        "title": "《質量效應》傳奇版 (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc"
     },
     {
         "code": "EP4389-PPSA06254_00-BIOMUTANTEUPS500",
         "startTime": "2022-12-06",
-        "endTime": "2023-01-02"
+        "endTime": "2023-01-02",
+        "title": "Biomutant PS4 & PS5 (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/cfbTDvs2m1P9mArX74ClI9HR.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "THQ Nordic"
     },
     {
         "code": "UP0334-PPSA04188_00-DKOSTANDARDFPBUN",
         "startTime": "2022-12-06",
-        "endTime": "2023-01-02"
+        "endTime": "2023-01-02",
+        "title": "Divine Knockout（DKO）- 創始者版 (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1422/3fezgOytSbCC4mRfi1z0EoDB.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "JP0106-CUSA16157_00-NIOH2JP100000000",
