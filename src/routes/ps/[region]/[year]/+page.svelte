@@ -1,21 +1,6 @@
 <script context="module">
 	import { base } from '$app/paths';
 	import { page } from '$app/stores';
-
-	/** @type {import('./__types/[slug]').Load} */
-	export async function load({ params, fetch, error }) {
-		return Promise.all([
-			fetch(`${base}/api/${params.region}/list.json`).then((r) => r.json()),
-			fetch(`${base}/api/${params.region}/${params.year}.json`).then((r) => r.json())
-		]).then(([yearList, gameList]) => ({
-			props: {
-				yearList: yearList.map((y) => y.toString()),
-				region: params.region,
-				year: params.year,
-				data: gameList
-			}
-		}));
-	}
 </script>
 
 <script>
@@ -25,53 +10,50 @@
 	import Select, { Option } from '@smui/select';
 	import { goto } from '$app/navigation';
 
-	export let region;
-	export let year;
 	export let data;
-	export let yearList = [];
-	export const title = `${year}年 PlayStation®Plus 免費遊戲`;
-	export const description = `${year}年 PlayStation®Plus 免費遊戲紀錄`;
+	export const title = `${data.year}年 PlayStation®Plus 免費遊戲`;
+	export const description = `${data.year}年 PlayStation®Plus 免費遊戲紀錄`;
 
 	// Handle Year Select
-	let yearSelected = year;
-	$: if (yearSelected != year) {
-		goto(`${base}/ps/${region}/${yearSelected}`);
+	let yearSelected = data.year;
+	$: if (yearSelected != data.year) {
+		goto(`${base}/ps/${data.region}/${yearSelected}`);
 	}
 </script>
 
 <svelte:head>
 	<title>{title}</title>
-	<link rel="canonical" href="{$page.url.href}">
-	<meta name="description" content="{description}" />
+	<link rel="canonical" href={$page.url.href} />
+	<meta name="description" content={description} />
 
 	<!-- Twitter Card data -->
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="summary" />
 	<!-- <meta name="twitter:site" content="@publisher_handle"> -->
-	<meta name="twitter:title" content="{title}">
-	<meta name="twitter:description" content="{description}">
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={description} />
 	<!-- <meta name="twitter:creator" content="@author_handle"> -->
 	<!-- <meta name="twitter:image" content="http://www.example.com/image.jpg"> -->
 
 	<!-- Open Graph data -->
-	<meta property="og:title" content="{title}" />
+	<meta property="og:title" content={title} />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="{$page.url.origin}" />
+	<meta property="og:url" content={$page.url.origin} />
 	<!-- <meta property="og:image" content="http://example.com/image.jpg" /> -->
-	<meta property="og:description" content="{description}" />
+	<meta property="og:description" content={description} />
 	<meta property="og:site_name" content="PlayStation®Plus 免費遊戲" />
 </svelte:head>
 
 <h1 class="mdc-typography--headline1">
-	PlayStation®Plus 免費遊戲 (<span class="uppercase">{region}</span>)
+	PlayStation®Plus 免費遊戲 (<span class="uppercase">{data.region}</span>)
 	<Select bind:value={yearSelected} label="年份">
-		{#each yearList as year}
+		{#each data.yearList as year}
 			<Option value={year}>{year}年</Option>
 		{/each}
 	</Select>
 </h1>
 
 <LayoutGrid>
-	{#each data as game}
+	{#each data.data as game}
 		<Cell span={3}>
 			<Card>
 				<div style="padding: 1rem;">
@@ -105,6 +87,7 @@
 						<Chip {chip} class="mdc-chip-ps">
 							<a
 								target="_blank"
+								rel="noreferrer"
 								href={'https://store.playstation.com/zh-hant-hk/product/' + chip.code}
 							>
 								<Text>{chip.platform}</Text>

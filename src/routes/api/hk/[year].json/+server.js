@@ -1,8 +1,8 @@
-import json from './_ps.json';
+import json from '../_ps.json';
 import dayjs from 'dayjs';
 
 const gamelistByYear = new Map();
-json.forEach(json => {
+json.forEach((json) => {
 	let year = String(dayjs(json.startTime).year());
 	if (gamelistByYear.has(year)) {
 		gamelistByYear.get(year).push(json);
@@ -12,7 +12,7 @@ json.forEach(json => {
 	}
 });
 
-export function get({ params }) {
+export function GET({ params }) {
 	let response = [];
 	if (gamelistByYear.has(params.year)) {
 		// merge different platform
@@ -37,19 +37,20 @@ export function get({ params }) {
 					}))
 				};
 			} else {
-				gameObject.platforms.push(...game.platforms.map((platform) => ({
-					platform: platform,
-					code: game.code
-				})));
+				gameObject.platforms.push(
+					...game.platforms.map((platform) => ({
+						platform: platform,
+						code: game.code
+					}))
+				);
 			}
-		})
+		});
+		if (gameObject !== {}) {
+			response.push(gameObject);
+		}
 
-		return {
-			body: response
-		};
+		return new Response(JSON.stringify(response));
 	} else {
-		return {
-			status: 404
-		};
+		return new Response(undefined, { status: 404 });
 	}
 }
