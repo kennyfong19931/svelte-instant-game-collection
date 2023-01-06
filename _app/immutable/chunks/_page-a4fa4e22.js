@@ -1,0 +1,1 @@
+import{b as a}from"./paths-b4419565.js";async function n({fetch:t}){return Promise.all([t(`${a}/api/hk/list.json`).then(e=>e.json())]).then(([e])=>({yearList:e.map(o=>o.toString())}))}const s=Object.freeze(Object.defineProperty({__proto__:null,load:n},Symbol.toStringTag,{value:"Module"}));export{s as _,n as l};
