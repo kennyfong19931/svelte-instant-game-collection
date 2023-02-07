@@ -1,5 +1,30 @@
 [
     {
+        "code": "EP6853-PPSA03521_00-EDEU000000000001",
+        "startTime": "2023-02-07",
+        "endTime": "2023-03-06"
+    },
+    {
+        "code": "UP4581-PPSA02304_00-OLLIOLLIWORLD000",
+        "startTime": "2023-02-07",
+        "endTime": "2023-03-06"
+    },
+    {
+        "code": "JP9200-PPSA02411_00-D2BEYONDLIGHT001",
+        "startTime": "2023-02-07",
+        "endTime": "2023-03-06"
+    },
+    {
+        "code": "UP1001-CUSA18097_00-MAFIAONEREMASTER",
+        "startTime": "2023-02-07",
+        "endTime": "2023-03-06"
+    },
+    {
+        "code": "HP0700-CUSA17351_00-SWORDARTAL0000AS",
+        "startTime": "2023-02-07",
+        "endTime": "2023-03-06"
+    },
+    {
         "code": "UP0006-PPSA02198_00-RESPAWNSWBIRDDOG",
         "startTime": "2023-01-03",
         "endTime": "2023-02-06",
