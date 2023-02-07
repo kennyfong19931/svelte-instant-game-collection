@@ -2,27 +2,60 @@
     {
         "code": "EP6853-PPSA03521_00-EDEU000000000001",
         "startTime": "2023-02-07",
-        "endTime": "2023-03-06"
+        "endTime": "2023-03-06",
+        "title": "Evil Dead: The Game PS4 & PS5 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2814/odiz6ls35at0GBlldKCWk6ja.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Saber Interactive, Inc"
     },
     {
         "code": "UP4581-PPSA02304_00-OLLIOLLIWORLD000",
         "startTime": "2023-02-07",
-        "endTime": "2023-03-06"
+        "endTime": "2023-03-06",
+        "title": "歐利歐利世界 (PS4/PS5) (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0321/aOY1Fb5Tcw3Zti8m3qfZeIDM.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Private Division"
     },
     {
         "code": "JP9200-PPSA02411_00-D2BEYONDLIGHT001",
         "startTime": "2023-02-07",
-        "endTime": "2023-03-06"
+        "endTime": "2023-03-06",
+        "title": "天命2 PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0400/3PetyfDv6TpzxVQtBKYnWq8o.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Bungie"
     },
     {
         "code": "UP1001-CUSA18097_00-MAFIAONEREMASTER",
         "startTime": "2023-02-07",
-        "endTime": "2023-03-06"
+        "endTime": "2023-03-06",
+        "title": "《四海兄弟：決定版》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/35jaBRLW6kV4wfF3bi0nxRIH.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "2K"
     },
     {
         "code": "HP0700-CUSA17351_00-SWORDARTAL0000AS",
         "startTime": "2023-02-07",
-        "endTime": "2023-03-06"
+        "endTime": "2023-03-06",
+        "title": "刀劍神域 彼岸遊境 (簡體中文, 韓文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/113079JgxkgZ8hfrTPpW2Dzv-EsSbBTUqjHD5cXr-GfxOupwS9J_pbqTVUk6tIZ8hgBwNVS-9k9RBePXYWG-7CDCnFMDeN7P.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment America Inc."
     },
     {
         "code": "UP0006-PPSA02198_00-RESPAWNSWBIRDDOG",
