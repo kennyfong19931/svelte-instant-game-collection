@@ -2,17 +2,35 @@
     {
         "code": "UP0006-PPSA01464_00-KINGSTONGAME0000",
         "startTime": "2023-03-07",
-        "endTime": "2023-04-03"
+        "endTime": "2023-04-03",
+        "title": "《戰地風雲™ 2042》PS4™ (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0818/wgpQjT76y2QtCHtDdFHPdrgu.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc"
     },
     {
         "code": "JP0127-CUSA18811_00-DUNGEONSPS400000",
         "startTime": "2023-03-07",
-        "endTime": "2023-04-03"
+        "endTime": "2023-04-03",
+        "title": "Minecraft Dungeons (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Mojang"
     },
     {
         "code": "HP0700-CUSA10474_00-ASIAFULLGAME0000",
         "startTime": "2023-03-07",
-        "endTime": "2023-04-03"
+        "endTime": "2023-04-03",
+        "title": "CODE VEIN 噬血代碼 (中韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307ZmSXku1XrPRVS05Wym-RbK0aacv-_DT1b1OxPq9JyAEN_rrwNldCGRiJBD4O7UvgHzDQXnq0RUFACOTSXbe8RUsHWMs.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BANDAI NAMCO Entertainment America Inc."
     },
     {
         "code": "EP6853-PPSA03521_00-EDEU000000000001",
