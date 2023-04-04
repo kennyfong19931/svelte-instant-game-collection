@@ -2,17 +2,38 @@
     {
         "code": "HP9000-PPSA01292_00-SACKBOYADVENTURE",
         "startTime": "2023-04-04",
-        "endTime": "2023-05-01"
+        "endTime": "2023-05-01",
+        "title": "《Sackboy: A Big Adventure》數位豪華版 PS4 & PS5 (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2912/22iZlOcD9QSCuGoq6Mt1mkel.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "EP6960-PPSA03777_00-1170445898702423",
         "startTime": "2023-04-04",
-        "endTime": "2023-05-01"
+        "endTime": "2023-05-01",
+        "title": "Tails of Iron (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/2213/Csr9fhhP5C8Q7YTlEKz4Px3A.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "United Label"
     },
     {
         "code": "EP5125-PPSA05723_00-MEETYOURMAKER000",
         "startTime": "2023-04-04",
-        "endTime": "2023-05-01"
+        "endTime": "2023-05-01",
+        "title": "Meet Your Maker (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0616/bQJArDfCvyHczU39TndWhMVN.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP0006-PPSA01464_00-KINGSTONGAME0000",
