@@ -2,17 +2,37 @@
     {
         "code": "UP0006-PPSA03865_00-GRIDLEGPS5GAME00",
         "startTime": "2023-05-02",
-        "endTime": "2023-06-06"
+        "endTime": "2023-06-06",
+        "title": "《GRID Legends》PS4 與 PS5 (簡體中文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/9bCyljPZ6TYi3xMTpFywSmlZ.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc"
     },
     {
         "code": "UP0115-PPSA02183_00-3211965506283656",
         "startTime": "2023-05-02",
-        "endTime": "2023-06-06"
+        "endTime": "2023-06-06",
+        "title": "Chivalry 2 PS4 & PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2020/df723bd86faa913045149a18706b385c0e86f8d2e176e029.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Tripwire Interactive"
     },
     {
         "code": "EP3999-CUSA10465_00-DESCENDERSGAMEEE",
         "startTime": "2023-05-02",
-        "endTime": "2023-06-06"
+        "endTime": "2023-06-06",
+        "title": "Descenders (下坡競速王者) (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/2913/wcgJXG9S9tWOJAqgVc3AmNzm.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "NO MORE ROBOTS"
     },
     {
         "code": "HP9000-PPSA01292_00-SACKBOYADVENTURE",
