@@ -2,17 +2,37 @@
     {
         "code": "UP1001-PPSA07169_00-NBA2K23CROSSBUY0",
         "startTime": "2023-06-06",
-        "endTime": "2023-07-03"
+        "endTime": "2023-07-03",
+        "title": "PS4™版《NBA 2K23》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2200/vLdTCoRLhhHmAAqRypgAOlAI.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "2K"
     },
     {
         "code": "UP3643-PPSA02628_00-1990133284463875",
         "startTime": "2023-06-06",
-        "endTime": "2023-07-03"
+        "endTime": "2023-07-03",
+        "title": "Trek to Yomi (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2518/H38ighX3WbFQsB1tVWABV7QV.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Devolver Digital"
     },
     {
         "code": "EP2377-PPSA03286_00-JWEVOLUTION2AAAA",
         "startTime": "2023-06-06",
-        "endTime": "2023-07-03"
+        "endTime": "2023-07-03",
+        "title": "《侏羅紀世界：進化 2》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2708/oDmG8tqoevV328mlqIV2OZZc.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Frontier Developments PLC"
     },
     {
         "code": "UP0006-PPSA03865_00-GRIDLEGPS5GAME00",
