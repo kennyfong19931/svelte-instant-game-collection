@@ -2,17 +2,38 @@
     {
         "code": "HP0002-PPSA02053_00-CODCWTHEGAME0001",
         "startTime": "2023-07-04",
-        "endTime": "2023-07-31"
+        "endTime": "2023-07-31",
+        "title": "《決勝時刻®：黑色行動冷戰》－跨世代組合包 PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/laeXLC9jlrn35rt4jTPRzzJE.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Activision"
     },
     {
         "code": "UP1477-PPSA01924_00-AWREMASTERED0001",
         "startTime": "2023-07-04",
-        "endTime": "2023-07-31"
+        "endTime": "2023-07-31",
+        "title": "Alan Wake Remastered (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202109/2709/wMyl8RQ9Tvi99wjgPPEBGVyX.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Epic Games"
     },
     {
         "code": "UP0977-PPSA08511_00-3064604549696432",
         "startTime": "2023-07-04",
-        "endTime": "2023-07-31"
+        "endTime": "2023-07-31",
+        "title": "Endling - Extinction is Forever (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0315/GoFmMMR4hakwjwMZx2kmw9r9.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "www.handy-games.com GmbH"
     },
     {
         "code": "UP1001-PPSA07169_00-NBA2K23CROSSBUY0",
