@@ -2,17 +2,36 @@
     {
         "code": "UP1001-PPSA04390_00-PGA2K23CROSSBUY0",
         "startTime": "2023-08-01",
-        "endTime": "2023-09-04"
+        "endTime": "2023-09-04",
+        "title": "《PGA TOUR 2K23》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2201/rhZ9AU0lZ221Km5tlnGcbTaG.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "2K"
     },
     {
         "code": "UP3643-PPSA05303_00-2564955967631989",
         "startTime": "2023-08-01",
-        "endTime": "2023-09-04"
+        "endTime": "2023-09-04",
+        "title": "Death's Door (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2308/CDCJRAEgwDQjqith6UwJMP8q.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Devolver Digital"
     },
     {
         "code": "HP9000-CUSA13819_00-DREAMS0000000000",
         "startTime": "2023-08-01",
-        "endTime": "2023-09-04"
+        "endTime": "2023-09-04",
+        "title": "Dreams Universe™ (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2913/CBnfDBJI1T1BAfl2kOeTNQr7.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "HP0002-PPSA02053_00-CODCWTHEGAME0001",
