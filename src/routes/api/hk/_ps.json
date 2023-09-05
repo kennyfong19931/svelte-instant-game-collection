@@ -2,17 +2,36 @@
     {
         "code": "EP4062-PPSA02807_00-SAINTSROW00PS5EU",
         "startTime": "2023-09-05",
-        "endTime": "2023-10-02"
+        "endTime": "2023-10-02",
+        "title": "Saints Row Gold Edition (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0913/C8euJVij7m20ePHVXr9DHwlg.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP4162-CUSA15233_00-7789368583668763",
         "startTime": "2023-09-05",
-        "endTime": "2023-10-02"
+        "endTime": "2023-10-02",
+        "title": "黑色沙漠: Traveler Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1511/c76a5f26c83d7fc876d4bc5d9e6c10553fdfbc458cd5ca7f.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP5259-CUSA12260_00-GENZEROBASE00000",
         "startTime": "2023-09-05",
-        "endTime": "2023-10-02"
+        "endTime": "2023-10-02",
+        "title": "Generation Zero® - Resistance Bundle (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1011/4eb82df9fe1944f8b01f9fb5e965fcd1606ef0102d185831.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": ""
     },
     {
         "code": "UP1001-PPSA04390_00-PGA2K23CROSSBUY0",
