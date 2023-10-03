@@ -2,17 +2,38 @@
     {
         "code": "HP4929-PPSA03353_00-0483820656693353",
         "startTime": "2023-10-03",
-        "endTime": "2023-11-06"
+        "endTime": "2023-11-06",
+        "title": "The Callisto Protocol (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0222/pqZVlL42HwbUMdSAyNQoRnzg.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP6238-PPSA02428_00-8421141629027302",
         "startTime": "2023-10-03",
-        "endTime": "2023-11-06"
+        "endTime": "2023-11-06",
+        "title": "Farming Simulator 22 - Platinum Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/YmSVFWcwO13SNHfapf25eEwD.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "UP3643-PPSA10886_00-WEIRDWESTPS5US00",
         "startTime": "2023-10-03",
-        "endTime": "2023-11-06"
+        "endTime": "2023-11-06",
+        "title": "Weird West: Definitive Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0517/0e63f17ba1f80d4f5d7d7628bbc0d1e018c74edd9f00739b.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "EP4062-PPSA02807_00-SAINTSROW00PS5EU",
