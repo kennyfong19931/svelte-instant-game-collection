@@ -6,7 +6,7 @@ import path from 'path';
 import { load } from 'cheerio';
 
 const __dirname = path.resolve();
-const storePageUrl = 'https://store.playstation.com/?resolve={CODE}';
+const storePageUrl = 'https://store.playstation.com/zh-hant-hk/product/{CODE}';
 const baseUrl =
 	'https://web.np.playstation.com/api/graphql/v1/op?operationName=productRetrieveForUpsellWithCtas&variables=%7B%22productId%22%3A%22{CODE}%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%227d46a3b7949a7a980a04213ba6355c72b3713cb96f2e3cb077f318883fa3092b%22%7D%7D';
 const lang = 'zh-hant-HK';
