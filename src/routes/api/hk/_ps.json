@@ -2,17 +2,36 @@
     {
         "code": "UP1001-CUSA16990_00-ASIA000000000000",
         "startTime": "2023-11-07",
-        "endTime": "2023-12-05"
+        "endTime": "2023-12-05",
+        "title": "《四海兄弟II：決定版》 (中日英韓文版)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307R2t42-0UEYwVr1CzZtv7ogCGn9YimWoBFFVpcew0i5IWBbv1VHF2emuPfcDjL1AhVKW07teQgsgGPnPV5lSdUEbXhpc.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Take Two Interactive Software UK Limited"
     },
     {
         "code": "HP0700-CUSA28834_00-DBPROJECTFORM000",
         "startTime": "2023-11-07",
-        "endTime": "2023-12-05"
+        "endTime": "2023-12-05",
+        "title": "七龍珠 破界鬥士 特別版 (簡體中文, 韓文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2409/baf29a44a441ad6c789a7722b9906cfe80585c353ce3c29d.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Bandai Namco Entertainment Inc."
     },
     {
         "code": "EP4133-PPSA03544_00-ALIENSFIRETEAMEU",
         "startTime": "2023-11-07",
-        "endTime": "2023-12-05"
+        "endTime": "2023-12-05",
+        "title": "Aliens: Fireteam Elite - Ultimate Edition (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2215/rNYrMyeRSpNankPbwSLfbPHK.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Focus Entertainment"
     },
     {
         "code": "HP4929-PPSA03353_00-0483820656693353",
