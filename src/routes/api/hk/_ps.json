@@ -2,17 +2,36 @@
     {
         "code": "UP1001-PPSA04048_00-CROSSGENEDPS4PS5",
         "startTime": "2023-12-06",
-        "endTime": "2024-01-01"
+        "endTime": "2024-01-01",
+        "title": "PS4™版《樂高®2K 飆風賽車》 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0918/00de0eb137a53f7cb188e199cd797d7730b613cd8693b7cf.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Take-Two"
     },
     {
         "code": "UP0082-PPSA04987_00-3528315769842001",
         "startTime": "2023-12-06",
-        "endTime": "2024-01-01"
+        "endTime": "2024-01-01",
+        "title": "PowerWash Simulator (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1117/mOtdY7LHEsMrtMp0VvTyXeiE.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "SQUARE ENIX"
     },
     {
         "code": "UP2320-PPSA01569_00-SABLETHEGAMENAP5",
         "startTime": "2023-12-06",
-        "endTime": "2024-01-01"
+        "endTime": "2024-01-01",
+        "title": "Sable (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1315/pXUvzfD2jtS9O5dTT6mhARVg.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "RAW FURY"
     },
     {
         "code": "UP1001-CUSA16990_00-ASIA000000000000",
