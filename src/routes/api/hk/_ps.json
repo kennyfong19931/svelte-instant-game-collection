@@ -2,17 +2,37 @@
     {
         "code": "HP0082-PPSA18732_00-FOAMSTARS0000000",
         "startTime": "2024-02-06",
-        "endTime": "2024-03-04"
+        "endTime": "2024-03-04",
+        "title": "FOAMSTARS (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1703/1065061f5983ec110556f4ddebb6e106779a1cd1b2ba7ad2.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "SQUARE ENIX CO., LTD."
     },
     {
         "code": "UP4581-PPSA08185_00-ROLLERDROME00000",
         "startTime": "2024-02-06",
-        "endTime": "2024-03-04"
+        "endTime": "2024-03-04",
+        "title": "室內滑輪賽 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0222/eBvlHH5Jv3QHrIwzrdbKlkdj.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Take-Two"
     },
     {
         "code": "EP6665-PPSA05063_00-STR0000000000000",
         "startTime": "2024-02-06",
-        "endTime": "2024-03-04"
+        "endTime": "2024-03-04",
+        "title": "Steelrising (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0514/50400964591eddda057277cd4be76ad9378f2b9858139612.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "NACON SA"
     },
     {
         "code": "EP4133-PPSA02785_00-APLAGUEOUTBURST0",
