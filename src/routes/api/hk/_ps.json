@@ -2,22 +2,49 @@
     {
         "code": "UP0006-PPSA09801_00-F12023PS5GAME000",
         "startTime": "2024-03-05",
-        "endTime": "2024-04-02"
+        "endTime": "2024-04-02",
+        "title": "F1® 23 (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2816/6a8e9cca68894033f83c2994933badd089bd33591a8f20eb.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "UP2703-PPSA05132_00-4856299050197748",
         "startTime": "2024-03-05",
-        "endTime": "2024-04-02"
+        "endTime": "2024-04-02",
+        "title": "師父 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202201/1615/q9WyNMEDXQGdkL3oVmuXqVwM.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "SLOCLAP S.A.S"
     },
     {
         "code": "UP0097-PPSA07425_00-2395303223172491",
         "startTime": "2024-03-05",
-        "endTime": "2024-04-02"
+        "endTime": "2024-04-02",
+        "title": "Hello Neighbor 2 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0613/249503ec6c4aa1d4c2fd6fbc5350fadaa32a13697c5bb2fc.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "TINYBUILD LLC"
     },
     {
         "code": "JP9200-PPSA02411_00-D2WITCHQUEEN0001",
         "startTime": "2024-03-05",
-        "endTime": "2024-04-02"
+        "endTime": "2024-04-02",
+        "title": "天命2 PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0400/3PetyfDv6TpzxVQtBKYnWq8o.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "BUNGIE INC."
     },
     {
         "code": "HP0082-PPSA18732_00-FOAMSTARS0000000",
