@@ -2,17 +2,36 @@
     {
         "code": "UP0006-PPSA08236_00-ARTEMISGAME00000",
         "startTime": "2024-04-02",
-        "endTime": "2024-05-06"
+        "endTime": "2024-05-06",
+        "title": "亙古魔戰 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3011/8d91b74b4bcadc659b2c0dc4ccfcef035447be4d7668ee04.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "JP0127-PPSA05511_00-6279100536590199",
         "startTime": "2024-04-02",
-        "endTime": "2024-05-06"
+        "endTime": "2024-05-06",
+        "title": "Minecraft Legends (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1516/C4e7doLUZkF9fDviGRHO1n2x.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "MOJANG"
     },
     {
         "code": "HP1804-CUSA27432_00-5451042164802202",
         "startTime": "2024-04-02",
-        "endTime": "2024-05-06"
+        "endTime": "2024-05-06",
+        "title": "Skul: The Hero Slayer (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1801/8f039d048a74f8ba04eeacccec9341987a02bc3783f56689.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "NEOWIZ"
     },
     {
         "code": "UP0006-PPSA09801_00-F12023PS5GAME000",
