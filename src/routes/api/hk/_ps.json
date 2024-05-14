@@ -2,22 +2,49 @@
     {
         "code": "EP0006-PPSA13385_00-24STANDARDBUNDLE",
         "startTime": "2024-05-07",
-        "endTime": "2024-06-17"
+        "endTime": "2024-06-17",
+        "title": "EA SPORTS FC™ 24 標準版 PS4 及 PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2015/22b37959aedcda65054b38b77cd98838b8a498ab72245d1e.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "ELECTRONIC ARTS LTD"
     },
     {
         "code": "UP0406-PPSA03054_00-3390974934506823",
         "startTime": "2024-05-07",
-        "endTime": "2024-06-03"
+        "endTime": "2024-06-03",
+        "title": "TUNIC (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0301/KSalsBYWb0IuDrdD1SbptAd6.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "LAST CHANCE MEDIA (DBA FINJI GAMES)"
     },
     {
         "code": "JP9200-PPSA02411_00-D2LFPSPLUS000001",
         "startTime": "2024-05-07",
-        "endTime": "2024-06-03"
+        "endTime": "2024-06-03",
+        "title": "天命2 PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0400/3PetyfDv6TpzxVQtBKYnWq8o.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "BUNGIE INC."
     },
     {
         "code": "EP4040-PPSA09912_00-GHOSTRUNNER2EU00",
         "startTime": "2024-05-07",
-        "endTime": "2024-06-03"
+        "endTime": "2024-06-03",
+        "title": "《幽影行者 2》 Ghostrunner 2 (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/68cccf6ceab7894dac4a08de15c6ac5de2aca7ae875c096f.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "505 GAMES S.R.L."
     },
     {
         "code": "UP0006-PPSA08236_00-ARTEMISGAME00000",
