@@ -2,17 +2,37 @@
     {
         "code": "EP4389-PPSA16527_00-THECOSMICSHAKPS5",
         "startTime": "2024-06-04",
-        "endTime": "2024-07-01"
+        "endTime": "2024-07-01",
+        "title": "海綿寶寶 : The Cosmic Shake (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2318/vBMYzkrulAosPetNJlQBoH9J.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "THQ NORDIC GAMES GMBH"
     },
     {
         "code": "EP4389-PPSA09352_00-AEWRESTLINGPS5EU",
         "startTime": "2024-06-04",
-        "endTime": "2024-07-01"
+        "endTime": "2024-07-01",
+        "title": "AEW: Fight Forever (簡體中文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2112/paSf87YTdxnSjGy7e9KyXcTq.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "THQ NORDIC GAMES GMBH"
     },
     {
         "code": "EP4365-CUSA01123_00-ASIA000000000000",
         "startTime": "2024-06-04",
-        "endTime": "2024-07-01"
+        "endTime": "2024-07-01",
+        "title": "TROPICO 5 (韓文, 英文)",
+        "image": "https://image.api.playstation.com/cdn/EP4365/CUSA01123_00/hrZEdKPuJuUEFqRXjXeuZAUyIldTmQrO30F7ghEqN5lLZMo5ZoBj4wTIM5Kh1yzS.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "KALYPSO MEDIA"
     },
     {
         "code": "EP0006-PPSA13385_00-24STANDARDBUNDLE",
