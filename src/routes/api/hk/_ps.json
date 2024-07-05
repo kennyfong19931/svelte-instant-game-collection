@@ -2,22 +2,50 @@
     {
         "code": "UP1001-PPSA01462_00-0000000OAKNGSIEA",
         "startTime": "2024-07-02",
-        "endTime": "2024-08-05"
+        "endTime": "2024-08-05",
+        "title": "邊緣禁地3 PS4™ &  PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2323/p50N4PBK9rNanGYKFecTvac5.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Take-Two"
     },
     {
         "code": "HP7048-PPSA03643_00-AMONGUS5SIEJA001",
         "startTime": "2024-07-02",
-        "endTime": "2024-08-05"
+        "endTime": "2024-08-05",
+        "title": "Among Us (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202107/0115/D5IIJwm65MLMPENwWzzO7rjd.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Innersloth LLC"
     },
     {
         "code": "UP0006-PPSA11193_00-NHLPS5HOCKEY2024",
         "startTime": "2024-07-02",
-        "endTime": "2024-08-05"
+        "endTime": "2024-08-05",
+        "title": "《NHL 24》X 因子版 PS5™ 與 PS4™ (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1021/c77d0059db1a0a3c2ea997f83b1e73ab80bcca216958eecb.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "UP0006-CUSA37933_00-NHLPS4HOCKEY2024",
         "startTime": "2024-07-02",
-        "endTime": "2024-08-05"
+        "endTime": "2024-08-05",
+        "title": "《NHL 24》X 因子版 PS5™ 與 PS4™ (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1021/c77d0059db1a0a3c2ea997f83b1e73ab80bcca216958eecb.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "EP4389-PPSA16527_00-THECOSMICSHAKPS5",
