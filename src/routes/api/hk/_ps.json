@@ -27,10 +27,9 @@
         "code": "UP0006-PPSA11193_00-NHLPS5HOCKEY2024",
         "startTime": "2024-07-02",
         "endTime": "2024-08-05",
-        "title": "《NHL 24》X 因子版 PS5™ 與 PS4™ (英文)",
+        "title": "《NHL 24》PS5™ 版 (英語)",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1021/c77d0059db1a0a3c2ea997f83b1e73ab80bcca216958eecb.png?w=240&h=240",
         "platforms": [
-            "PS4",
             "PS5"
         ],
         "brand": "Electronic Arts Inc."
@@ -39,11 +38,10 @@
         "code": "UP0006-CUSA37933_00-NHLPS4HOCKEY2024",
         "startTime": "2024-07-02",
         "endTime": "2024-08-05",
-        "title": "《NHL 24》X 因子版 PS5™ 與 PS4™ (英文)",
+        "title": "《NHL 24》PS4™ 版 (英語)",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1021/c77d0059db1a0a3c2ea997f83b1e73ab80bcca216958eecb.png?w=240&h=240",
         "platforms": [
-            "PS4",
-            "PS5"
+            "PS4"
         ],
         "brand": "Electronic Arts Inc."
     },
