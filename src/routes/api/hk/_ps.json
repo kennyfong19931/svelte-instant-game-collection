@@ -1,5 +1,20 @@
 [
     {
+        "code": "HP1018-PPSA01866_00-LEGOSWTSS0000000",
+        "startTime": "2024-08-06",
+        "endTime": "2024-09-02"
+    },
+    {
+        "code": "UP0638-PPSA01797_00-FNAFSECUREBREACH",
+        "startTime": "2024-08-06",
+        "endTime": "2024-09-02"
+    },
+    {
+        "code": "HP6486-CUSA26117_00-1654694255278421",
+        "startTime": "2024-08-06",
+        "endTime": "2024-09-02"
+    },
+    {
         "code": "UP1001-PPSA01462_00-0000000OAKNGSIEA",
         "startTime": "2024-07-02",
         "endTime": "2024-08-05",
