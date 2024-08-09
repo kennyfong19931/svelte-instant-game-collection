@@ -2,17 +2,37 @@
     {
         "code": "HP1018-PPSA01866_00-LEGOSWTSS0000000",
         "startTime": "2024-08-06",
-        "endTime": "2024-09-02"
+        "endTime": "2024-09-02",
+        "title": "LEGO® Star Wars™: 天行者傳奇銀河版 (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/nsr5lNmBzoKtqx8SkzagdRKF.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "UP0638-PPSA01797_00-FNAFSECUREBREACH",
         "startTime": "2024-08-06",
-        "endTime": "2024-09-02"
+        "endTime": "2024-09-02",
+        "title": "Five Nights at Freddy’s: Security Breach (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202112/0804/2UTMvRFqn4SdaoxhtQnxchcn.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "STEEL WOOL GAMES, LLC"
     },
     {
         "code": "HP6486-CUSA26117_00-1654694255278421",
         "startTime": "2024-08-06",
-        "endTime": "2024-09-02"
+        "endTime": "2024-09-02",
+        "title": "ENDER LILIES: Quietus of the Knights (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2006/UQ0eSe7Rx4K0sXkO1nR7Iq9k.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Binary Haze Interective"
     },
     {
         "code": "UP1001-PPSA01462_00-0000000OAKNGSIEA",
