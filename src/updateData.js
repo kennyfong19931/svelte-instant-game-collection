@@ -15,7 +15,10 @@ async function getDataFromAPI(code) {
 	return Promise.all([
 		fetch(storePageUrl.replace('{CODE}', code)).then((r) => r.text()),
 		fetch(baseUrl.replace('{CODE}', code), {
-			headers: { 'x-psn-store-locale-override': lang }
+			headers: { 
+				'Content-Type': 'application/json',
+				'x-psn-store-locale-override': lang
+			}
 		}).then((r) => r.json())
 	])
 		.then(([storePageResponse, apiResponse]) => {
