@@ -1,5 +1,76 @@
 [
     {
+        "code": "UP1001-PPSA16306_00-WWE2K24CROSSGEN0",
+        "startTime": "2024-10-01",
+        "endTime": "2024-11-04",
+        "title": "《WWE 2K24》跨世代數字版 (英語)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/8ef9ab648b8b46461778764d6942c44a1c485abd7879e7ce.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Take-Two"
+    },
+    {
+        "code": "UP0006-PPSA03845_00-BEYONDPS5GAME000",
+        "startTime": "2024-10-01",
+        "endTime": "2024-11-04",
+        "title": "《絕命異次元》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MP0I6Folca9wOgs9A39wwvj1.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
+    },
+    {
+        "code": "HP1127-PPSA04639_00-DOKIDOKIPLUS00AS",
+        "startTime": "2024-10-01",
+        "endTime": "2024-11-04",
+        "title": "Doki Doki Literature Club Plus! 《心跳文學部 Plus》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/3002/iCip1728bKEwRLDVWXyQdCBy.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Serenity Forge"
+    },
+    {
+        "code": "UP1018-PPSA05834_00-QUIDDITCH0000000",
+        "startTime": "2024-09-03",
+        "endTime": "2024-09-30",
+        "title": "《哈利波特：魁地奇鬥士》豪華版 PS4 & PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1217/a3386e4135e15f6f5157fa0e14ef9a89204789eb1815cfa5.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Warner Bros. Interactive"
+    },
+    {
+        "code": "UP9000-PPSA17085_00-MLBTHESHOW24PLUS",
+        "startTime": "2024-09-03",
+        "endTime": "2024-09-30",
+        "title": "《MLB® The Show™ 24》MVP版 （PS5®與PS4™） (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0601/d2e00220934e52c41e76c90e1d4ce4446011ee68557ac4c7.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Sony Interactive Entertainment"
+    },
+    {
+        "code": "HP5028-PPSA02215_00-LITTLENIGHTS2000",
+        "startTime": "2024-09-03",
+        "endTime": "2024-09-30",
+        "title": "小小夢魘1+2 (簡體中文, 韓文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/3115/zyAN9ya8ZrVrQtU6VeIsssa7.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Bandai Namco Entertainment Asia Pte Ltd."
+    },
+    {
         "code": "HP1018-PPSA01866_00-LEGOSWTSS0000000",
         "startTime": "2024-08-06",
         "endTime": "2024-09-02",
