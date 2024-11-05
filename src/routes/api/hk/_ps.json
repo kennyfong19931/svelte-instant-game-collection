@@ -2,17 +2,37 @@
     {
         "code": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
         "startTime": "2024-11-05",
-        "endTime": "2024-12-02"
+        "endTime": "2024-12-02",
+        "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged PS4 & PS5 (簡體中文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2213/3de9e16c11268d71c50cc943e9c60ec415adb9c15200bdc1.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Milestone S.r.l."
     },
     {
         "code": "HP1003-PPSA04788_00-GHOSTWIRETOKYOFG",
         "startTime": "2024-11-05",
-        "endTime": "2024-12-02"
+        "endTime": "2024-12-02",
+        "title": "Ghostwire: Tokyo (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1522/n6qx9GWCjkivDuCDsHhBwzhF.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Bethesda Softworks"
     },
     {
         "code": "HP0700-PPSA18707_00-DEATHNOTE0000000",
         "startTime": "2024-11-05",
-        "endTime": "2024-12-02"
+        "endTime": "2024-12-02",
+        "title": "DEATH NOTE 暗影任務 PS4 & PS5 (韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2906/4082b2de17d08a707984c037bf22ce0367f37e641aa1d79a.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Bandai Namco Entertainment Inc."
     },
     {
         "code": "UP1001-PPSA16306_00-WWE2K24CROSSGEN0",
