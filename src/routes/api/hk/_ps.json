@@ -2,17 +2,37 @@
     {
         "code": "UP0006-PPSA02342_00-ITTAKESTWORETAIL",
         "startTime": "2024-12-03",
-        "endTime": "2025-01-06"
+        "endTime": "2025-01-06",
+        "title": "Hazelight 同捆包 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0715/5OkQV4BwyqqqHrIwZyWMbsYV.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "EP4133-PPSA08312_00-ALIENSDARKDESCEN",
         "startTime": "2024-12-03",
-        "endTime": "2025-01-06"
+        "endTime": "2025-01-06",
+        "title": "Aliens: Dark Descent (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2213/099fc5e72fff1ba84d0588dc3d0634244096c1ee1ccd51a3.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Focus Entertainment"
     },
     {
         "code": "UP3864-PPSA01800_00-TEMTEM000000000A",
         "startTime": "2024-12-03",
-        "endTime": "2025-01-06"
+        "endTime": "2025-01-06",
+        "title": "Temtem (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202112/1617/C52StOGQW0xqZelMISoU3Jwk.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Humble Games"
     },
     {
         "code": "EP4356-PPSA09285_00-HWU2TURBOCHARGED",
