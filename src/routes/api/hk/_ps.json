@@ -2,17 +2,35 @@
     {
         "code": "UP1018-PPSA02182_00-SUICIDESQUADKTJL",
         "startTime": "2025-01-07",
-        "endTime": "2025-02-03"
+        "endTime": "2025-02-03",
+        "title": "自殺突擊隊：戰勝正義聯盟 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0618/313cabbe081af3038b2527a45b01c83620c3c37de01d43e4.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Warner Bros. Interactive"
     },
     {
         "code": "UP0006-CUSA23264_00-NEEDFORSPEEDHPR0",
         "startTime": "2025-01-07",
-        "endTime": "2025-02-03"
+        "endTime": "2025-02-03",
+        "title": "《極速快感™：超熱力追緝》重製版 (英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "HP1127-CUSA29259_00-9546533959264562",
         "startTime": "2025-01-07",
-        "endTime": "2025-02-03"
+        "endTime": "2025-02-03",
+        "title": "非常普通的鹿 鹿頂記之弱小的鹿總是受欺負 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2708/34wJVdVMepd6ZTPPbrCExUTK.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "PLAYISM"
     },
     {
         "code": "UP0006-PPSA02342_00-ITTAKESTWORETAIL",
