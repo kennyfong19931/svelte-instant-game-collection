@@ -2,17 +2,36 @@
     {
         "code": "UP8268-PPSA14410_00-PAYDAY3FULLGAME0",
         "startTime": "2025-02-04",
-        "endTime": "2025-03-03"
+        "endTime": "2025-03-03",
+        "title": "Payday 3 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2616/74efe3cba65d7ac5f08389b840602fa8349b075c4753901e.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "PLAION"
     },
     {
         "code": "HP0700-PPSA04563_00-PACMANWORLDRE004",
         "startTime": "2025-02-04",
-        "endTime": "2025-03-03"
+        "endTime": "2025-03-03",
+        "title": "吃豆人 吃遍世界（PAC-MAN WORLD Re-PAC） PS4 & PS5 (簡體中文, 韓文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0410/j1QPQb8I4RBbWU63CRA1wPa7.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Bandai Namco Entertainment Inc."
     },
     {
         "code": "HP2470-CUSA26896_00-PGNCA01SOLCRESTA",
         "startTime": "2025-02-04",
-        "endTime": "2025-03-03"
+        "endTime": "2025-03-03",
+        "title": "SOL CRESTA (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2607/dnlQ8xBV74eHY6V60C3J35ZF.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "PLATINUMGAMES INC."
     },
     {
         "code": "UP1018-PPSA02182_00-SUICIDESQUADKTJL",
