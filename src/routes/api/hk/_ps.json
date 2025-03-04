@@ -2,17 +2,36 @@
     {
         "code": "UP0006-PPSA01390_00-DRAGON4STANDBUND",
         "startTime": "2025-03-04",
-        "endTime": "2025-03-31"
+        "endTime": "2025-03-31",
+        "title": "闇龍紀元™：紗障守護者 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2418/3b0eb3c72b64514dab70aee3e3865c1519803d22210642a1.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "JP0177-CUSA19429_00-SONICCOLORSULTIM",
         "startTime": "2025-03-04",
-        "endTime": "2025-03-31"
+        "endTime": "2025-03-31",
+        "title": "索尼克繽紛色彩 究極版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202106/0302/PYHPQlmEvSKGYHRmzqAYFVd4.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "SEGA CORPORATION"
     },
     {
         "code": "HP0101-PPSA07184_00-TMNTCOWABUNGAXXX",
         "startTime": "2025-03-04",
-        "endTime": "2025-03-31"
+        "endTime": "2025-03-31",
+        "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PS4 & PS5 (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/Y0bXkLgt0Yet3SvbjV94OHID.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Konami Digital Entertainment Ltd."
     },
     {
         "code": "UP8268-PPSA14410_00-PAYDAY3FULLGAME0",
