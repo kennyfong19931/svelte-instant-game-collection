@@ -13,7 +13,14 @@
     {
         "code": "UP2165-PPSA05317_00-1173579898314038",
         "startTime": "2025-04-01",
-        "endTime": "2025-05-05"
+        "endTime": "2025-05-05",
+        "title": "The Texas Chain Saw Massacre (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3119/33dfebed10182288fafe731b602fb074924bc554965595d3.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "GUN MEDIA HOLDINGS, INC"
     },
     {
         "code": "HP0700-CUSA09436_00-ASIAPLACEHOLDER0",
