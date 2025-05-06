@@ -2,17 +2,37 @@
     {
         "code": "HP0365-PPSA19052_00-SURVIVALASCENDED",
         "startTime": "2025-05-06",
-        "endTime": "2025-06-02"
+        "endTime": "2025-06-02",
+        "title": "ARK: Survival Ascended (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3119/62c379ea2d70eeffdaa610992087f7162ceb5d036a49aa9a.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Spike Chunsoft Co., Ltd."
     },
     {
         "code": "UP3639-PPSA21401_00-0767712965312971",
         "startTime": "2025-05-06",
-        "endTime": "2025-06-02"
+        "endTime": "2025-06-02",
+        "title": "Balatro (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2218/d8c5d5861249cd80a300efb723450f56d0347e4345e2eb80.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "PLAYSTACK LIMITED"
     },
     {
         "code": "EP4133-PPSA07247_00-000000000BOLTGUN",
         "startTime": "2025-05-06",
-        "endTime": "2025-06-02"
+        "endTime": "2025-06-02",
+        "title": "Warhammer 40,000: Boltgun (PS4 & PS5) (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2314/c5e10e76ff39458aba617e8c889c22ad12f3b495bbee2af4.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Focus Entertainment"
     },
     {
         "code": "EP6665-PPSA05059_00-ROB0000000000000",
