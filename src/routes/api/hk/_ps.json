@@ -2,22 +2,49 @@
     {
         "code": "UP1001-PPSA22120_00-NBA2K25STANDARD0",
         "startTime": "2025-06-03",
-        "endTime": "2025-06-30"
+        "endTime": "2025-06-30",
+        "title": "《NBA 2K25》全明星版 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1017/9f9d12f2caf1fb779f52eb3bebc0dc5fcfd4ec42e3b39c3c.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Take-Two"
     },
     {
         "code": "EP4389-PPSA08135_00-ALONEINTHEDARKEU",
         "startTime": "2025-06-03",
-        "endTime": "2025-06-30"
+        "endTime": "2025-06-30",
+        "title": "Alone in the Dark (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1015/b3a91fa43661ced3d57a908c26f5bfab057584343be6f618.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": ""
     },
     {
         "code": "HP2505-PPSA11327_00-2405845433868054",
         "startTime": "2025-06-03",
-        "endTime": "2025-06-30"
+        "endTime": "2025-06-30",
+        "title": "Bomb Rush Cyberfunk PS4 & PS5 (英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1015/2d123c25adc5ddaff0704d7062ed64825b14b2421901bdcd.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Team Reptile B.V."
     },
     {
         "code": "JP9200-PPSA02411_00-D2FSBUNDLE000001",
         "startTime": "2025-06-03",
-        "endTime": "2025-06-30"
+        "endTime": "2025-06-30",
+        "title": "天命2 PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0400/3PetyfDv6TpzxVQtBKYnWq8o.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "BUNGIE INC."
     },
     {
         "code": "HP0365-PPSA19052_00-SURVIVALASCENDED",
