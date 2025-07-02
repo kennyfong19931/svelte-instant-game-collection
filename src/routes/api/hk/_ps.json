@@ -2,17 +2,37 @@
     {
         "code": "UP0002-PPSA02442_00-DIVBASEGAME00000",
         "startTime": "2025-07-01",
-        "endTime": "2025-07-04"
+        "endTime": "2025-07-04",
+        "title": "《暗黑破壞神® IV》- 資料片組合包 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3021/7b622ad3b2ea4454c5e39caff4db1fd8302f2399abba606d.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "ACTIVISION BLIZZARD"
     },
     {
         "code": "UP0576-PPSA02213_00-KOF15PS5000000US",
         "startTime": "2025-07-01",
-        "endTime": "2025-07-04"
+        "endTime": "2025-07-04",
+        "title": "THE KING OF FIGHTERS XV Deluxe Edition PS4 & PS5 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0606/ppbtLTfUwT9XKhBMH4eKbmvH.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Prime Matter"
     },
     {
         "code": "HP5798-PPSA20440_00-0801298045646161",
         "startTime": "2025-07-01",
-        "endTime": "2025-07-04"
+        "endTime": "2025-07-04",
+        "title": "Jusant (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0107/8c754c3cd3fdda0cca46b71b6dc07a98cfea943613a01f08.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "DON'T NOD ENTERTAINMENT"
     },
     {
         "code": "UP1001-PPSA22120_00-NBA2K25STANDARD0",
