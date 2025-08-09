@@ -2,17 +2,36 @@
     {
         "code": "HP1804-PPSA10623_00-6700122691247574",
         "startTime": "2025-08-05",
-        "endTime": "2025-09-01"
+        "endTime": "2025-09-01",
+        "title": "Lies of P: Overture Bundle (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2608/ebb28e14f8f0278f4237c7296eb8d80753fa110f7a65e47b.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "NEOWIZ"
     },
     {
         "code": "EP2601-CUSA05645_00-DAYZ000000000001",
         "startTime": "2025-08-05",
-        "endTime": "2025-09-01"
+        "endTime": "2025-09-01",
+        "title": "DayZ (簡體中文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "BOHEMIA INTERACTIVE STUDIO"
     },
     {
         "code": "HP0700-CUSA16200_00-ASIAFULLGAME0000",
         "startTime": "2025-08-05",
-        "endTime": "2025-09-01"
+        "endTime": "2025-09-01",
+        "title": "我的英雄學院 唯我正義2 (韓文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307EV63JT7vLzggERu89kWrS9SOtMqeSQJPp5WVzIHVf5MD_nVvIp5aDkUkVaYd57aCvgbQWPWGAVWwxoI-Hz5SnwHS85L.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Bandai Namco Entertainment"
     },
     {
         "code": "UP0002-PPSA02442_00-DIVBASEGAME00000",
