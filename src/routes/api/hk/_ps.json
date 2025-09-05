@@ -2,17 +2,36 @@
     {
         "code": "EP6311-CUSA27146_00-PSYCHONAUTS2SIEE",
         "startTime": "2025-09-02",
-        "endTime": "2025-10-06"
+        "endTime": "2025-10-06",
+        "title": "Psychonauts 2 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/ue23ohksCQgyKenxycEw1V41.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Microsoft Corporation"
     },
     {
         "code": "EP5360-PPSA10248_00-VIEWFINDER0005EU",
         "startTime": "2025-09-02",
-        "endTime": "2025-10-06"
+        "endTime": "2025-10-06",
+        "title": "Viewfinder (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1711/19e6a1c5304b7a4fa3c03eaa726cad6c336b124359cf590a.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "THUNDERFUL PUBLISHING"
     },
     {
         "code": "JP1368-CUSA23493_00-DMFDAPP000000000",
         "startTime": "2025-09-02",
-        "endTime": "2025-10-06"
+        "endTime": "2025-10-06",
+        "title": "Dragon Marked For Death (韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1705/QiMb166nhq5yF7ydLb5cGMdX.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "INTI CREATES Co., LTD."
     },
     {
         "code": "HP1804-PPSA10623_00-6700122691247574",
