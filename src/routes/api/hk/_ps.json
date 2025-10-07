@@ -2,17 +2,37 @@
     {
         "code": "UP1477-PPSA02571_00-ALANWAKE20000000",
         "startTime": "2025-10-07",
-        "endTime": "2025-11-03"
+        "endTime": "2025-11-03",
+        "title": "Alan Wake 2 Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/4b674fbec219cb9a3d5b7bc1b3e3ca112fd59c8d492258ac.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "EPIC GAMES"
     },
     {
         "code": "HP2418-PPSA08768_00-COCOONSIEJASIA00",
         "startTime": "2025-10-07",
-        "endTime": "2025-11-03"
+        "endTime": "2025-11-03",
+        "title": "COCOON (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/edce2d3e20cb874ad82bbf54f00c9e2a3adf7f5bf77665ca.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Annapurna Interactive"
     },
     {
         "code": "EP4837-PPSA04158_00-GS3MAINGAMEPACK0",
         "startTime": "2025-10-07",
-        "endTime": "2025-11-03"
+        "endTime": "2025-11-03",
+        "title": "Goat Simulator 3 - Multiversal Traveler's Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0511/c768df0d67310fb71b41d50fca73c450850357d496a0733e.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "COFFEE STAIN PUBLISHING AB"
     },
     {
         "code": "EP6311-CUSA27146_00-PSYCHONAUTS2SIEE",
