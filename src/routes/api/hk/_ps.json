@@ -2,17 +2,37 @@
     {
         "code": "HP2418-PPSA02103_00-STRAYSIEASIA0000",
         "startTime": "2025-11-04",
-        "endTime": "2025-12-01"
+        "endTime": "2025-12-01",
+        "title": "Stray (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Annapurna Interactive"
     },
     {
         "code": "UP0006-PPSA06093_00-WRC2023PS5GAME00",
         "startTime": "2025-11-04",
-        "endTime": "2025-12-01"
+        "endTime": "2025-12-01",
+        "title": "EA SPORTS™ WRC 24 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2522/206c27c9cdc627372195e75bd4fe393d23f35d3c4737940d.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "UP3456-PPSA06081_00-7423111174326993",
         "startTime": "2025-11-04",
-        "endTime": "2025-12-01"
+        "endTime": "2025-12-01",
+        "title": "Totally Accurate Battle Simulator (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1512/a800dc5a941af33b5f7b7371f907a0fe26f3c435e4c20f60.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "LANDFALL GAMES AB"
     },
     {
         "code": "UP1477-PPSA02571_00-ALANWAKE20000000",
