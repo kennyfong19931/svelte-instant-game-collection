@@ -2,27 +2,59 @@
     {
         "code": "EP9000-PPSA14632_00-LEGOHZNADVENTURE",
         "startTime": "2025-12-02",
-        "endTime": "2026-01-05"
+        "endTime": "2026-01-05",
+        "title": "《LEGO®地平線大冒險》數位豪華版 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2015/8b5556b240e91db2ef32569b6bcdd8c7906d670e5f43baf7.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "EP0114-PPSA08427_00-KF3GAME000000001",
         "startTime": "2025-12-02",
-        "endTime": "2026-01-05"
+        "endTime": "2026-01-05",
+        "title": "Killing Floor 3 Elite Nightfall Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2813/d35f082765d74e1068b2202f260737cc0e9171c6df6aa425.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Tripwire Interactive"
     },
     {
         "code": "HP2113-PPSA19187_00-0792718717330125",
         "startTime": "2025-12-02",
-        "endTime": "2026-01-05"
+        "endTime": "2026-01-05",
+        "title": "The Outlast Trials Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2113/a695adc2d7535fff9cfffdda2f441081b316f931b372d71a.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Red Barrels"
     },
     {
         "code": "HP0700-PPSA07139_00-SYNDUALITYADA000",
         "startTime": "2025-12-02",
-        "endTime": "2026-01-05"
+        "endTime": "2026-01-05",
+        "title": "奇異賢伴 愛達之歌 數位豪華版 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0311/86b3885ae8987785c7d17f3bd7df9ec2ac8aafa77fdc772d.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Bandai Namco Entertainment"
     },
     {
         "code": "HP2418-PPSA09867_00-NEONWHITESIEJA00",
         "startTime": "2025-12-02",
-        "endTime": "2026-01-05"
+        "endTime": "2026-01-05",
+        "title": "Neon White (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1823/inNCaoSDd2pF8YY7koHm0e5U.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Annapurna Interactive"
     },
     {
         "code": "HP2418-PPSA02103_00-STRAYSIEASIA0000",
