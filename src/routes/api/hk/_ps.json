@@ -1,5 +1,20 @@
 [
     {
+        "code": "UP0006-PPSA01716_00-NEEDFORSPEED2022",
+        "startTime": "2026-01-06",
+        "endTime": "2026-02-02"
+    },
+    {
+        "code": "EP4389-PPSA15657_00-EPICMICKEYREMAKE",
+        "startTime": "2026-01-06",
+        "endTime": "2026-02-02"
+    },
+    {
+        "code": "EP2520-PPSA19417_00-0407635045707470",
+        "startTime": "2026-01-06",
+        "endTime": "2026-02-02"
+    },
+    {
         "code": "EP9000-PPSA14632_00-LEGOHZNADVENTURE",
         "startTime": "2025-12-02",
         "endTime": "2026-01-05",
