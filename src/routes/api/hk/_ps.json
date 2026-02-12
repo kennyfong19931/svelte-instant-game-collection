@@ -2,22 +2,48 @@
     {
         "code": "EP4062-PPSA21914_00-UNDISPUTEDPS5EU1",
         "startTime": "2026-02-03",
-        "endTime": "2026-03-02"
+        "endTime": "2026-03-02",
+        "title": "Undisputed - Championship Edition (簡體中文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0309/e402de2c1beefa09c38e5b070ccaec0b5f0772cba3bbd3e6.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Deep Silver"
     },
     {
         "code": "UP5245-PPSA02456_00-BELOWZERSUB38637",
         "startTime": "2026-02-03",
-        "endTime": "2026-03-02"
+        "endTime": "2026-03-02",
+        "title": "Subnautica: Below Zero PS4 & PS5 (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Unknown Worlds Entertainment, Inc."
     },
     {
         "code": "EP6777-PPSA14348_00-ULTROS00000PS5EU",
         "startTime": "2026-02-03",
-        "endTime": "2026-03-02"
+        "endTime": "2026-03-02",
+        "title": "Ultros: Deluxe Edition (PS4 & PS5) (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2309/78a1616a78679812f976041f82e4a12ac039e9f30003faff.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Kepler Interactive Limited"
     },
     {
         "code": "HP0700-CUSA07163_00-ASIAFULLGAME0000",
         "startTime": "2026-02-03",
-        "endTime": "2026-03-02"
+        "endTime": "2026-03-02",
+        "title": "ACE COMBAT™ 7: SKIES UNKNOWN - TOP GUN: Maverick 數位豪華版 (遊戲)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1808/cty9VFtK4r0twB8tsfL1sAyk.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Bandai Namco Entertainment"
     },
     {
         "code": "UP0006-PPSA01716_00-NEEDFORSPEED2022",
