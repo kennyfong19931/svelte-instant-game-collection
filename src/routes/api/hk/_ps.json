@@ -1,5 +1,25 @@
 [
     {
+        "code": "EP4062-PPSA21914_00-UNDISPUTEDPS5EU1",
+        "startTime": "2026-02-03",
+        "endTime": "2026-03-02"
+    },
+    {
+        "code": "UP5245-PPSA02456_00-BELOWZERSUB38637",
+        "startTime": "2026-02-03",
+        "endTime": "2026-03-02"
+    },
+    {
+        "code": "EP6777-PPSA14348_00-ULTROS00000PS5EU",
+        "startTime": "2026-02-03",
+        "endTime": "2026-03-02"
+    },
+    {
+        "code": "HP0700-CUSA07163_00-ASIAFULLGAME0000",
+        "startTime": "2026-02-03",
+        "endTime": "2026-03-02"
+    },
+    {
         "code": "UP0006-PPSA01716_00-NEEDFORSPEED2022",
         "startTime": "2026-01-06",
         "endTime": "2026-02-02",
