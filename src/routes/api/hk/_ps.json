@@ -1,5 +1,25 @@
 [
     {
+        "code": "HP0102-PPSA08038_00-FULLGAME00000001",
+        "startTime": "2026-03-03",
+        "endTime": "2026-04-06"
+    },
+    {
+        "code": "UP1001-PPSA17952_00-PGATOUR2K25GBL00",
+        "startTime": "2026-03-03",
+        "endTime": "2026-04-06"
+    },
+    {
+        "code": "HP2245-PPSA22124_00-0000019198349081",
+        "startTime": "2026-03-03",
+        "endTime": "2026-04-06"
+    },
+    {
+        "code": "UP1003-PPSA02017_00-PENSTDFULL000000",
+        "startTime": "2026-03-03",
+        "endTime": "2026-04-06"
+    },
+    {
         "code": "EP4062-PPSA21914_00-UNDISPUTEDPS5EU1",
         "startTime": "2026-02-03",
         "endTime": "2026-03-02",
