@@ -2,22 +2,46 @@
     {
         "code": "EP4321-PPSA03641_00-0026114790873430",
         "startTime": "2026-04-07",
-        "endTime": "2026-05-04"
+        "endTime": "2026-05-04",
+        "title": "Lords of the Fallen Deluxe Edition (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2308/e3e15c28b56aa40ea81bd6cd0218a056cbad1b6867793c80.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "CI GAMES"
     },
     {
         "code": "JP6830-PPSA24988_00-0542605793551425",
         "startTime": "2026-04-07",
-        "endTime": "2026-05-04"
+        "endTime": "2026-05-04",
+        "title": "《Tomb Raider I-III Remastered Starring Lara Croft》 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0221/b10e4dff0c3c4ba38ef9a331671b156c70bdfadc32a8f5cf.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "U&I Entertainment Japan Ltd."
     },
     {
         "code": "JP6830-CUSA50320_00-0529951919416793",
         "startTime": "2026-04-07",
-        "endTime": "2026-05-04"
+        "endTime": "2026-05-04",
+        "title": "《Tomb Raider I-III Remastered Starring Lara Croft》 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0221/b10e4dff0c3c4ba38ef9a331671b156c70bdfadc32a8f5cf.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "U&I Entertainment Japan Ltd."
     },
     {
         "code": "HP0700-PPSA06567_00-SWORDARTONLINE07",
         "startTime": "2026-04-07",
-        "endTime": "2026-05-04"
+        "endTime": "2026-05-04",
+        "title": "刀劍神域 碎夢邊境 數位典藏版 (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2306/00da82c8209566333af3ce25ecb285d7d83869835b8114ad.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Bandai Namco Entertainment"
     },
     {
         "code": "HP0102-PPSA08038_00-FULLGAME00000001",
