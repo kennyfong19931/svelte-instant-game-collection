@@ -2,17 +2,37 @@
     {
         "code": "UP0006-PPSA27360_00-26STANDARDBUNDLE",
         "startTime": "2026-05-05",
-        "endTime": "2026-06-01"
+        "endTime": "2026-06-01",
+        "title": "《EA SPORTS FC™ 26》終極版 PS4 及 PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/545c2ee83dd7df16ebf1cdd6bcb039016658974439401189.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "UP4040-PPSA09518_00-WUCHANGPS5000000",
         "startTime": "2026-05-05",
-        "endTime": "2026-06-01"
+        "endTime": "2026-06-01",
+        "title": "明末：淵虛之羽 (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/5b5ed63fcd3545b5ca057f59a3fd65e83bfc82f588312894.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Justdan International Co., Ltd."
     },
     {
         "code": "JP4443-PPSA25414_00-0905368681809535",
         "startTime": "2026-05-05",
-        "endTime": "2026-06-01"
+        "endTime": "2026-06-01",
+        "title": "九日 PS4 & PS5 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1611/b3c75af796ea9931524b4c5f9500e801bb49be5664d52c17.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "RED CANDLE GAMES CO., LTD."
     },
     {
         "code": "EP4321-PPSA03641_00-0026114790873430",
