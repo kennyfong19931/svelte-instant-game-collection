@@ -1,5 +1,20 @@
 [
     {
+        "code": "UP0006-PPSA27360_00-26STANDARDBUNDLE",
+        "startTime": "2026-05-05",
+        "endTime": "2026-06-01"
+    },
+    {
+        "code": "UP4040-PPSA09518_00-WUCHANGPS5000000",
+        "startTime": "2026-05-05",
+        "endTime": "2026-06-01"
+    },
+    {
+        "code": "JP4443-PPSA25414_00-0905368681809535",
+        "startTime": "2026-05-05",
+        "endTime": "2026-06-01"
+    },
+    {
         "code": "EP4321-PPSA03641_00-0026114790873430",
         "startTime": "2026-04-07",
         "endTime": "2026-05-04",
