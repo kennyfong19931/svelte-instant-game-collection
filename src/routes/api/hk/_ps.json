@@ -1,5 +1,20 @@
 [
     {
+        "code": "UP6312-PPSA15547_00-OGUNQUIT00000000",
+        "startTime": "2026-06-02",
+        "endTime": "2026-07-06"
+    },
+    {
+        "code": "UP0283-PPSA16744_00-NALLSTARBRAWLTWO",
+        "startTime": "2026-06-02",
+        "endTime": "2026-07-06"
+    },
+    {
+        "code": "EP4122-PPSA21255_00-0888672453602469",
+        "startTime": "2026-06-02",
+        "endTime": "2026-07-06"
+    },
+    {
         "code": "UP0006-PPSA27360_00-26STANDARDBUNDLE",
         "startTime": "2026-05-05",
         "endTime": "2026-06-01",
