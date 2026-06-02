@@ -2,17 +2,37 @@
     {
         "code": "UP6312-PPSA15547_00-OGUNQUIT00000000",
         "startTime": "2026-06-02",
-        "endTime": "2026-07-06"
+        "endTime": "2026-07-06",
+        "title": "Grounded PS4® & PS5® (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1120/64a12b89992b8e34ecace3e5c7d1d39b954c2ab1d73de70a.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Microsoft Corporation"
     },
     {
         "code": "UP0283-PPSA16744_00-NALLSTARBRAWLTWO",
         "startTime": "2026-06-02",
-        "endTime": "2026-07-06"
+        "endTime": "2026-07-06",
+        "title": "Nickelodeon All-Star Brawl 2 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1614/1055968351b6dce7f43579788b031e590a3d2c62600c177e.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "GAMEMILL ENTERTAINMENT"
     },
     {
         "code": "EP4122-PPSA21255_00-0888672453602469",
         "startTime": "2026-06-02",
-        "endTime": "2026-07-06"
+        "endTime": "2026-07-06",
+        "title": "《戰鎚40K：黑潮》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1318/c955588303d70c85f6cc2d5aed46c096c4d6c4b34187d0d6.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "FATSHARK AB"
     },
     {
         "code": "UP0006-PPSA27360_00-26STANDARDBUNDLE",
