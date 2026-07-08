@@ -2,17 +2,38 @@
     {
         "code": "HP0002-PPSA24266_00-CODMW3CROSSGEN01",
         "startTime": "2026-07-07",
-        "endTime": "2026-08-03"
+        "endTime": "2026-08-03",
+        "title": "《決勝時刻®：現代戰爭® III 2023》- 跨世代組合包 (簡體中文, 韓文, 英文, 泰文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0320/1d9ccacefb98acd85541decbdfd7c15cfd291ae513be3fc9.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Activision"
     },
     {
         "code": "UP4395-PPSA23088_00-FORTHEKING200000",
         "startTime": "2026-07-07",
-        "endTime": "2026-08-03"
+        "endTime": "2026-08-03",
+        "title": "For The King II (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1911/ad09aae201d797cc0c435475c33787bde37543acbd101873.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "H2 INTERACTIVE CO., LTD."
     },
     {
         "code": "UP0895-PPSA03235_00-3376510518243321",
         "startTime": "2026-07-07",
-        "endTime": "2026-08-03"
+        "endTime": "2026-08-03",
+        "title": "CrossCode (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1809/jLA6HPdLEXZjR8zv6BiHf7l0.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Deck13 Interactive GmbH"
     },
     {
         "code": "UP6312-PPSA15547_00-OGUNQUIT00000000",
