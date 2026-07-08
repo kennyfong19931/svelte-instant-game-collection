@@ -1,5 +1,20 @@
 [
     {
+        "code": "HP0002-PPSA24266_00-CODMW3CROSSGEN01",
+        "startTime": "2026-07-07",
+        "endTime": "2026-08-03"
+    },
+    {
+        "code": "UP4395-PPSA23088_00-FORTHEKING200000",
+        "startTime": "2026-07-07",
+        "endTime": "2026-08-03"
+    },
+    {
+        "code": "UP0895-PPSA03235_00-3376510518243321",
+        "startTime": "2026-07-07",
+        "endTime": "2026-08-03"
+    },
+    {
         "code": "UP6312-PPSA15547_00-OGUNQUIT00000000",
         "startTime": "2026-06-02",
         "endTime": "2026-07-06",
