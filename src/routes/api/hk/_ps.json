@@ -2,17 +2,36 @@
     {
         "code": "UP3050-PPSA02261_00-DL2GAME0000000US",
         "startTime": "2026-08-04",
-        "endTime": "2026-08-31"
+        "endTime": "2026-08-31",
+        "title": "Dying Light 2 Stay Human: Digital Extras Edition PS5 (簡體中文, 韓文, 英文, 繁體中文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3116/28d7764d5b63480bbda55a6c368eeaebed3afb9bcff95d51.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "TECHLAND"
     },
     {
         "code": "UP3971-PPSA33764_00-WALKWALKWALKWALK",
         "startTime": "2026-08-04",
-        "endTime": "2026-08-31"
+        "endTime": "2026-08-31",
+        "title": "《Big Walk》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0421/fe1c88d7fe0aecfb99948e04096ed2e59479d65add3044e7.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Panic"
     },
     {
         "code": "UP3864-CUSA34422_00-SIGNALIS0000004A",
         "startTime": "2026-08-04",
-        "endTime": "2026-08-31"
+        "endTime": "2026-08-31",
+        "title": "SIGNALIS (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1922/a4qh6rFTIYn8HJ6hQjwoI4ZC.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Good Games Group, Inc."
     },
     {
         "code": "HP0002-PPSA24266_00-CODMW3CROSSGEN01",
