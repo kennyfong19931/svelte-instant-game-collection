@@ -1,5 +1,20 @@
 [
     {
+        "code": "UP3050-PPSA02261_00-DL2GAME0000000US",
+        "startTime": "2026-08-04",
+        "endTime": "2026-08-31"
+    },
+    {
+        "code": "UP3971-PPSA33764_00-WALKWALKWALKWALK",
+        "startTime": "2026-08-04",
+        "endTime": "2026-08-31"
+    },
+    {
+        "code": "UP3864-CUSA34422_00-SIGNALIS0000004A",
+        "startTime": "2026-08-04",
+        "endTime": "2026-08-31"
+    },
+    {
         "code": "HP0002-PPSA24266_00-CODMW3CROSSGEN01",
         "startTime": "2026-07-07",
         "endTime": "2026-08-03",
