@@ -2,22 +2,48 @@
     {
         "code": "UP4363-PPSA17232_00-SNIPERELITERES00",
         "startTime": "2026-09-01",
-        "endTime": "2026-10-05"
+        "endTime": "2026-10-05",
+        "title": "Sniper Elite: Resistance PS4™ & PS5™ (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/05d041f5216b1cd55a4587729534ce8ac8c557877b4d1483.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "REBELLION INTERACTIVE"
     },
     {
         "code": "UP9000-PPSA30630_00-MLBTHESHOW26PLUS",
         "startTime": "2026-09-01",
-        "endTime": "2026-10-05"
+        "endTime": "2026-10-05",
+        "title": "MLB® The Show™ 26 (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0816/791b0f1880e27c1d8f52187daea36abfe5fd3b0ff1144007.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Sony Interactive Entertainment"
     },
     {
         "code": "UP7742-PPSA29413_00-0632159817352246",
         "startTime": "2026-09-01",
-        "endTime": "2026-10-05"
+        "endTime": "2026-10-05",
+        "title": "Wobbly Life (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0810/iCrnQDLqgGBSnHkTFbOzQX2Q.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "H2 Interactive Co., Ltd."
     },
     {
         "code": "EP0900-CUSA29547_00-4103461541053748",
         "startTime": "2026-09-01",
-        "endTime": "2026-10-05"
+        "endTime": "2026-10-05",
+        "title": "Chained Echoes (英文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1611/6O2jAYhTUqhcJYYJeNex5oKJ.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "Deck13 Interactive GmbH"
     },
     {
         "code": "UP3050-PPSA02261_00-DL2GAME0000000US",
