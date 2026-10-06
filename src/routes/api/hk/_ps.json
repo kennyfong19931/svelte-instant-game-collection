@@ -2,17 +2,36 @@
     {
         "code": "UP0006-PPSA24662_00-F12025PS5GAME000",
         "startTime": "2026-10-06",
-        "endTime": "2026-11-02"
+        "endTime": "2026-11-02",
+        "title": "F1® 25：2026 賽季版 (簡體中文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1911/33cf861ce2f42992ff43ca6ed494963dc3a1109ab9e0bae8.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Electronic Arts Inc."
     },
     {
         "code": "EP4291-PPSA16357_00-0286411811680806",
         "startTime": "2026-10-06",
-        "endTime": "2026-11-02"
+        "endTime": "2026-11-02",
+        "title": "Hunt: Showdown 1896 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0209/7a53b60fb9c5f332d91ccfcf29d12bc769875aa8e6b8f4ed.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "CRYTEK"
     },
     {
         "code": "HP5846-PPSA19406_00-EDFWORLDBROTHER2",
         "startTime": "2026-10-06",
-        "endTime": "2026-11-02"
+        "endTime": "2026-11-02",
+        "title": "地球再次變四方！？ 數位方塊地球防衛軍2 (PS4 & PS5) (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0810/ef0cd5394923543705ecfa3b3054b734038f65a090481bf2.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "CLOUDED LEOPARD ENTERTAINMENT INC."
     },
     {
         "code": "UP4363-PPSA17232_00-SNIPERELITERES00",
