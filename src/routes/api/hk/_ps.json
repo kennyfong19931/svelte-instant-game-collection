@@ -2,22 +2,48 @@
     {
         "code": "EP4062-PPSA03099_00-DI2MAINSIEEPS500",
         "startTime": "2026-11-03",
-        "endTime": "2026-11-30"
+        "endTime": "2026-11-30",
+        "title": "Dead Island 2 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "Deep Silver"
     },
     {
         "code": "EP1875-PPSA27587_00-0678799933389573",
         "startTime": "2026-11-03",
-        "endTime": "2026-11-30"
+        "endTime": "2026-11-30",
+        "title": "《Tomb Raider IV-VI Remastered》 (簡體中文, 韓文, 英文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png?w=240&h=240",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "brand": "U&I Entertainment Japan Ltd."
     },
     {
         "code": "EP8909-PPSA25758_00-0047300101977880",
         "startTime": "2026-11-03",
-        "endTime": "2026-11-30"
+        "endTime": "2026-11-30",
+        "title": "《怪物列車 2》 (簡體中文, 韓文, 英文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png?w=240&h=240",
+        "platforms": [
+            "PS5"
+        ],
+        "brand": "Big Fan"
     },
     {
         "code": "EP0096-CUSA25165_00-0482907501575646",
         "startTime": "2026-11-03",
-        "endTime": "2026-11-30"
+        "endTime": "2026-11-30",
+        "title": "Secret Neighbor (簡體中文, 韓文, 英文, 泰文, 繁體中文, 日文)",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2314/27cd13e614b08218e52cf51718f938f8e16968bd4f041833.png?w=240&h=240",
+        "platforms": [
+            "PS4"
+        ],
+        "brand": "TINYBUILD LLC"
     },
     {
         "code": "UP0006-PPSA24662_00-F12025PS5GAME000",
